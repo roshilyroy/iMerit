@@ -1,0 +1,201 @@
+.footer769{display: none;}
+.footer{
+    padding-left: 100px;
+    padding-top: 100px;
+    padding-right: 100px;
+}
+
+#foo1.css-1633um2-MuiPaper-root{
+    
+    text-align: left !important;
+    
+}
+/*image size*/
+.fooimg{
+    width: 117px;
+    height: 38px;
+}
+/*footext1-subscribe*/
+.footext1{
+    font-size: 2.25rem;
+    font-weight: 600;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+    color: black;
+}
+/*button*/
+#subscribe.css-sghohy-MuiButtonBase-root-MuiButton-root{
+    background-color:
+    #531cb3 !important;
+    font-size: 1.3rem !important;
+}
+#linked{
+    margin-left: 20px;
+    font-size: 30px;
+    color: #000;
+}
+#iconsfoo.css-1633um2-MuiPaper-root{
+    
+    text-align: right !important;
+    
+}
+/*************************right side*******************************************/
+.foocompny{font-weight: 700;
+    font-size: 1rem;
+  
+    letter-spacing: 0;
+    text-decoration: none;
+    color: #2c2f3b;
+    text-transform: uppercase;
+    text-align: justify;
+    margin-left: 60px;
+  
+}
+.foocontact{font-weight: 700;
+    font-size: 1rem;
+   
+    letter-spacing: 0;
+    text-decoration: none;
+    color: #2c2f3b;
+    text-transform: uppercase;
+}
+.fooaboutus{
+    font-size:1rem;
+    margin: 0 0 .8rem 0;
+    letter-spacing: 0;
+    text-decoration: none;
+    color: #2c2f3b;text-align: justify;
+    margin-left: 60px;
+   
+
+}
+.fooinfo{
+    font-size:1rem;
+    margin: 0 0 .8rem 0;
+    letter-spacing: 0;
+    text-decoration: none;
+    color: #2c2f3b;text-align: justify;
+   
+
+}
+.footelast{
+    text-align: left;
+    padding-top: 50px;
+    padding-bottom: 75px;
+    color: #2c2f3b;
+    font-size: .87rem;
+}
+@media screen and (max-width:1025px) {
+    .footer{
+        padding-left: 50px;
+        padding-top: 50px;
+        padding-right: 10px;
+    }
+    /*footext1-subscribe*/
+.footext1{
+    font-size: 1.7rem;
+    font-weight: 600;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+    color: black;
+}
+#linked{
+    margin-left: 20px;
+    font-size: 20px;
+    color: #000;
+}
+    
+}
+@media screen and (max-width:769px) {.footer{display: none;}
+.footerimg426{display: none;}
+.footer769{display: block;
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 30px;}
+.footerimg769{width:69px;
+height: 23px;}
+#foo7691{text-align: left;}
+#foo7692{text-align: right;}
+.foosub769{
+    text-align: left;
+       font-size: 2rem;
+       text-transform: uppercase;
+       font-family: 'Roboto Condensed', sans-serif;
+       font-weight: 600 !important;
+       color: #000;
+}
+.fooaboutus{
+    font-size:.9rem;
+    margin: 0 0 .8rem 0;
+    letter-spacing: 0;
+    text-decoration: none;
+    color: #2c2f3b;text-align: justify;
+    margin-left: 0px;
+   
+
+}
+.foocompny{font-weight: 700;
+    font-size: 1rem;
+  padding-top: 30px;
+    letter-spacing: 0;
+    text-decoration: none;
+    color: #2c2f3b;
+    text-transform: uppercase;
+    text-align: justify;
+    margin-left: 0px;
+  
+}
+.foocontact {
+    padding-top: 30px;
+    font-weight: 700;
+    font-size: 1rem;
+    letter-spacing: 0;
+    text-decoration: none;
+    color: #2c2f3b;
+    text-align: left;
+    text-transform: uppercase;
+}
+.fooinfo {
+    font-size: .9rem;
+    margin: 0 0 .8rem 0;
+    letter-spacing: 0;
+    text-decoration: none;
+    color: #2c2f3b;
+    text-align: justify;
+}
+.divider769{
+    padding-top: 50px;
+}
+.footelast {
+    text-align: left;
+    padding-top: 30px;
+    padding-bottom: 75px;
+    color: #2c2f3b;
+    font-size: .87rem;
+}
+}
+/****************************************425px******************************************************/
+@media screen and (max-width:426px){.footerimg769{display: none;}
+.footer769 {
+    display: block;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+}
+.footerimg426{display: block;
+width: 117px;
+padding-bottom: 30px;
+}
+#foo7692 {
+    text-align: left;
+}
+.foosub769 {
+    text-align: left;
+    font-size: 1.7rem;
+    text-transform: uppercase;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 600 !important;
+    color: #000;
+}
+    
+}

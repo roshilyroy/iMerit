@@ -1,0 +1,230 @@
+body{
+    overflow-x: hidden;
+}
+/*triangle arrangments*/
+.top-triangle {
+    background-color: #fff;
+    position: absolute;
+    top: -1px;
+    left: 0;
+    width: 260px;
+    height: 260px;
+    -webkit-clip-path: polygon(0 0,0 100%,100% 0);
+    }
+
+    /*image arrangements*/
+    .football1{
+        clip-path: polygon(100% 0,100% 70%,70% 100%,0 100%);
+        transform: translate(400px, -150px);
+}
+/*adjust size of slideshow*/
+.uk-slideshow-items>* {background-color:  #e33d3b;
+    height: 606px;}
+
+/*adjust dot*/
+*+.uk-margin {
+        margin-top: 0px!important;
+        transform: translateY(-450px);
+        
+        padding-right: 55.5%;
+    
+      
+    }
+/*dot border*/
+    .uk-dotnav>*>* {border: .5px solid #fff;}
+    /*dot color*/
+    .uk-dotnav>.uk-active>* {
+        background-color: rgba(246, 244, 244, 0.6) !important;}
+        /*main writing*/
+        .criket1{
+            font-size: 2.375em;
+            transform: translateY(-700px);
+    padding-left: 300px;
+    padding-right: 500px;
+    text-align: left;
+    animation: mymove2 3s !important;
+    color: aliceblue;
+    font-weight: 500;
+
+        }
+/*Ste writing*/
+       .attribution{font-size: 1em;color: #fff;
+        text-transform: uppercase;
+        transform: translateY(-700px);
+        padding-left: 300px;
+        padding-right: 500px;
+        animation: mymove2 3s !important;
+        text-align: left;
+        }
+        @keyframes mymove2{from {transform: translate(100px,-700px);}
+to{transform: translate(0px,-700px);}}
+
+        @media screen and (max-width:1025px) {
+             /*image arrangements*/
+    .football1{
+        clip-path: polygon(100% 0,100% 70%,70% 100%,0 100%);
+        width: 660px;
+        height: 640px;
+        transform: translate(190px, 0px);
+            
+        }
+        /*main writing*/
+        .criket1 {
+            font-size: 2.375em;
+            transform: translateY(-500px);
+            padding-left: 150px;
+            padding-right: 200px;
+            text-align: left;
+            color: aliceblue;
+            font-weight: 500;
+            animation: mymove1 3s !important;
+
+        }
+        @keyframes mymove1{from {transform: translate(100px,-500px);}
+to{transform: translate(0px,-500px);}}
+        
+        .attribution {
+            font-size: 1em;
+            color: #fff;
+            text-transform: uppercase;
+            transform: translateY(-500px);
+            padding-left: 160px;
+            padding-right: 00px;
+            text-align: left;
+            animation: mymove1 3s !important;
+        }
+        *+.uk-margin {
+            margin-top: 0px!important;
+            transform: translateY(-200px);
+            padding-right: 55.5%;
+    }
+}
+
+@media screen and (max-width:769px) {
+    .criket1 {
+        font-size: 2em;
+        transform: translateY(-500px);
+        padding-left: 80px;
+        padding-right: 250px;
+        text-align: left;
+        color: aliceblue;
+        font-weight: 500;
+        animation: mymove1 3s !important;
+    }
+    .attribution {
+        font-size: 1em;
+        color: #fff;
+        text-transform: uppercase;
+        transform: translateY(-500px);
+        padding-left: 80px;
+        padding-right: 350px;
+        text-align: left;
+        animation: mymove1 3s !important;
+    }
+    *+.uk-margin {
+        margin-top: 0px!important;
+        transform: translate(-50px,-110px);
+        padding-right: 55.5%;
+}
+}
+
+
+
+
+@media screen and (max-width:426px) {
+    .top-triangle {
+        
+        width: 50px !important;
+        height: 50px !important;
+        
+    }
+    .football1 {
+        clip-path: polygon(100% 0,100% 70%,70% 100%,0 100%);
+        width: 299px !important;
+        height: 300px !important;
+        transform: translate(65px, 0px) !important;
+    }
+    .criket1 {
+        font-size: 1em;
+        transform: translateY(-280px);
+        padding-left: 30px;
+        padding-right: 100px;
+        text-align: left;
+        color: aliceblue;
+        font-weight: 500;
+        animation: mymove425sd 3s !important;
+    }
+    @keyframes  mymove425sd{from{transform: translate(100px,-280px);} to{transform: translateX(0px,-280px);}
+        
+    }
+
+    .attribution {
+        font-size: .7em;
+        color: #fff;
+        text-transform: uppercase;
+        transform: translateY(-280px);
+        padding-left: 30px;
+        padding-right: 100px;
+        text-align: left;
+        animation: mymove425sd 3s !important;
+    }
+    *+.uk-margin {
+        margin-top: 0px!important;
+        transform: translate(-25px,-80px);
+        padding-right: 55.5%;
+    }
+}
+
+@media screen and (max-width:376px) {
+    
+
+.football1 {
+    clip-path: polygon(100% 0,100% 70%,70% 100%,0 100%);
+    width: 250px !important;
+    height: 250px !important;
+    transform: translate(65px, 0px) !important;
+}
+
+.criket1 {
+    font-size: 1em;
+    transform: translateY(-230px);
+    padding-left: 30px;
+    padding-right: 100px;
+    text-align: left;
+    color: aliceblue;
+    font-weight: 500;
+    animation: mymove375sd 3s !important;
+}
+.attribution {
+    font-size: .7em;
+    color: #fff;
+    text-transform: uppercase;
+    transform: translateY(-230px);
+    padding-left: 30px;
+    padding-right: 100px;
+    text-align: left;
+    animation: mymove375d 3s !important;
+}
+
+@keyframes  mymove425sd{from{transform: translate(100px,-230px);} to{transform: translateX(0px,-230px);}
+}
+*+.uk-margin {
+    margin-top: 0px!important;
+    transform: translate(-20px,-50px);
+    padding-right: 55.5%;
+}
+}
+
+@media screen and (max-width:321px) {
+
+*+.uk-margin {
+    margin-top: 0px!important;
+    transform: translate(-1px,-30px);
+    padding-right: 55.5%;
+}
+.cardimagwomen {
+    transform: translate(100px, -50px);
+}
+}
+
+  
