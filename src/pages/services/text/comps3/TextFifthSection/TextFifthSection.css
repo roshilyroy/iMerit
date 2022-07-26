@@ -1,0 +1,923 @@
+.fifthContainerText{
+    margin-left: 100px;
+    margin-right: 20px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+h1.mainhead1Text{
+    transform: scale(1, 2.5);
+    font-size: 52px;
+    font-weight: 200;
+    line-height: .9;
+    letter-spacing: 1.5px;
+    margin-left: 200px;
+    max-width: 800px;
+}
+.cards{
+    margin-top: 150px !important;
+}
+.card1Text {
+    box-shadow: 0 4px 8px 8px rgba(0,0,0,0.2);
+    transition: 0.3s;
+     max-width: 100%;
+    height: 850px;
+    width: 380px;
+     
+  }
+  img.card1Image{
+    max-width: 100%;
+    height: 300px;
+  }
+  .card1ContainerText{
+    margin-top: 50px;
+    margin-left: 35px;
+  }
+  .card1ContainerText h1{
+    color: #531cb3;
+    font-family: 'Roboto Condensed', sans-serif;
+    transform: scale(1, 1.9);
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align: left;
+    max-width: 300px;
+    letter-spacing: .5px;
+    font-weight: 800 !important;
+    line-height: 1;
+  }
+  .card1ContainerText h4{
+    margin-top: 30px;
+    font-size: 21px;
+    text-align: left;
+    font-weight: 400;
+    max-width: 270px;
+  }
+  .card2Text {
+    box-shadow: 0 4px 8px 8px rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width:380px;
+    max-width: 100%;
+    height: 850px;
+    margin-left: 410px;
+    margin-top: -850px;
+  }
+  img.card2Image{
+    max-width: 100%;
+    height: 300px;
+  }
+  .card2ContainerText{
+    margin-top: 50px;
+    margin-left: 35px;
+  }
+  .card2ContainerText h1{
+    color: #531cb3;
+    font-family: 'Roboto Condensed', sans-serif;
+    transform: scale(1, 1.9);
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align: left;
+    max-width: 300px;
+    letter-spacing: .5px;
+    font-weight: 800;
+    line-height: 1;
+  }
+  .card2ContainerText h4{
+    margin-top: 30px;
+    font-size: 21px;
+    text-align: left;
+    font-weight: 400;
+    max-width: 280px;
+  }
+  .card3Text {
+    box-shadow: 0 4px 8px 8px rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width:380px;
+    height: 850px;
+    margin-left: 820px;
+    margin-top: -850px;
+  }
+  img.card3Image{
+    max-width: 100%;
+    height: 300px;
+  }
+  .card3ContainerText{
+    margin-top: 50px;
+    margin-left: 35px;
+  }
+  .card3ContainerText h1{
+    color: #531cb3;
+    font-family: 'Roboto Condensed', sans-serif;
+    transform: scale(1, 1.9);
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align: left;
+    max-width: 300px;
+    letter-spacing: .5px;
+    font-weight: 800;
+    line-height: 1;
+  }
+  .card3ContainerText h4{
+    margin-top: 30px;
+    font-size: 21px;
+    text-align: left;
+    font-weight: 400;
+    max-width: 280px;
+  }
+  .card4Text {
+    box-shadow: 0 4px 8px 8px rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width:380px;
+    height: 650px;
+    margin-top: 40px;
+  }
+  img.card4Image{
+    max-width: 100%;
+    height: 300px;
+  }
+  .card4Container{
+    margin-top: 50px;
+    margin-left: 35px;
+  }
+  .card4Container h1{
+    color: #531cb3;
+    font-family: 'Roboto Condensed', sans-serif;
+    transform: scale(1, 1.9);
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align: left;
+    max-width: 300px;
+    letter-spacing: .5px;
+    font-weight: 800;
+    line-height: 1;
+  }
+  .card4Container h4{
+    margin-top: 30px;
+    font-size: 21px;
+    text-align: left;
+    font-weight: 400;
+    max-width: 300px;
+  }
+  .card5Text {
+    box-shadow: 0 4px 8px 8px rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width:380px;
+    height: 650px;
+    margin-left: 410px;
+    margin-top: -650px;
+  }
+  img.card5Image{
+    width: 100%;
+    height: 300px;
+  }
+  .card5Container{
+    margin-top: 50px;
+    margin-left: 35px;
+  }
+  .card5Container h1{
+    color: #531cb3;
+    font-family: 'Roboto Condensed', sans-serif;
+    transform: scale(1, 1.9);
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align: left;
+    max-width: 300px;
+    letter-spacing: .5px;
+    font-weight: 800;
+    line-height: 1;
+  }
+  .card5Container h4{
+    margin-top: 30px;
+    font-size: 21px;
+    text-align: left;
+    font-weight: 400;
+    max-width: 310px;
+  }
+  .card6Text {
+    box-shadow: 0 4px 8px 8px rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width:380px;
+    height: 650px;
+    margin-left: 820px;
+    margin-top: -650px;
+  }
+  img.card6Image{
+    width: 100%;
+    height: 300px;
+  }
+  .card6Container{
+    margin-top: 50px;
+    margin-left: 35px;
+  }
+  .card6Container h1{
+    color: #531cb3;
+    font-family: 'Roboto Condensed', sans-serif;
+    transform: scale(1, 1.9);
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align: left;
+    max-width: 300px;
+    letter-spacing: .5px;
+    font-weight: 800;
+    line-height: 1;
+  }
+  .card6Container h4{
+    margin-top: 30px;
+    font-size: 21px;
+    text-align: left;
+    font-weight: 400;
+    max-width: 270px;
+  }
+
+
+  .card7Text {
+    box-shadow: 0 4px 8px 8px rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width:380px;
+    height: 700px;
+    margin-top: 40px;
+  }
+  img.card7Image{
+    max-width: 100%;
+    height: 300px;
+  }
+  .card7Container{
+    margin-top: 50px;
+    margin-left: 35px;
+  }
+  .card7Container h1{
+    color: #531cb3;
+    font-family: 'Roboto Condensed', sans-serif;
+    transform: scale(1, 1.9);
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align: left;
+    max-width: 300px;
+    letter-spacing: .5px;
+    font-weight: 800;
+    line-height: 1;
+  }
+  .card7Container h4{
+    margin-top: 30px;
+    font-size: 21px;
+    text-align: left;
+    font-weight: 400;
+    max-width: 270px;
+  }
+  .card8Text {
+    box-shadow: 0 4px 8px 8px rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width:380px;
+    height: 700px;
+    margin-left: 410px;
+    margin-top: -700px;
+  }
+  img.card8Image{
+    width: 100%;
+    height: 300px;
+  }
+  .card8Container{
+    margin-top: 50px;
+    margin-left: 35px;
+  }
+  .card8Container h1{
+    color: #531cb3;
+    font-family: 'Roboto Condensed', sans-serif;
+    transform: scale(1, 1.9);
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align: left;
+    max-width: 300px;
+    letter-spacing: .5px;
+    font-weight: 800;
+    line-height: 1;
+  }
+  .card8Container h4{
+    margin-top: 30px;
+    font-size: 21px;
+    text-align: left;
+    font-weight: 400;
+    max-width: 290px;
+  }
+  .card9Text {
+    box-shadow: 0 4px 8px 8px rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width:380px;
+    height: 700px;
+    margin-left: 820px;
+    margin-top: -700px;
+  }
+  img.card9Image{
+    width: 100%;
+    height: 300px;
+  }
+  .card9Container{
+    margin-top: 50px;
+    margin-left: 35px;
+  }
+  .card9Container h1{
+    color: #531cb3;
+    font-family: 'Roboto Condensed', sans-serif;
+    transform: scale(1, 1.9);
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align: left;
+    max-width: 300px;
+    letter-spacing: .5px;
+    font-weight: 800;
+    line-height: 1;
+  }
+  .card9Container h4{
+    margin-top: 30px;
+    font-size: 21px;
+    text-align: left;
+    font-weight: 400;
+    max-width: 280px;
+  } 
+
+  @media only screen and (max-width:1024px){
+    h1.mainhead1Text{
+      transform: scale(1.03, 2.5);
+      font-size: 52px;
+      margin-left: -15px;
+  
+  }
+  .card1Text {
+    min-width: 290px;
+    margin-left: -70px;
+    height: 950px;
+  }
+  .card1ContainerText h1{
+   
+    max-width: 150px ;
+   
+  }
+  .card1ContainerText h4{
+   
+    max-width: 220px ;
+   
+  }
+  .card2Text {
+    min-width:290px;
+    height: 950px;
+    margin-left: 250px;
+    margin-top: -950px;
+     
+  }
+ 
+  .card2ContainerText h4{
+     width: 210px;
+  }
+  .card3Text {
+     width:290px;
+    height: 950px;
+    margin-left: 575px;
+    margin-top: -950px;
+  }
+ 
+   
+  .card3ContainerText h4{
+     width: 215px;
+  }
+  .card4Text {
+    margin-left: -70px;
+    width:290px;
+    height: 800px;
+  }
+ 
+  .card4Container h4{
+    margin-top: 30px;
+    font-size: 21px;
+    text-align: left;
+    font-weight: 400;
+    max-width: 210px;
+  }
+  .card5Text {
+    
+    width:290px;
+    height: 800px;
+    margin-left: 255px;
+   margin-top: -800px;
+  }
+ 
+  .card5Container h1{
+ 
+     width: 150px;
+  
+  }
+  .card5Container h4{
+   
+    max-width: 210px;
+  }
+  .card6Text {
+    
+    width:290px;
+    height: 800px;
+    margin-left: 580px;
+    margin-top: -800px;
+  }
+  
+  .card6Container h4{
+    margin-top: 30px;
+    font-size: 21px;
+    text-align: left;
+    font-weight: 400;
+    max-width: 210px;
+  }
+
+  .card7Text {
+    margin-left: -70px;
+    width:290px;
+    height: 800px;
+  }
+ 
+  .card7Container h4{
+    margin-top: 30px;
+    font-size: 21px;
+    text-align: left;
+    font-weight: 400;
+    max-width: 200px;
+  }
+  .card8Text {
+    
+    width:290px;
+    height: 800px;
+    margin-left: 255px;
+   margin-top: -800px;
+  }
+ 
+  .card8Container h1{
+ 
+     width: 150px;
+  
+  }
+  .card8Container h4{
+   
+    max-width: 210px;
+  }
+  .card9Text {
+    
+    width:290px;
+    height: 800px;
+    margin-left: 580px;
+    margin-top: -800px;
+  }
+  
+  .card9Container h4{
+    margin-top: 30px;
+    font-size: 21px;
+    text-align: left;
+    font-weight: 400;
+    max-width: 210px;
+  }
+  }
+
+  
+  @media only screen and (max-width:768px){
+    .fifthContainerText{
+      padding-top: 60px;
+    
+  }
+    h1.mainhead1Text{
+      transform: scale(1.03, 2.5);
+      font-size: 37px;
+      margin-left: -85px;
+  
+  }
+  .card1Text {
+    min-width: 310px;
+    margin-left: -55px;
+    height: 880px;
+    
+  }
+  .card1ContainerText h1{
+    transform: scale(1.1, 1.9);
+    max-width: 200px;
+   margin-left: 10px;
+  }
+  .card1ContainerText h4{
+    max-width: 230px;
+  }
+  .card2Text {
+    min-width:310px;
+   height: 880px;
+    margin-left: 290px;
+  margin-top: -880px !important;
+     
+  }
+  .card2ContainerText h1{
+    transform: scale(1.1, 1.9);
+    max-width: 200px;
+   margin-left: 10px;
+  }
+ 
+  .card2ContainerText h4{
+     width: 230px;
+  }
+  .card3Text {
+    width:310px;
+   margin-left: -55px;
+   margin-top:35px;
+   height: 650px;
+ }
+ .card3ContainerText h1{
+  transform: scale(1.1, 1.9);
+  max-width: 200px;
+ margin-left: 10px;
+}
+  
+ .card3ContainerText h4{
+    width: 240px;
+ }
+ .card4Text {
+    margin-top: -650px;
+   width:310px;
+   margin-left: 290px;
+   height: 650px;
+ }
+ .card4Container h1{
+  transform: scale(1.1, 1.9);
+  max-width: 200px;
+ margin-left: 10px;
+}
+
+ .card4Container h4{
+   max-width: 240px;
+ }
+ .card5Text {
+   margin-top: 40px;
+   width:310px;
+   margin-left: -55px;
+   height: 750px;
+ }
+
+ .card5Container h1{
+
+  transform: scale(1.1, 1.9);
+  max-width: 200px;
+ margin-left: 10px;
+ 
+ }
+ .card5Container h4{
+  
+   max-width: 240px;
+ }
+ .card6Text {
+   margin-top: -750px;
+   width:310px; 
+   margin-left: 290px;
+   height: 750px;
+ }
+ .card6Container h1{
+
+  transform: scale(1.1, 1.9);
+  max-width: 200px;
+ margin-left: 10px;
+ 
+ }
+ 
+ .card6Container h4{
+   max-width: 235px;
+ }
+
+
+ .card7Text {
+    margin-top: 40px;
+   width:310px;
+   margin-left: -55px;
+   height: 750px;
+ }
+ .card7Container h1{
+  transform: scale(1.1, 1.9);
+  max-width: 200px;
+ margin-left: 10px;
+}
+
+ .card7Container h4{
+   max-width: 240px;
+ }
+ .card8Text {
+    height: 750px;
+   width:310px;
+   margin-left: 295px;
+  margin-top: -750px;
+ }
+
+ .card8Container h1{
+
+  transform: scale(1.1, 1.9);
+  max-width: 200px;
+ margin-left: 10px;
+ 
+ }
+ .card8Container h4{
+  
+   max-width: 230px;
+ }
+ .card9Text {
+   margin-top: 40px;
+   width:310px; 
+   margin-left: 115px;
+   height: 650px;
+ }
+ .card9Container h1{
+
+  transform: scale(1.1, 1.9);
+  max-width: 200px;
+ margin-left: 10px;
+ 
+ }
+ 
+ .card9Container h4{
+   max-width: 230px;
+ }
+  }
+
+  @media only screen and (max-width:450px){
+    .fifthContainerText{
+      padding-top: 120px;   
+  }
+    h1.mainhead1Text{
+      transform: scale(1.03, 2.3); 
+      margin-left: -75px;
+      max-width: 350px;
+  }
+  .card1Text {
+    min-width: 365px;
+    margin-left: -80px;
+    height: 650px;
+  } 
+  .card1ContainerText h4{
+    max-width: 280px;
+  }
+  .card2Text {
+    min-width:365px;
+   margin-top: 35px !important;
+    margin-left: -80px;
+    height: 800px;   
+  } 
+ 
+  .card2ContainerText h4{
+     width: 280px;
+  }
+  .card3Text {
+    width:365px;
+   margin-left: -80px;
+   margin-top:35px;
+   height: 570px; 
+ } 
+ .card3ContainerText h4{
+    min-width: 300px !important;
+ }
+ .card4Text {
+    margin-top: 35px;
+   width:365px;
+   margin-left: -80px;
+   height: 650px;
+ } 
+ .card4Container h4{
+   max-width: 285px;
+ }
+ .card5Text {
+  margin-top: 35px;
+   width:365px;
+   margin-left: -80px;
+   height: 650px;
+ } 
+ .card5Container h4{
+   max-width: 280px;
+ }
+ .card6Text {
+   margin-top: 35px;
+   width:365px; 
+   margin-left: -80px;
+   height: 650px;
+ } 
+ .card6Container h4{
+   max-width: 285px;
+ }
+
+ .card7Text {
+    margin-top: 35px;
+   width:365px;
+   margin-left: -80px;
+   height: 690px;
+ } 
+ .card7Container h4{
+   max-width: 285px;
+ }
+ .card8Text {
+  margin-top: 35px;
+   width:365px;
+   margin-left: -80px;
+   height: 650px;
+ } 
+ .card8Container h4{
+   max-width: 280px;
+ }
+ .card9Text {
+   margin-top: 35px;
+   width:365px; 
+   margin-left: -80px;
+   height: 600px;
+ } 
+ .card9Container h4{
+   max-width: 290px;
+ }
+  }
+
+  @media only screen and (max-width:380px){
+    .card1Text {
+      min-width: 315px;
+      margin-left: -80px;
+      height: 680px;
+    } 
+    .card1ContainerText h4{
+      max-width: 235px;
+    }
+    .card2Text {
+      min-width:315px; 
+      margin-left: -80px;
+      height: 850px;   
+    } 
+   
+    .card2ContainerText h4{
+       width: 235px;
+    }
+    .card3Text {
+      width:315px;
+     margin-left: -80px; 
+     height: 650px !important; 
+   } 
+   .card3ContainerText h4{
+      min-width: 150px !important;
+   }
+   .card4Text { 
+     width:315px;
+     margin-left: -80px;
+     height: 680px;
+   } 
+   .card4Container h4{
+     max-width: 240px;
+   }
+   .card5Text { 
+     width:315px;
+     margin-left: -80px;
+     height: 720px;
+   } 
+   .card5Container h4{
+     max-width: 235px;
+   }
+   .card6Text { 
+     width:315px; 
+     margin-left: -80px;
+     height: 680px;
+   } 
+   .card6Container h4{
+     max-width: 235px;
+   }
+   .card7Text { 
+    width:315px;
+    margin-left: -80px;
+    height: 750px;
+  } 
+  .card7Container h4{
+    max-width: 240px;
+  }
+  .card8Text { 
+    width:315px;
+    margin-left: -80px;
+    height: 730px;
+  } 
+  .card8Container h4{
+    max-width: 235px;
+  }
+  .card9Text { 
+    width:315px; 
+    margin-left: -80px;
+    height: 680px;
+  } 
+  .card9Container h4{
+    max-width: 235px;
+  }
+  }
+
+  @media only screen and (max-width:320px){
+    .fifthContainerText{
+      padding-top: 90px; 
+  }
+    h1.mainhead1Text{
+      transform: scale(1.03, 2);  
+  }
+  .card1Text {
+    min-width: 260px;
+    margin-left: -80px;
+    height: 800px !important;
+  } 
+  .card1ContainerText h1{ 
+    max-width: 160px;
+   margin-left: 0px;
+   font-size: 13.5px;
+  }
+  .card1ContainerText h4{
+    max-width: 170px; 
+    margin-left: -10px;
+  }
+  .card2Text {
+    min-width: 260px;
+    margin-left: -80px;
+    height: 1050px !important;  
+  } 
+  .card2ContainerText h1{ 
+    max-width: 160px; 
+   font-size: 13.5px;
+  }
+ 
+  .card2ContainerText h4{
+    max-width: 170px;  
+  }
+  .card3Text {
+    width: 260px;
+    margin-left: -80px;
+    height: 780px; 
+ } 
+ .card3ContainerText h1{ 
+  max-width: 160px; 
+ font-size: 13.5px;
+}
+ .card3ContainerText h4{
+  max-width: 170px;  
+ }
+ .card4Text { 
+  width: 260px;
+    margin-left: -80px;
+    height: 780px; 
+ } 
+ .card4Container h1{ 
+  max-width: 160px; 
+ font-size: 13.5px;
+}
+ .card4Container h4{
+  max-width: 170px;  
+ }
+ .card5Text { 
+  width: 260px;
+  margin-left: -80px;
+  height: 790px; 
+ } 
+ .card5Container h1{ 
+  max-width: 160px; 
+ font-size: 13.5px;
+}
+ .card5Container h4{
+  max-width: 170px; 
+ }
+ .card6Text { 
+  width: 260px;
+  margin-left: -80px;
+  height: 800px; 
+ } 
+ .card6Container h1{ 
+  max-width: 160px; 
+ font-size: 13.5px;
+}
+ .card6Container h4{
+  max-width: 170px;
+ }
+
+
+ .card7Text { 
+    width: 260px;
+      margin-left: -80px;
+      height: 820px; 
+   } 
+   .card7Container h1{ 
+    max-width: 160px; 
+   font-size: 13.5px;
+  }
+   .card7Container h4{
+    max-width: 170px;  
+   }
+   .card8Text { 
+    width: 260px;
+    margin-left: -80px;
+    height: 790px; 
+   } 
+   .card8Container h1{ 
+    max-width: 160px; 
+   font-size: 13.5px;
+  }
+   .card5Container h4{
+    max-width: 170px; 
+   }
+   .card9Text { 
+    width: 260px;
+    margin-left: -80px;
+    height: 700px; 
+   } 
+   .card9Container h1{ 
+    max-width: 160px; 
+   font-size: 13.5px;
+  }
+   .card9Container h4{
+    max-width: 170px;
+   }
+  }

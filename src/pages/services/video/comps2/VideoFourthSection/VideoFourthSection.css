@@ -1,0 +1,1165 @@
+.fourthContainer{
+    background-color: #f8f8f9;
+    margin-top: 100px;
+    height: auto;
+    padding-bottom: 100px;
+}
+.sec7{
+    padding-top: 150px;
+    text-align: left;
+    margin-left: 40px;
+}
+h1.annot{
+    font-size: 60px;
+    transform: scale(1, 1.8);
+    max-width: 2000px;
+    line-height: .9;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.sec7 span.process{
+    color: #e33d3b;
+    font-size: 130px;
+    transform: scale(1.5, 2.5) !important;
+}
+.sec7 p{
+    margin-top: -50px !important;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.steps{
+    margin-top: 100px;
+}
+.step1{
+    margin-left: 320px;
+    transition: 1s ease-out;
+    
+}
+.circle1{
+   background-image: linear-gradient(180deg,#eef1a2 0,#a3f1c5 99%);
+   width: 150px;
+   height: 150px;
+   border-radius: 50%;
+ 
+}
+.circle1hover{
+  width: 175px;
+  height: 165px;
+  border-radius: 50%;
+  background-color: #f8f8f9;
+  margin-top: -170px;
+  margin-left: 1px;
+  display: none;
+}
+.circle1 a{
+   text-decoration: none;
+   font-size: 30px;
+   color: black;
+   font-weight: 1000;
+   margin-top: 65px;
+   position: absolute;
+}
+.circle1 a:hover{
+   color: black;
+ }
+.step1:hover .circle1,.step1:hover h1.caption1,.step1:hover p.captpara1{
+   zoom:110%;
+   
+}
+.step1:hover .circle1{
+   width: 160px;
+   height: 160px;
+     
+}
+ 
+.step1:hover .circle1hover{
+   display: block;
+}
+ 
+
+ h1.caption1{
+    font-size: 22px;
+    color: #e33d3b;
+    text-align: left;
+    margin-left: 180px;
+    margin-top: -140px;
+    font-weight:  700;
+    transform: scale(1, 2);
+ }
+ p.captpara1{
+    font-size: 16px;
+    font-weight: 700  ;
+    max-width: 430px;
+    margin-left: 180px;
+    margin-top: 20px;
+    text-align: left;
+    font-family: sans-serif;
+ }
+ .step1::after{
+    content: '';
+    display: block;
+    width: 135px;
+    height: 86px;
+    background-image: url(https://imerit.net/wp-content/themes/imerit/images/connector-line-left.png);
+    background-size: cover;
+    position: absolute;
+   margin-left: 145px;
+  margin-top: 20px;
+ }
+ .step2{
+    margin-left: 585px;
+    margin-top: 85px;
+    
+}
+.circle2{
+    background-image: linear-gradient(180deg,#eef1a2 0,#a3f1c5 99%);
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+ .circle2 a{
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+    font-weight: 1000;
+    margin-top: 65px;
+    position: absolute;
+
+ }
+ .circle2 a:hover{
+   color: black;
+ }
+ .circle2hover{
+   width: 175px;
+   height: 165px;
+   border-radius: 50%;
+   background-color: #f8f8f9;
+   margin-top: -170px;
+   margin-left: 1px;
+   display: none;
+ }
+ .step2:hover .circle2,.step2:hover .caption2,.step2:hover .captpara2{
+   zoom:110%;
+}
+.step2:hover .circle2{
+   width: 160px;
+   height: 160px;
+    
+}
+.step2:hover .circle2hover{
+   display: block;
+}
+ h1.caption2{
+    font-size: 22px;
+    color: #e33d3b;
+    margin-left: 180px;
+    margin-top: -130px;
+    font-weight:  800;
+    text-align: left;
+    transform: scale(1, 2);
+ }
+ p.captpara2{
+    font-size: 16px;
+    font-weight: 700 ;
+    max-width: 430px;
+    margin-left: 180px;
+    margin-top: 20px;
+    text-align: left;
+    font-family: sans-serif;
+ }
+ .step2::after{
+    content: '';
+    display: block;
+    width: 135px;
+    height: 86px;
+    background-image: url(https://imerit.net/wp-content/themes/imerit/images/connector-line-right.png);
+    background-size: cover;
+    position: absolute;
+   margin-left: -130px;
+  margin-top: 0px;
+ }
+ .step3{
+    margin-left: 320px;
+    margin-top: 80px;
+}
+.circle3{
+    background-image: linear-gradient(180deg,#eef1a2 0,#a3f1c5 99%);
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+ .circle3 a{
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+    font-weight: 1000;
+    margin-top: 65px;
+    position: absolute;
+
+ }
+ .circle3 a:hover{
+   color: black;
+ }
+ .circle3hover{
+   width: 175px;
+   height: 165px;
+   border-radius: 50%;
+   background-color: #f8f8f9;
+   margin-top: -170px;
+   margin-left: 1px;
+   display: none;
+ }
+ .step3:hover .circle3,.step3:hover .caption3,.step3:hover .captpara3{
+   zoom:110%;
+}
+.step3:hover .circle3{
+   width: 160px;
+   height: 160px;
+    
+}
+.step3:hover .circle3hover{
+   display: block;
+}
+ h1.caption3{
+    font-size: 22px;
+    color: #e33d3b;
+    text-align: left;
+    margin-top: -130px;
+    font-weight:  800;
+    transform: scale(1, 2);
+    margin-left: 180px;
+ }
+ p.captpara3{
+    font-size: 16px;
+    font-weight: 700;
+    max-width: 430px;
+    margin-left: 180px;
+    margin-top: 20px;
+    text-align: left;
+    font-family: sans-serif;
+    
+ }
+ .step3::after{
+    content: '';
+    display: block;
+    width: 135px;
+    height: 86px;
+    background-image: url(https://imerit.net/wp-content/themes/imerit/images/connector-line-left.png);
+    background-size: cover;
+    position: absolute;
+   margin-left: 135px;
+  margin-top: 0px;
+ }
+ .step4{
+    margin-left: 585px;
+    margin-top: 65px;
+    
+}
+.circle4{
+    background-image: linear-gradient(180deg,#eef1a2 0,#a3f1c5 99%);
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+ .circle4 a{
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+    font-weight: 1000;
+    margin-top: 65px;
+    position: absolute;
+
+ }
+ .circle4 a:hover{
+   color: black;
+ }
+ .circle4hover{
+   width: 175px;
+   height: 165px;
+   border-radius: 50%;
+   background-color: #f8f8f9;
+   margin-top: -170px;
+   margin-left: 1px;
+   display: none;
+ }
+ .step4:hover .circle4,.step4:hover .caption4,.step4:hover .captpara4{
+   zoom:110%;
+}
+.step4:hover .circle4{
+   width: 160px;
+   height: 160px;
+    
+}
+.step4:hover .circle4hover{
+   display: block;
+}
+ h1.caption4{
+    font-size: 22px;
+    color: #e33d3b;
+    margin-left: 180px;
+    margin-top: -130px;
+    font-weight:  800;
+    transform: scale(1, 2);
+    text-align: left;
+ }
+ p.captpara4{
+    font-size: 16px;
+    font-weight: 700;
+    max-width: 430px;
+    margin-left: 180px;
+    margin-top: 20px;
+    text-align: left;
+    font-family: sans-serif;
+    
+ }
+ .step4::after{
+    content: '';
+    display: block;
+    width: 135px;
+    height: 86px;
+    background-image: url(https://imerit.net/wp-content/themes/imerit/images/connector-line-right.png);
+    background-size: cover;
+    position: absolute;
+   margin-left: -130px;
+  margin-top: 0px;
+ }
+ .step5{
+    margin-left: 320px;
+    margin-top: 80px;
+}
+.circle5{
+    background-image: linear-gradient(180deg,#eef1a2 0,#a3f1c5 99%);
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+ .circle5 a{
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+    font-weight: 1000;
+    margin-top: 65px;
+    position: absolute;
+
+ }
+ .circle5 a:hover{
+   color: black;
+ }
+ .circle5hover{
+   width: 175px;
+   height: 165px;
+   border-radius: 50%;
+   background-color: #f8f8f9;
+   margin-top: -170px;
+   margin-left: 1px;
+   display: none;
+ }
+ .step5:hover .circle5,.step5:hover .caption5,.step5:hover .captpara5{
+   zoom:110%;
+}
+.step5:hover .circle5{
+   width: 160px;
+   height: 160px;
+    
+}
+.step5:hover .circle5hover{
+   display: block;
+}
+ h1.caption5{
+    font-size: 22px;
+    color: #e33d3b;
+    margin-left: 180px;
+    margin-top: -130px;
+    font-weight:  800;
+    transform: scale(1, 2);
+    text-align: left;
+ }
+ p.captpara5{
+    font-size: 16px;
+    font-weight: 700;
+    max-width: 430px;
+    margin-left: 180px;
+    margin-top: 20px;
+    text-align: left;
+    font-family: sans-serif;
+    
+ }
+ .step5::after{
+    content: '';
+    display: block;
+    width: 135px;
+    height: 86px;
+    background-image: url(https://imerit.net/wp-content/themes/imerit/images/connector-line-left.png);
+    background-size: cover;
+    position: absolute;
+   margin-left: 135px;
+  margin-top: 0px;
+ }
+ .step6{
+    margin-left: 585px;
+    margin-top: 65px;
+    
+}
+.circle6{
+    background-image: linear-gradient(180deg,#eef1a2 0,#a3f1c5 99%);
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+ .circle6 a{
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    font-weight: 800;
+    margin-left:-95px;
+    max-width: 200px;
+    margin-top: 45px;
+    position: absolute;
+    text-align: center;
+    line-height: 1.5;
+    font-family: 'Roboto Condensed', sans-serif;
+ }
+ .circle6 a:hover{
+   color: black;
+ }
+ .circle6hover{
+   width: 165px;
+   height: 165px;
+   border-radius: 50%;
+   background-color: #f8f8f9;
+   margin-top: -170px;
+   margin-left: 5px;
+   display: none;
+ }
+ .step6:hover .circle6,.step6:hover .caption6,.step6:hover .captpara6{
+   zoom:110%;
+}
+.step6:hover .circle6{
+   width: 160px;
+   height: 160px;
+    
+}
+.step6:hover .circle6hover{
+   display: block;
+}
+
+
+
+.stepss{
+   margin-top: 80px;
+   margin-left: 250px;
+}
+.step7{
+  
+   transition: 1s ease-out;
+   
+}
+.circle7{
+  background-image: linear-gradient(180deg,#eef1a2 0,#a3f1c5 99%);
+  width: 170px;
+  height: 170px;
+  border-radius: 50%;
+
+}
+.circle7hover{
+ width: 180px;
+ height: 180px;
+ border-radius: 50%;
+ background-color: #f8f8f9;
+ margin-top: -188px;
+ margin-left: 10px;
+ display: none;
+}
+.circle7 a{
+  text-decoration: none;
+  font-size: 30px;
+  color: black;
+  font-weight: 1000;
+  margin-top: 70px;
+  position: absolute;
+  margin-left: -10px;
+
+}
+.circle7 a:hover{
+  color: black;
+}
+.step7:hover .circle7,.step7:hover h1.caption7,.step7:hover p.captpara7{
+  zoom:110%;
+  
+}
+.step7:hover .circle7{
+  width: 180px;
+  height: 180px;
+    
+}
+
+.step7:hover .circle7hover{
+  display: block;
+}
+
+
+h1.caption7{
+   font-size: 14px;
+   color: #e33d3b;
+   text-align: left;
+   margin-left: 15px;
+   margin-top: 25px;
+   font-weight:  700;
+   transform: scale(1, 2);
+}
+p.captpara7{
+   font-size: 13px;
+   font-weight: 700  ;
+   max-width: 630px;
+   margin-left: -210px;
+   text-align: center;
+   font-family: sans-serif;
+}
+.step8{
+  margin-top: 50px;
+   transition: 1s ease-out;
+   
+}
+.circle8{
+  background-image: linear-gradient(180deg,#eef1a2 0,#a3f1c5 99%);
+  width: 170px;
+  height: 170px;
+  border-radius: 50%;
+
+}
+.circle8hover{
+ width: 180px;
+ height: 180px;
+ border-radius: 50%;
+ background-color: #f8f8f9;
+ margin-top: -188px;
+ margin-left: 10px;
+ display: none;
+}
+.circle8 a{
+  text-decoration: none;
+  font-size: 30px;
+  color: black;
+  font-weight: 1000;
+  margin-top: 70px;
+  position: absolute;
+  margin-left: -10px;
+
+}
+.circle8 a:hover{
+  color: black;
+}
+.step8:hover .circle8,.step8:hover h1.caption8,.step8:hover p.captpara8{
+  zoom:110%;
+  
+}
+.step8:hover .circle8{
+  width: 180px;
+  height: 180px;
+    
+}
+
+.step8:hover .circle8hover{
+  display: block;
+}
+
+
+h1.caption8{
+   font-size: 14px;
+   color: #e33d3b;
+   text-align: left;
+   margin-left: 65px;
+   margin-top: 25px;
+   font-weight:  700;
+   transform: scale(1, 2);
+}
+p.captpara8{
+   font-size: 13px;
+   font-weight: 700  ;
+   max-width: 630px;
+   margin-left: -210px;
+   text-align: center;
+   font-family: sans-serif;
+}
+.step9{
+   margin-top: 50px;
+    transition: 1s ease-out;
+    
+ }
+ .circle9{
+   background-image: linear-gradient(180deg,#eef1a2 0,#a3f1c5 99%);
+   width: 170px;
+   height: 170px;
+   border-radius: 50%;
+ 
+ }
+ .circle9hover{
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  background-color: #f8f8f9;
+  margin-top: -188px;
+  margin-left: 10px;
+  display: none;
+ }
+ .circle9 a{
+   text-decoration: none;
+   font-size: 30px;
+   color: black;
+   font-weight: 1000;
+   margin-top: 70px;
+   position: absolute;
+   margin-left: -10px;
+ 
+ }
+ .circle9 a:hover{
+   color: black;
+ }
+ .step9:hover .circle9,.step9:hover h1.caption9,.step9:hover p.captpara9{
+   zoom:110%;
+   
+ }
+ .step9:hover .circle9{
+   width: 180px;
+   height: 180px;
+     
+ }
+ 
+ .step9:hover .circle9hover{
+   display: block;
+ }
+ 
+ 
+ h1.caption9{
+    font-size: 14px;
+    color: #e33d3b;
+    text-align: left;
+    margin-left: 0px;
+    margin-top: 25px;
+    font-weight:  700;
+    transform: scale(1, 2);
+ }
+ p.captpara9{
+    font-size: 13px;
+    font-weight: 700  ;
+    max-width: 630px;
+    margin-left: -210px;
+    text-align: center;
+    font-family: sans-serif;
+ }
+ .step10{
+   margin-top: 50px;
+    transition: 1s ease-out;
+    
+ }
+ .circle10{
+   background-image: linear-gradient(180deg,#eef1a2 0,#a3f1c5 99%);
+   width: 170px;
+   height: 170px;
+   border-radius: 50%;
+ 
+ }
+ .circle10hover{
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  background-color: #f8f8f9;
+  margin-top: -188px;
+  margin-left: 10px;
+  display: none;
+ }
+ .circle10 a{
+   text-decoration: none;
+   font-size: 30px;
+   color: black;
+   font-weight: 1000;
+   margin-top: 70px;
+   position: absolute;
+   margin-left: -10px;
+ 
+ }
+ .circle10 a:hover{
+   color: black;
+ }
+ .step10:hover .circle10,.step10:hover h1.caption10,.step10:hover p.captpara10{
+   zoom:110%;
+   
+ }
+ .step10:hover .circle10{
+   width: 180px;
+   height: 180px;
+     
+ }
+ 
+ .step10:hover .circle10hover{
+   display: block;
+ }
+ 
+ 
+ h1.caption10{
+    font-size: 14px;
+    color: #e33d3b;
+    text-align: left;
+    margin-left: 40px;
+    margin-top: 25px;
+    font-weight:  700;
+    transform: scale(1, 2);
+ }
+ p.captpara10{
+    font-size: 13px;
+    font-weight: 700  ;
+    max-width: 630px;
+    margin-left: -210px;
+    text-align: center;
+    font-family: sans-serif;
+ }
+ .step11{
+   margin-top: 50px;
+    transition: 1s ease-out;
+    
+ }
+ .circle11{
+   background-image: linear-gradient(180deg,#eef1a2 0,#a3f1c5 99%);
+   width: 170px;
+   height: 170px;
+   border-radius: 50%;
+ 
+ }
+ .circle11hover{
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  background-color: #f8f8f9;
+  margin-top: -188px;
+  margin-left: 10px;
+  display: none;
+ }
+ .circle11 a{
+   text-decoration: none;
+   font-size: 30px;
+   color: black;
+   font-weight: 1000;
+   margin-top: 70px;
+   position: absolute;
+   margin-left: -10px;
+ 
+ }
+ .circle11 a:hover{
+   color: black;
+ }
+ .step11:hover .circle11,.step11:hover h1.caption11,.step11:hover p.captpara11{
+   zoom:110%;
+   
+ }
+ .step11:hover .circle11{
+   width: 180px;
+   height: 180px;
+     
+ }
+ 
+ .step11:hover .circle11hover{
+   display: block;
+ }
+ 
+ 
+ h1.caption11{
+    font-size: 14px;
+    color: #e33d3b;
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 25px;
+    font-weight:  700;
+    transform: scale(1, 2);
+ }
+ p.captpara11{
+    font-size: 13px;
+    font-weight: 700  ;
+    max-width: 630px;
+    margin-left: -210px;
+    text-align: center;
+    font-family: sans-serif;
+ }
+ .step12{
+   margin-top: 50px;
+    transition: 1s ease-out;
+    
+ }
+ .circle12{
+   background-image: linear-gradient(180deg,#eef1a2 0,#a3f1c5 99%);
+   width: 170px;
+   height: 170px;
+   border-radius: 50%;
+ 
+ }
+ .circle12hover{
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  background-color: #f8f8f9;
+  margin-top: -188px;
+  margin-left: 10px;
+  display: none;
+ }
+ .circle12 a{
+   text-decoration: none;
+   font-size: 25px;
+   color: black;
+   font-weight: 800;
+   margin-top: 50px;
+   position: absolute;
+   margin-left: -70px;
+   max-width: 150px;
+   line-height: 1.5;
+    
+ 
+ }
+ .circle12 a:hover{
+   color: black;
+ }
+ .step12:hover .circle12 {
+   zoom:110%;
+   
+ }
+ .step12:hover .circle12{
+   width: 180px;
+   height: 180px;
+     
+ }
+ 
+ .step12:hover .circle12hover{
+   display: block;
+ }
+ 
+ 
+
+
+@media only screen and (max-width:1024px){
+   .sec7{
+      margin-left: 0 ;
+   }
+   h1.annot{
+      font-size: 60px;
+      transform: scale(1, 1.8);
+       width: 500px;
+      line-height: .9;
+      font-family: 'Roboto Condensed', sans-serif;
+  }
+  .steps{
+   margin-left: -165px;
+}
+p.captpara2{
+    width: 450px;
+}
+.step2::after{
+ margin-top: -5px;
+  
+}
+p.captpara4{
+   width: 450px;  
+}
+.step4::after{
+   content: '';
+   display: block;
+   width: 135px;
+   height: 86px;
+   background-image: url(https://imerit.net/wp-content/themes/imerit/images/connector-line-right.png);
+   background-size: cover;
+   position: absolute;
+  margin-left: -130px;
+ margin-top: 0px;
+}
+ 
+}
+@media only screen and (max-width:768px){
+   .sec7{
+      margin-left: 17px;
+   }
+   h1.annot{
+      font-size: 50px;
+   
+ 
+  }
+  .sec7 span.process{
+  
+   font-size: 105px;
+   
+}
+.sec7 p{
+   font-size: 16.5px;
+   width: 650px;
+}
+.fourthContainer{
+   padding-bottom: 150px;
+}
+}
+
+
+@media only screen and (max-width:990px){
+   .orig1{
+      display: none;
+   }
+   .dup{
+      display: block;
+   }
+   
+}
+
+ @media only screen and (min-width:991px){
+  .dup1{
+   display: none;
+  }
+  .orig1{
+   display: block;
+}
+ }
+
+ @media only screen and (max-width:450px){
+   .sec7{
+      margin-left: 20px ;
+   }
+   h1.annot{
+      font-size: 45px;
+       width: 350px;
+      line-height: .8; 
+  }
+  .sec7 span.process{
+  font-weight: 500;
+   font-size: 100px;
+   
+}
+.sec7 p{
+   font-size: 16px;
+   width: 350px;
+}
+
+
+.stepss{
+   margin-top: 60px;
+   margin-left: 120px;
+}
+h1.caption7{
+   font-size: 13px;   
+   margin-top: 20px;
+}
+p.captpara7{
+   font-size: 12.5px; 
+   width: 450px;
+   margin-left: -142px;
+}
+h1.caption8{
+   font-size: 13px;   
+   margin-top: 20px;
+   margin-left: 60px;
+}
+p.captpara8{
+   font-size: 12.5px; 
+   width: 450px;
+   margin-left: -142px;
+}
+h1.caption9{
+   font-size: 13px;   
+   margin-top: 20px; 
+ }
+ p.captpara9{
+   font-size: 12.5px; 
+   width: 450px;
+   margin-left: -142px;
+ }
+ h1.caption10{
+   font-size: 13px;   
+   margin-top: 20px;
+   margin-left: 35px; 
+ }
+ p.captpara10{
+   font-size: 12.5px; 
+   width: 450px;
+   margin-left: -142px;
+ }
+ h1.caption11{
+   font-size: 13px;   
+   margin-top: 20px; 
+ }
+ p.captpara11{
+   font-size: 12.5px; 
+   width: 450px;
+   margin-left: -142px;
+ }
+ .step12{
+   margin-top: 50px;
+    transition: 1s ease-out;
+    
+ }
+ .circle12{
+   background-image: linear-gradient(180deg,#eef1a2 0,#a3f1c5 99%);
+   width: 170px;
+   height: 170px;
+   border-radius: 50%;
+ 
+ }
+ .circle12hover{
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  background-color: #f8f8f9;
+  margin-top: -188px;
+  margin-left: 10px;
+  display: none;
+ }
+ .circle12 a{
+   text-decoration: none;
+   font-size: 25px;
+   color: black;
+   font-weight: 800;
+   margin-top: 50px;
+   position: absolute;
+   margin-left: -70px;
+   max-width: 150px;
+   line-height: 1.5;
+    
+ 
+ }
+ .circle12 a:hover{
+   color: black;
+ }
+ .step12:hover .circle12 {
+   zoom:110%;
+   
+ }
+ .step12:hover .circle12{
+   width: 180px;
+   height: 180px;
+     
+ }
+ 
+ .step12:hover .circle12hover{
+   display: block;
+ }
+ }
+
+ @media only screen and (max-width:380px){
+   .sec7{
+      margin-left: 20px ;
+   }
+   h1.annot{
+      font-size: 42px;
+       width: 300px; 
+  }
+  .sec7 span.process{ 
+   font-size: 90px;
+   
+}  
+.stepss{ 
+   margin-left: 90px;
+} 
+p.captpara7{ 
+   width: 370px;
+   margin-left: -100px;
+} 
+p.captpara8{ 
+   width: 370px;
+   margin-left: -100px;
+} 
+ p.captpara9{
+   font-size: 12.5px; 
+   width:365px;
+   margin-left: -95px;
+ } 
+ p.captpara10{
+   font-size: 12.5px; 
+   width: 370px;
+   margin-left: -100px;
+ } 
+ p.captpara11{
+   font-size: 12.5px; 
+   width: 370px;
+   margin-left: -100px;
+ }
+ .step12{
+   margin-top: 50px;
+    transition: 1s ease-out;
+    
+ }
+ .circle12{
+   background-image: linear-gradient(180deg,#eef1a2 0,#a3f1c5 99%);
+   width: 170px;
+   height: 170px;
+   border-radius: 50%;
+ 
+ }
+ .circle12hover{
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  background-color: #f8f8f9;
+  margin-top: -188px;
+  margin-left: 10px;
+  display: none;
+ }
+ .circle12 a{
+   text-decoration: none;
+   font-size: 25px;
+   color: black;
+   font-weight: 800;
+   margin-top: 50px;
+   position: absolute;
+   margin-left: -70px;
+   max-width: 150px;
+   line-height: 1.5;
+    
+ 
+ }
+ .circle12 a:hover{
+   color: black;
+ }
+ .step12:hover .circle12 {
+   zoom:110%;
+   
+ }
+ .step12:hover .circle12{
+   width: 180px;
+   height: 180px;
+     
+ }
+ 
+ .step12:hover .circle12hover{
+   display: block;
+ }
+ }
+
+ @media only screen and (max-width:320px){
+   h1.annot{
+      font-size: 40px;
+       width: 300px; 
+  }
+  .sec7 span.process{ 
+   font-size: 75px;
+   
+}  
+.sec7 p{
+   font-size: 16px;
+   width: 270px;
+}
+.stepss{ 
+   margin-left: 65px;
+} 
+p.captpara7{ 
+   width: 310px;
+   margin-left: -70px;
+} 
+p.captpara8{ 
+   width: 310px;
+   margin-left: -70px;
+} 
+ p.captpara9{ 
+   width:310px;
+   margin-left: -70px;
+ } 
+ p.captpara10{ 
+   width: 320px;
+   margin-left: -75px;
+ } 
+ p.captpara11{ 
+   width: 320px;
+   margin-left: -73px;
+ } 
+  
+ }

@@ -1,0 +1,812 @@
+.fifthContainerAudio{
+    margin-left: 100px;
+    margin-right: 20px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+h1.mainhead1Audio{
+    transform: scale(1.2, 2.5);
+    font-size: 52px;
+    font-weight: 200;
+    line-height: .9;
+    letter-spacing: 1.5px;
+    margin-left: 100px;
+    max-width: 1000px;
+}
+.cards{
+    margin-top: 150px !important;
+}
+.card1Audio {
+    box-shadow: 0 4px 8px 8px rgba(0,0,0,0.2);
+    transition: 0.3s;
+     max-width: 100%;
+    height: 730px;
+    width: 380px;
+     
+  }
+  img.card1Image{
+    max-width: 100%;
+    height: 300px;
+  }
+  .card1ContainerAudio{
+    margin-top: 50px;
+    margin-left: 35px;
+  }
+  .card1ContainerAudio h1{
+    color: #531cb3;
+    font-family: 'Roboto Condensed', sans-serif;
+    transform: scale(1, 1.9);
+    font-size: 16px;
+    text-transform: uppercase;
+    text-align: left; 
+    letter-spacing: .5px;
+    font-weight: 800 !important;
+    line-height: 1;
+  }
+  .card1ContainerAudio h4{
+    margin-top: 30px;
+    font-size: 22px;
+    text-align: left;
+    font-weight: 400;
+    max-width: 280px;
+  }
+  .card2Audio {
+    box-shadow: 0 4px 8px 8px rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width:380px;
+    max-width: 100%;
+    height: 730px;
+    margin-left: 410px;
+    margin-top: -730px;
+  }
+  img.card2Image{
+    max-width: 100%;
+    height: 300px;
+  }
+  .card2ContainerAudio{
+    margin-top: 50px;
+    margin-left: 35px;
+  }
+  .card2ContainerAudio h1{
+    color: #531cb3;
+    font-family: 'Roboto Condensed', sans-serif;
+    transform: scale(1, 1.9);
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align: left;
+    max-width: 300px;
+    letter-spacing: .5px;
+    font-weight: 800;
+    line-height: 1;
+  }
+  .card2ContainerAudio h4{
+    margin-top: 30px;
+    font-size: 22px;
+    text-align: left;
+    font-weight: 400;
+    max-width: 300px;
+  }
+  .card3Audio {
+    box-shadow: 0 4px 8px 8px rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width:380px;
+    height: 730px;
+    margin-left: 820px;
+    margin-top: -730px;
+  }
+  img.card3Image{
+    max-width: 100%;
+    height: 300px;
+  }
+  .card3ContainerAudio{
+    margin-top: 50px;
+    margin-left: 35px;
+  }
+  .card3ContainerAudio h1{
+    color: #531cb3;
+    font-family: 'Roboto Condensed', sans-serif;
+    transform: scale(1, 1.9);
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align: left;
+    max-width: 300px;
+    letter-spacing: .5px;
+    font-weight: 800;
+    line-height: 1;
+  }
+  .card3ContainerAudio h4{
+    margin-top: 30px;
+    font-size: 22px;
+    text-align: left;
+    font-weight: 400;
+    max-width: 280px;
+  }
+  .card4Audio {
+    box-shadow: 0 4px 8px 8px rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width:380px;
+    height: 750px;
+    margin-top: 40px;
+  }
+  img.card4Image{
+    max-width: 100%;
+    height: 300px;
+  }
+  .card4ContainerAudio{
+    margin-top: 50px;
+    margin-left: 35px;
+  }
+  .card4ContainerAudio h1{
+    color: #531cb3;
+    font-family: 'Roboto Condensed', sans-serif;
+    transform: scale(1, 1.9);
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align: left;
+    max-width: 300px;
+    letter-spacing: .5px;
+    font-weight: 800;
+    line-height: 1;
+  }
+  .card4ContainerAudio h4{
+    margin-top: 30px;
+    font-size: 22px;
+    text-align: left;
+    font-weight: 400;
+    max-width: 280px;
+  }
+  .card5Audio {
+    box-shadow: 0 4px 8px 8px rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width:380px;
+    height:750px;
+    margin-left: 410px;
+    margin-top: -750px;
+  }
+  img.card5Image{
+    width: 100%;
+    height: 300px;
+  }
+  .card5ContainerAudio{
+    margin-top: 50px;
+    margin-left: 35px;
+  }
+  .card5ContainerAudio h1{
+    color: #531cb3;
+    font-family: 'Roboto Condensed', sans-serif;
+    transform: scale(1, 1.9);
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align: left;
+    max-width: 300px;
+    letter-spacing: .5px;
+    font-weight: 800;
+    line-height: 1;
+  }
+  .card5ContainerAudio h4{
+    margin-top: 30px;
+    font-size: 22px;
+    text-align: left;
+    font-weight: 400;
+    max-width: 290px;
+  }
+  .card6Audio {
+    box-shadow: 0 4px 8px 8px rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width:380px;
+    height: 750px;
+    margin-left: 820px;
+    margin-top: -750px;
+  }
+  img.card6Image{
+    width: 100%;
+    height: 300px;
+  }
+  .card6ContainerAudio{
+    margin-top: 50px;
+    margin-left: 35px;
+  }
+  .card6ContainerAudio h1{
+    color: #531cb3;
+    font-family: 'Roboto Condensed', sans-serif;
+    transform: scale(1, 1.9);
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align: left;
+    max-width: 300px;
+    letter-spacing: .5px;
+    font-weight: 800;
+    line-height: 1;
+  }
+  .card6ContainerAudio h4{
+    margin-top: 30px;
+    font-size: 22px;
+    text-align: left;
+    font-weight: 400;
+    max-width: 280px;
+  }
+  .card7Audio {
+    box-shadow: 0 4px 8px 8px rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width:380px;
+    height: 900px;
+    margin-top: 40px;
+    margin-left: 410px;
+  }
+  img.card7Image{
+    max-width: 100%;
+    height: 300px;
+  }
+  .card7ContainerAudio{
+    margin-top: 50px;
+    margin-left: 35px;
+  }
+  .card7ContainerAudio h1{
+    color: #531cb3;
+    font-family: 'Roboto Condensed', sans-serif;
+    transform: scale(1, 1.9);
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align: left;
+    max-width: 300px;
+    letter-spacing: .5px;
+    font-weight: 800;
+    line-height: 1;
+  }
+  .card7ContainerAudio h4{
+    margin-top: 30px;
+    font-size: 22px;
+    text-align: left;
+    font-weight: 400;
+    max-width: 280px;
+  }
+
+  
+  @media only screen and (max-width:1440px){
+    h1.mainhead1Audio{
+         transform: scale(1.03, 2.2);
+        font-size: 52px;
+        margin-left: 0px;  
+        max-width: 1200px;
+    }
+    .card7Audio{
+        margin-left: 420px;
+        height: 800px;
+    }
+    .card7ContainerAudio h4{
+        margin-top: 30px;
+        font-size: 21px;
+        text-align: left;
+        font-weight: 400;
+        max-width: 310px;
+      }
+      .card7ContainerAudio h4,.card6ContainerAudio h4,.card5ContainerAudio h4,.card4ContainerAudio h4,
+      .card3ContainerAudio h4,.card2ContainerAudio h4,.card1ContainerAudio h4{
+        font-size: 21px;
+      }
+      .card1ContainerAudio h4{
+        max-width: 300px;
+      }
+      .card1Audio{
+        height: 680px;
+      }
+      .card2ContainerAudio h4{
+        max-width: 310px; 
+      }
+      .card2Audio{
+        height: 680px;
+        margin-top: -680px;
+      }
+      .card3ContainerAudio h4{
+        max-width: 310px; 
+      }
+      .card3Audio{
+        height: 680px;
+        margin-top: -680px;
+      }
+      .card4ContainerAudio h4{
+        max-width: 310px; 
+      }
+      .card4Audio{
+        height: 700px; 
+      }
+      .card5ContainerAudio h4{
+        max-width: 310px; 
+      }
+      .card5Audio{
+        height: 700px; 
+        margin-top: -700px;
+      }
+      .card6ContainerAudio h4{
+        max-width: 310px; 
+      }
+      .card6Audio{
+        height: 700px; 
+        margin-top: -700px;
+      }
+  }
+
+  @media only screen and (max-width:1024px){
+    h1.mainhead1Audio{
+      transform: scale(1.03, 2.5);
+      font-size: 52px;
+      margin-left: -65px;
+   max-width: 900px;
+  }
+  .card1Audio {
+    min-width: 290px;
+    margin-left: -70px;
+    height: 800px;
+  }
+  .card1ContainerAudio h1{
+   
+    max-width: 190px;
+   
+  }
+  .card1ContainerAudio h4{
+    width: 200px;
+ }
+  .card2Audio {
+    min-width:290px;
+    height: 800px;
+    margin-left: 250px;
+    margin-top: -800px;
+     
+  }
+ 
+  .card2ContainerAudio h4{
+     width: 210px;
+  }
+  .card3Audio {
+     width:290px;
+    height: 800px;
+    margin-left: 575px;
+    margin-top: -800px;
+  }
+ 
+   
+  .card3ContainerAudio h4{
+     width: 200px;
+  }
+  .card4Audio {
+    margin-left: -70px;
+    width:290px;
+    height: 850px;
+  }
+ 
+  .card4ContainerAudio h4{
+    margin-top: 30px;
+    font-size: 21px;
+    text-align: left;
+    font-weight: 400;
+    max-width: 210px;
+  }
+  .card5Audio {
+    
+    width:290px;
+    height: 850px;
+    margin-left: 255px;
+   margin-top: -850px !important;
+  }
+ 
+  .card5ContainerAudio h1{
+ 
+     width: 150px;
+  
+  }
+  .card5ContainerAudio h4{
+   
+    max-width: 210px;
+  }
+  .card6Audio {
+    
+    width:290px;
+    height: 850px;
+    margin-left: 580px;
+    margin-top: -850px !important;
+  }
+  
+  .card6ContainerAudio h4{
+    margin-top: 30px;
+    font-size: 21px;
+    text-align: left;
+    font-weight: 400;
+    max-width: 210px;
+  }
+  .card7Audio {
+    margin-left: 260px;
+    width:290px;
+    height: 1000px;
+  }
+ 
+  .card7ContainerAudio h4{
+    margin-top: 30px;
+    font-size: 21px;
+    text-align: left;
+    font-weight: 400;
+    max-width: 210px;
+  }
+  }
+
+  
+  @media only screen and (max-width:768px){
+    .fifthContainerAudio{
+      padding-top: 60px;
+    
+  }
+    h1.mainhead1Audio{
+      transform: scale(1.03, 2.5);
+      font-size: 37px;
+      margin-left: 5px;
+        max-width: 500px;
+        margin-top: 80px !important;
+  }
+  .card1Audio {
+    min-width: 310px;
+    margin-left: -55px;
+    height: 700px;
+  }
+  .card1ContainerAudio h1{
+    transform: scale(1.1, 1.9);
+    max-width: 200px;
+   margin-left: 10px;
+  }
+  .card1ContainerAudio h4{
+    width: 250px;
+  }
+  .card2Audio {
+    min-width:310px;
+    height: 700px;
+    margin-left: 290px;
+   margin-top: -700px;
+     
+  }
+  .card2ContainerAudio h1{
+    transform: scale(1.1, 1.9);
+    max-width: 200px;
+   margin-left: 10px;
+  }
+ 
+  .card2ContainerAudio h4{
+     width: 230px;
+  }
+  .card3Audio {
+    width:310px;
+   margin-left: -55px;
+   margin-top:35px !important;
+   height: 750px;
+ }
+ .card3ContainerAudio h1{
+  transform: scale(1.1, 1.9);
+  max-width: 200px;
+ margin-left: 10px;
+}
+  
+ .card3ContainerAudio h4{
+    width: 240px;
+ }
+ .card4Audio {
+    margin-top: -750px !important;
+   width:310px;
+   margin-left: 290px;
+   height: 750px;
+ }
+ .card4ContainerAudio h1{
+  transform: scale(1.1, 1.9);
+  max-width: 200px;
+ margin-left: 10px;
+}
+
+ .card4ContainerAudio h4{
+   max-width: 230px;
+ }
+ .card5Audio {
+   margin-top: 35px !important;
+   width:310px;
+   margin-left: -55px;
+  height: 750px;
+ }
+
+ .card5ContainerAudio h1{
+
+  transform: scale(1.1, 1.9);
+  max-width: 200px;
+ margin-left: 10px;
+ 
+ }
+ .card5ContainerAudio h4{
+  
+   max-width: 230px;
+ }
+ .card6Audio {
+   margin-top: -750px !important;
+   width:310px; 
+   margin-left: 290px;
+   height: 750px;
+ }
+ .card6ContainerAudio h1{
+
+  transform: scale(1.1, 1.9);
+  max-width: 200px;
+ margin-left: 10px;
+ 
+ }
+ 
+ .card6ContainerAudio h4{
+   max-width: 230px;
+ }
+ .card7Audio {
+    margin-top: 35px;
+   width:310px;
+   margin-left: 120px;
+   height: 900px;
+ }
+ .card7ContainerAudio h1{
+  transform: scale(1.1, 1.9);
+  max-width: 200px;
+ margin-left: 10px;
+}
+
+ .card7ContainerAudio h4{
+   max-width: 230px;
+ }
+  }
+
+  @media only screen and (max-width:450px){
+    .fifthContainerAudio{
+      padding-top: 120px;   
+  }
+    h1.mainhead1Audio{
+      transform: scale(1.03, 2.3); 
+      margin-left: -75px;
+      max-width: 350px;
+  }
+  .card1Audio {
+    min-width: 365px;
+    margin-left: -80px;
+    height: 650px;
+  } 
+  .card1ContainerAudio h1{
+    margin-top: -30px !important;
+  }
+  .card1ContainerAudio h4{
+     width: 290px;
+  }
+  .card2Audio {
+    min-width:365px;
+   margin-top: 35px;
+    margin-left: -80px;
+    height: 650px;   
+  } 
+  .card2ContainerAudio h1{
+    margin-top: -10px !important;
+  }
+  .card2ContainerAudio h4{
+     width: 280px;
+  }
+  .card3Audio {
+    width:365px;
+   margin-left: -80px;
+   margin-top:35px !important;
+   height: 650px; 
+ } 
+ .card3ContainerAudio h1{
+    margin-top: -10px !important;
+  }
+ .card3ContainerAudio h4{
+    width: 290px;
+ }
+ .card4Audio {
+    margin-top: 35px !important;
+   width:365px;
+   margin-left: -80px;
+   height: 700px;
+ } 
+ .card4ContainerAudio h1{
+    margin-top: -20px !important;
+  }
+ .card4ContainerAudio h4{
+   max-width: 285px;
+ }
+ .card5Audio {
+  margin-top: 35px !important;
+   width:365px;
+   margin-left: -80px;
+   height: 680px;
+ } 
+ .card5ContainerAudio h1{
+    margin-top: -20px !important;
+  }
+ .card5ContainerAudio h4{
+   max-width: 285px;
+ }
+ .card6Audio {
+   margin-top: 35px !important;
+   width:365px; 
+   margin-left: -80px;
+   height: 650px;
+ } 
+ .card6ContainerAudio h1{
+    margin-top: -20px !important;
+  }
+ .card6ContainerAudio h4{
+   max-width: 290px;
+ }
+ .card7Audio {
+    margin-top: 35px !important;
+   width:365px;
+   margin-left: -80px;
+   height: 800px;
+ } 
+ .card7ContainerAudio h1{
+    margin-top: -20px !important;
+  }
+ .card7ContainerAudio h4{
+   max-width: 280px;
+ }
+  }
+
+  @media only screen and (max-width:380px){
+    .card1Audio {
+      min-width: 315px;
+      margin-left: -80px;
+      height: 680px;
+    } 
+    .card1ContainerAudio h4{
+      max-width: 235px;
+    }
+    .card2Audio {
+      min-width:315px; 
+      margin-left: -80px;
+      height: 680px;   
+    } 
+   
+    .card2ContainerAudio h4{
+       width: 235px;
+    }
+    .card3Audio {
+      width:315px;
+     margin-left: -80px; 
+     height: 720px; 
+   } 
+   .card3ContainerAudio h4{
+      width: 235px;
+   }
+   .card4Audio { 
+     width:315px;
+     margin-left: -80px;
+     height: 720px;
+   } 
+   .card4ContainerAudio h4{
+     max-width: 230px;
+   }
+   .card5Audio { 
+     width:315px;
+     margin-left: -80px;
+     height: 720px;
+   } 
+   .card5ContainerAudio h4{
+     max-width: 220px;
+   }
+   .card6Audio { 
+     width:315px; 
+     margin-left: -80px;
+     height: 750px;
+   } 
+   .card6ContainerAudio h4{
+     max-width: 230px;
+   }
+   .card7Audio { 
+    width:315px;
+    margin-left: -80px;
+    height: 900px;
+  } 
+  .card7ContainerAudio h4{
+    max-width: 240px;
+  }
+  }
+
+  @media only screen and (max-width:320px){
+    .fifthContainerAudio{
+      padding-top: 90px; 
+  }
+    h1.mainhead1Audio{
+      transform: scale(.9, 2); 
+      margin-left: -110px; 
+  }
+  .card1Audio {
+    min-width: 260px;
+    margin-left: -80px;
+    height: 720px;
+  } 
+  .card1ContainerAudio h1{ 
+    max-width: 160px;
+   margin-left: 0px;
+   font-size: 13.5px;
+  }
+  .card1ContainerAudio h4{
+    max-width: 160px; 
+    margin-left: -10px;
+    font-size:18px;
+  }
+  .card2Audio {
+    min-width: 260px;
+    margin-left: -80px;
+    height: 700px;  
+  } 
+  .card2ContainerAudio h1{ 
+    max-width: 160px; 
+   font-size: 13.5px;
+  }
+ 
+  .card2ContainerAudio h4{
+    max-width: 170px;
+    font-size:18px;  
+  }
+  .card3Audio {
+    width: 260px;
+    margin-left: -80px;
+    height: 700px; 
+ } 
+ .card3ContainerAudio h1{ 
+  max-width: 160px; 
+ font-size: 13.5px;
+}
+ .card3ContainerAudio h4{
+  max-width: 170px; 
+  font-size:18px; 
+ }
+ .card4Audio { 
+  width: 260px;
+    margin-left: -80px;
+    height: 780px; 
+ } 
+ .card4ContainerAudio h1{ 
+  max-width: 160px; 
+ font-size: 13.5px;
+}
+ .card4ContainerAudio h4{
+  max-width: 170px;  
+  font-size:18px;
+ }
+ .card5Audio { 
+  width: 260px;
+  margin-left: -80px;
+  height: 750px; 
+ } 
+ .card5ContainerAudio h1{ 
+  max-width: 160px; 
+ font-size: 13.5px;
+}
+ .card5ContainerAudio h4{
+  max-width: 170px; 
+  font-size:18px;
+ }
+ .card6Audio { 
+  width: 260px;
+  margin-left: -80px;
+  height: 720px; 
+ } 
+ .card6ContainerAudio h1{ 
+  max-width: 160px; 
+ font-size: 13.5px;
+}
+ .card6ContainerAudio h4{
+  max-width: 160px;
+  font-size:18px;
+ }
+ .card7Audio { 
+    width: 260px;
+      margin-left: -80px;
+      height: 900px; 
+   } 
+   .card7ContainerAudio h1{ 
+    max-width: 160px; 
+   font-size: 13.5px;
+  }
+   .card7ContainerAudio h4{
+    max-width: 180px; 
+    font-size:18px; 
+   }
+   
+  }

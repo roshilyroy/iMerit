@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Roboto+Condensed:wght@300&family=Smooch+Sans:wght@500&display=swap');
+.textContainer{
+    margin-top: 120px;
+    overflow-x: hidden;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+}
+@media only screen and (max-width:1024px){
+    .textContainer{
+        margin-top: 0px;
+    }
+}

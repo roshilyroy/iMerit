@@ -1,0 +1,129 @@
+.secondContainerAudio{
+   background-color: #f8f8f9 !important;
+    padding-bottom: 50px;
+        
+}
+.sec3Audio {
+    padding-top: 60px;
+    margin-left: -60px;
+    padding-bottom:60px ;
+ }
+ .sec3Audio  img{
+    max-width: 100%;
+    width: 500px;
+ }
+ .sec4Audio{
+    margin-top: 60px;
+    margin-left: -400px;
+     
+ }
+ .sec4Audio h1{
+    font-size: 30px;
+    transform: scale(.95, 1.9);
+    margin-left: 40px;
+ }
+ .sec4Audio p.para1{
+    font-size: 17px;
+    max-width: 650px;
+    margin-left: 315px;
+    text-align: left;
+    margin-top: 30px;
+    font-family: sans-serif;
+ } 
+
+ @media only screen and (max-width:1024px){
+   .sec3Audio {
+      padding-top: 100px;
+      margin-left: -80px;
+   }
+   .sec3Audio  img{
+      width: 370px;
+   }
+   .sec4Audio{
+      margin-top: 100px;
+    
+   }
+   .sec4Audio h1{
+      margin-left: 230px;
+   }
+   .sec4Audio p.para1 {
+       width: 550px !important;
+   }
+ }
+ @media only screen and (max-width:768px){
+   .sec3Audio {
+      margin-left: -45px;
+   }
+   .sec3Audio  img{
+      width: 250px;
+   }
+   .sec4{
+      margin-top: 100px;
+    
+   }
+   .sec4Audio h1{
+      margin-left: 190px;
+      font-size: 16px;
+      font-weight: 600;
+   }
+   .sec4Audio p.para1{
+      max-width: 390px;
+      margin-left: 340px;
+   }
+   
+ }
+
+ @media only screen and (max-width:450px){
+   .sec3Audio {
+      margin-left: 0px;
+   }
+   .sec3Audio  img{
+      width: 360px;
+   }
+   .sec4Audio{
+      margin-top: -40px;
+    
+   }
+   .sec4Audio h1{
+      margin-left: 285px;
+      font-size: 16px;
+   }
+   .sec4Audio p.para1{
+      max-width: 361px;
+      margin-left: 425px;
+      font-size: 16.2px;
+   }
+   .sec4Audio p.para2{
+      max-width: 360px;
+      margin-left: 425px;
+   }
+ }
+ @media only screen and (max-width:380px){
+   .sec3Audio  img{
+      width: 300px;
+   }
+   .sec4Audio h1{
+      margin-left: 340px; 
+   }
+   .sec4Audio p.para1{
+      max-width: 283px;
+      font-size: 15px; 
+   }
+   .sec4Audio p.para2{
+      max-width: 325px; 
+   }
+ }
+ @media only screen and (max-width:320px){
+   .sec3Audio  img{
+      width: 260px;
+   }
+   .sec4Audio h1{
+      margin-left: 385px; 
+   }
+   .sec4Audio p.para1{
+      max-width: 250px; 
+   }
+   .sec4Audio p.para2{
+      max-width: 250px; 
+   }
+ }

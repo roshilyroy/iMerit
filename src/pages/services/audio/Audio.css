@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Roboto+Condensed:wght@300&family=Smooch+Sans:wght@500&display=swap');
+.audioContainer{
+    margin-top: 120px;
+    overflow-x: hidden !important; 
+    font-family: 'Roboto Condensed', sans-serif;
+    
+}
+/* html,body {
+    margin:0;
+    padding:0;
+    overflow-x:hidden;
+    } */
+@media only screen and (max-width:1024px){
+    .audioContainer{
+        margin-top: 0px;
+    }
+}

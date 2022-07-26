@@ -1,0 +1,545 @@
+.ninethContainerAudio{
+    margin-top: 130px;
+    background-color: #f8f8f9;
+    padding-top: 150px;
+    padding-bottom: 30px;
+}
+h1.headNineAudio{
+    font-size: 55px;
+    transform: scale(1.1, 2.2);
+    font-weight: 400;
+    max-width: 1200px;
+    line-height: .8;
+    margin-left: 70px;
+}
+.postsAudio{
+    margin-top: 150px;
+    margin-left: 260px;
+    margin-bottom: 100px;
+    /* animation-name: posts;
+    animation-duration: 3s; */
+    
+}
+.post1{
+    border: 1px solid black;
+    box-shadow: 4px 4px 4px 4px rgb(210, 210, 210);
+    width: 369px;
+    /* max-width: 100%; */
+    height: 400px;
+    cursor: pointer;
+    /* animation-name: post1;
+    animation-duration: 3s; */
+     
+}
+/* @keyframes posts{
+    from {margin-bottom: 500px;}
+    to {margin-bottom: 500px;}
+}
+@keyframes post1 {
+    from {width:1160px  ;transform: translate(-200px);}
+    to {width:1160px  ;transform: translate(-200px); }
+  }
+  @keyframes post1Image {
+    from {width:100%; }
+    to {width:100%;  }
+  }
+  @keyframes post1para {
+    from {max-width:100%;}
+    to {max-width:100%; }
+  }
+  
+
+  @keyframes post2 {
+    from {width:1160px;transform: translate(-600px,410px);border-color: blue;color: blue;}
+    to {width:1160px;transform: translate(-600px,410px);border-color: blue;color: blue;}
+  }
+  @keyframes post2Image {
+    from {width:100%; }
+    to {width:100%;  }
+  }
+  @keyframes post2para {
+    from {max-width:100%; }
+    to {max-width:100%;  }
+  } */
+  
+ 
+ 
+ 
+
+h1.post1Head{
+    font-weight: 500;
+    font-family: 'Roboto Condensed', sans-serif;
+    padding-top: 20px;
+    transform: scale(1, 1.7);
+    font-size: 23px;
+    padding-bottom: 10px;
+}
+h3.post1Subhead{
+    font-weight: 600;
+    font-family: 'Roboto Condensed', sans-serif;
+    transform: scale(1, 1.5);
+    font-size: 15px;
+    padding-bottom: 20px;
+}
+img.post1Image{
+    height: 270px;
+    width: 100%;
+    /* animation-name: post1Image;
+    animation-duration: 3s; */
+}
+div.post1Overlay{
+    position: absolute;
+    background-color: rgba(62,50,59,.9);
+    height: 268px;
+    margin-top: -270px;
+     width: 368px;
+    max-width: 100%;
+    padding-top: 50px;
+    /* animation-name: post1Overlay;
+    animation-duration: 3s; */
+   
+}
+ 
+ 
+p.post1Para{
+    color: white;
+    font-size: 21px;
+    font-family: sans-serif;
+    text-align: left;
+    padding-top: 50px;
+    max-width: 300px ;
+    padding-left: 40px;
+    /* animation-name: post1para;
+    animation-duration: 3s; */
+}
+.post1:hover div.post1Overlay{
+    display: none;
+    
+}
+
+.lineImage7{
+    width: 50px;
+    margin-left: 140px;
+    position: absolute;
+    margin-top: -77px;
+    transform: rotate(-14deg);
+}
+.lineImage8{
+    width: 48px;
+    margin-left: 124px;
+    position: absolute;
+    margin-top: -78px;
+    transform: rotate(-45deg);
+}
+ 
+ 
+.post2{
+    border: 1px solid black;
+    box-shadow: 4px 4px 4px 4px rgb(210, 210, 210);
+    width: 369px;
+    height: 400px;
+    cursor: pointer;
+    margin-left: 405px;
+    margin-top: -400px;
+    /* animation-name: post2;
+    animation-duration: 3s; */
+    
+}
+h1.post2Head{
+    font-weight: 500;
+    font-family: 'Roboto Condensed', sans-serif;
+    padding-top: 20px;
+    transform: scale(1, 1.7);
+    font-size: 23px;
+    padding-bottom: 10px;
+}
+h3.post2Subhead{
+    font-weight: 600;
+    font-family: 'Roboto Condensed', sans-serif;
+    transform: scale(1, 1.5);
+    font-size: 15px;
+    padding-bottom: 20px;
+}
+img.post2Image{
+    height: 270px;
+    width: 400px;
+    /* animation-name: post2Image;
+    animation-duration: 3s; */
+}
+div.post2Overlay{
+    position: absolute;
+    background-color: rgba(62,50,59,.9);
+   margin-top: -270px;
+   width: 368px !important;
+   height: 268px;
+   max-width: 100%;
+ 
+}
+p.post2ParaAudio{
+    color: white;
+    font-size: 21px;
+    font-family: sans-serif;
+    text-align: left;
+    padding-top: 100px;
+    max-width: 330px;
+    padding-left: 40px;
+    /* animation-name: post2para;
+    animation-duration: 3s; */
+}
+.post2:hover div.post2Overlay{
+    display: none;
+}
+@media only screen and (max-width:1440px){
+    h1.headNineAudio{
+        font-size: 55px;
+        transform: scale(1, 2.2);
+        font-weight: 400;
+        max-width: 1300px;
+        line-height: .8;
+        margin-left: 10px;
+    }
+}
+@media only screen and (max-width:1024px){
+    h1.headNineAudio{
+       line-height: .85;
+    }
+    .postsAudio{
+        
+        margin-left: 160px;
+        
+    }
+    .post1{
+      
+        width: 285px;
+        
+         
+    } 
+    p.post1Para{
+      
+        padding-top: 40px;
+        max-width: 250px ;
+        
+    }  
+    .lineImage7{
+        width: 50px;
+        margin-left: 100px;
+        position: absolute;
+        margin-top: -77px;
+        transform: rotate(-14deg);
+    }
+    .lineImage8{
+        width: 48px;
+        margin-left: 84px;
+        position: absolute;
+        margin-top: -78px;
+        transform: rotate(-45deg);
+    }
+    .post2{
+        width: 285px;
+        
+        margin-left: 305px;
+        
+        
+    } 
+   
+    p.post2ParaAudio{
+       
+        padding-top: 90px;
+        max-width: 230px;
+       
+    }
+    .post2:hover div.post2Overlay{
+        display: none;
+    }
+    
+} 
+
+@media only screen and (max-width:768px){
+    h1.headNineAudio{
+        font-size: 40px;
+     }
+     .lineImage7{
+        width: 50px;
+        margin-left: 107px;
+        position: absolute;
+        margin-top: -77px;
+        transform: rotate(-14deg);
+    }
+    .lineImage8{
+        width: 48px;
+        margin-left: 90px;
+        position: absolute;
+        margin-top: -78px;
+        transform: rotate(-45deg);
+    }
+     .postsAudio{
+        
+        margin-left: 25px;
+        
+    }
+    .post1{
+      
+        width: 300px;
+        
+         
+    } 
+    p.post1Para{
+       font-size: 16px;
+        padding-top: 40px;
+        max-width: 250px ;
+        
+    }  
+    .post2{
+        width: 300px;
+        
+        margin-left: 315px;
+        
+        
+    } 
+   
+    p.post2ParaAudio{
+        font-size: 16px;
+        padding-top: 90px;
+        max-width: 260px;
+       
+    }
+    .post2:hover div.post2Overlay{
+        display: none;
+    }
+}
+@media only screen and (min-width:768px){
+    .orig2{
+        display: block;
+    }
+    .dup2{
+        display:none;
+    }
+}
+@media only screen and (max-width:767px){
+    .orig2{
+        display:none;
+    }
+    .dup2{
+        display: block;
+    }
+}
+@media only screen and (max-width:450px){
+    .ninethContainerAudio{
+        padding-bottom: 80px;
+    }
+    h1.headNineAudio{
+        font-size: 40px;
+        max-width: 300px;
+        margin-left: 45px;
+     } 
+     .post1{
+        width: 335px;
+     }
+     .post2{
+        width: 335px;
+     }
+     
+}
+ 
+ 
+.carousel-indicators button{
+    border-radius:50%;
+    width:8px !important;
+    height:8px !important;
+    background-color:red !important;
+    }
+    .carousel-indicators {
+    bottom:-50px;
+  }
+  .carousel{
+    margin-top: 100px;
+  }
+  .carousel-item img{
+    max-width: 100%;
+    width:300px;
+    height:auto;
+  }
+  .post3{
+    border: 1px solid black;
+    box-shadow: 4px 4px 4px 4px rgb(210, 210, 210);
+    width: 369px;
+    /* max-width: 100%; */
+    height: 400px;
+    cursor: pointer;
+    margin-left: 15px;
+     
+}
+h1.post3Head{
+    font-weight: 500;
+    font-family: 'Roboto Condensed', sans-serif;
+    padding-top: 20px;
+    transform: scale(1, 1.7);
+    font-size: 23px;
+    padding-bottom: 10px;
+}
+h3.post3Subhead{
+    font-weight: 600;
+    font-family: 'Roboto Condensed', sans-serif;
+    transform: scale(1, 1.5);
+    font-size: 15px;
+    padding-bottom: 20px;
+}
+img.post3Image{
+    height: 270px;
+    width: 100%;
+  
+}
+div.post3Overlay{
+    position: absolute;
+    background-color: rgba(62,50,59,.9);
+    height: 268px;
+    margin-top: -270px;
+     width: 368px;
+    max-width: 100%;
+    padding-top: 50px;
+  
+   
+}
+ 
+ 
+p.post3ParaAudio{
+    color: white;
+    font-size: 17px;
+    font-family: sans-serif;
+    text-align: left;
+    padding-top: 50px;
+    max-width: 350px ;
+    padding-left: 40px;
+  
+}
+.post3:hover div.post3Overlay{
+    display: none;
+    
+}
+ 
+ 
+.post4{
+    border: 1px solid black;
+    box-shadow: 4px 4px 4px 4px rgb(210, 210, 210);
+    width: 369px;
+    height: 400px;
+    cursor: pointer;
+     margin-left:20px;
+    
+ 
+    
+}
+h1.post4Head{
+    font-weight: 500;
+    font-family: 'Roboto Condensed', sans-serif;
+    padding-top: 20px;
+    transform: scale(1, 1.7);
+    font-size: 23px;
+    padding-bottom: 10px;
+}
+h3.post4Subhead{
+    font-weight: 600;
+    font-family: 'Roboto Condensed', sans-serif;
+    transform: scale(1, 1.5);
+    font-size: 15px;
+    padding-bottom: 20px;
+}
+img.post4Image{
+    height: 270px;
+    width: 400px;
+   
+}
+div.post4Overlay{
+    position: absolute;
+    background-color: rgba(62,50,59,.9);
+   margin-top: -270px;
+   width: 368px !important;
+   height: 268px;
+   max-width: 100%;
+ 
+}
+p.post4ParaAudio{
+    color: white;
+    font-size: 17px;
+    font-family: sans-serif;
+    text-align: left;
+    padding-top: 100px;
+    max-width: 330px;
+    padding-left: 40px;
+    
+}
+.post4:hover div.post4Overlay{
+    display: none;
+}
+
+@media only screen and (max-width:380px){
+    h1.headNineAudio{
+        font-size: 40px;
+        max-width: 300px;
+        margin-left: 15px;
+        text-align: center;
+     } 
+     .post3{ 
+        width: 285px; 
+        height: 360px; 
+         margin-left: 35px;
+    }
+    div.post3Overlay{ 
+        height: 230px;
+        margin-top: -230px;
+         width: 285px;   
+    }
+    img.post3Image{
+        height: 230px; 
+    }
+    p.post3ParaAudio{ 
+        padding-top: 30px; 
+        padding-left: 30px; 
+        font-size: 16px;
+    }
+    .post4{  
+        width: 285px; 
+        height: 360px; 
+         margin-left: 35px; 
+    }
+    div.post4Overlay{ 
+        height: 230px;
+        margin-top: -230px;
+        max-width: 285px;   
+    }
+    img.post4Image{
+        height: 230px; 
+    }
+    p.post4ParaAudio{ 
+        padding-top: 80px; 
+        padding-left: 30px; 
+        font-size: 16px;
+        max-width: 250px; 
+    }
+}
+
+@media only screen and (max-width:320px){
+    h1.headNineAudio{ 
+        max-width: 260px;
+        margin-left: 15px;
+        font-size: 36px;
+     } 
+     .post3{ 
+        width: 225px;  
+    }
+    div.post3Overlay{  
+         width: 225px;   
+    } 
+    p.post3ParaAudio{  
+        max-width: 190px;
+    }
+    .post4{  
+        width: 225px;
+    }
+    div.post4Overlay{ 
+        max-width: 225px;   
+    } 
+    p.post4ParaAudio{ 
+         max-width: 190px;
+    }
+}

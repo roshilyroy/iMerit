@@ -1,0 +1,692 @@
+.thirdContainer{
+    margin-left: 150px;
+    margin-right: 20px;
+}
+.sec5Audio3{
+    padding-top: 80px;
+    margin-left: 80px;
+    padding-top: 150px;
+}
+.sec5Audio3 h5{
+    text-align: center;
+    font-size: 50px;
+    transform: scale(1.1, 2.2);
+    max-width: 1000px;
+    line-height: .85;
+    word-spacing: 15px;
+    letter-spacing: 3px;
+     font-weight: 500;
+}
+.sec5Audio3 p.para3{
+    text-align: left;
+    max-width: 1160px;
+    margin-top: 100px;
+    font-family: sans-serif;
+    font-size: 26px;
+    margin-bottom: 100px;
+    margin-left: -90px;
+} 
+.sec6{
+    margin-top: 130px;
+}
+.sec6 h5{
+    text-align: center;
+    font-size: 50px;
+    transform: scale(1.1, 2.2);
+    line-height: .85;
+    word-spacing: 15px;
+    max-width: 100%;
+    margin-left: -50px; 
+   padding-bottom: 70px;
+   font-weight: 500px !important;
+}
+.firstAudio{
+    margin-left: -30px;
+}
+img.firstImageAudio{
+    max-width:100% ;
+    width: 380px;
+    box-shadow: 4px 4px 4px 2px rgb(190, 190, 190);
+    margin-bottom: 20px;
+}
+h1.firstHeadingAudio{
+    transform: scale(.9, 1.8);
+    font-size: 25px;
+    margin-left: -145px;
+    margin-top: 10px;
+}
+p.firstParaAudio{
+    margin-left: 15px;
+     width: 384px;
+    font-size: 15.8px;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    margin-top: 25px;
+     
+}
+.secondAudio{
+    margin-left: -20px;
+}
+img.secondImageAudio{
+    max-width:100% ;
+    width: 380px;
+    box-shadow: 4px 4px 4px 2px rgb(190, 190, 190);
+    margin-bottom: 20px;
+}
+h1.secondHeadingAudio{
+    margin-left: 0px;
+    transform: scale(.9, 1.8);
+    font-size: 25px;
+    max-width: 450px;
+    line-height: .9;
+    text-align: left;
+}
+p.secondParaAudio{
+    margin-left: 20px;
+     max-width: 400px !important;
+     font-size: 15.7px;
+     font-family:  Verdana, Geneva, Tahoma, sans-serif;
+     text-align: left;
+     margin-top: 40px;
+}
+.thirdAudio{
+    margin-left: -20px;
+}
+img.thirdImageAudio{
+    max-width:100% ;
+    width: 380px;
+    box-shadow: 4px 4px 4px 2px rgb(190, 190, 190);
+    margin-bottom: 20px;
+}
+h1.thirdHeadingAudio{
+    margin-left: 0px;
+    transform: scale(.9, 1.8);
+    font-size: 25px;
+    max-width: 400px;
+    line-height: .9;
+    text-align: left;
+}
+p.thirdParaAudio{
+    margin-left: 20px;
+    max-width: 399px;
+    font-size: 16px;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    margin-top: 40px;
+}
+img.fourthImageAudio{
+    max-width:100% ;
+    width: 380px;
+    box-shadow: 4px 4px 4px 2px rgb(190, 190, 190);
+    margin-bottom: 20px;
+    margin-top: 120px;
+}
+.fourthAudio{
+    margin-left: 375px !important;
+    margin-top: -50px;
+}
+h1.fourthHeadingAudio{
+    margin-left: -60px;
+    transform: scale(.9, 1.8);
+    font-size: 25px;
+    margin-top: 10px;
+}
+p.fourthParaAudio{
+    margin-left: 15px;
+     max-width: 390px;
+     font-size: 16px;
+     font-family:  Verdana, Geneva, Tahoma, sans-serif;
+     text-align: left;
+     margin-top: 25px;
+}
+ 
+
+@media only screen and (max-width:1440px){
+    .sec5Audio3 h5{ 
+        font-size: 48px;
+        transform: scale(1.1, 2.2);
+         min-width: 1200px !important; 
+        word-spacing: 0px;
+        letter-spacing: 3px; 
+         margin-left: -120px;
+    }
+    .sec5Audio3 p.para3{
+        text-align: left;
+        max-width: 1210px;
+        margin-top: 100px;
+        font-family: sans-serif;
+        font-size: 24.5px;
+        margin-bottom: 100px;
+        margin-left: -130px;
+    } 
+    .firstAudio{
+        margin-left: -60px;
+    }
+    .fourthAudio {
+        margin-left: 360px;
+    }
+    .secondAudio {
+        margin-left: 0px;
+    }
+    .thirdAudio {
+        margin-left: 0px;
+    }
+    p.firstParaAudio,p.secondParaAudio,p.thirdParaAudio,p.fifthPara,p.sixthPara,p.seventhPara,p.eighthPara,p.ninethPara {
+        margin-left: 10px;
+    }
+   h1.fourthHeadingAudio{
+    margin-left: -155px;
+   }
+   h1.fourthHeadingAudio,h1.firstHeadingAudio,h1.secondHeadingAudio,h1.thirdHeadingAudio{
+    font-size: 22px;
+   }
+   h1.firstHeadingAudio{
+    margin-left: -165px ;
+   }
+   p.firstParaAudio{
+    font-size: 14px;
+   width: 370px ;
+   }
+   h1.secondHeadingAudio{
+    margin-left: -15px;
+     width: 500px;
+   }
+   p.secondParaAudio{
+    font-size: 14px;
+    width: 390px !important;
+   }
+   h1.thirdHeadingAudio{
+    margin-left: -10px;
+     min-width: 450px !important;
+   }
+   p.thirdParaAudio{
+    font-size: 14px;
+    width: 390px !important;
+    margin-left: 15px;
+   }
+   h1.fourthHeadingAudio{
+    margin-left: -90px; 
+   }
+   p.fourthParaAudio{
+    font-size: 14px;
+    width: 370px !important;
+    margin-left: 10px;
+   }
+}
+
+@media only screen and (max-width:1024px){
+    .sec5Audio3{
+        padding-top: 90px;
+        margin-left: -55px !important;
+    }
+    .sec5Audio3 h5{ 
+        min-width: 1100px !important; 
+        font-weight: 500;
+    }
+    .sec5Audio3 p.para3{
+        max-width: 925px;
+        margin-top: 120px;
+        margin-left: -60px;
+    }
+    .sec5Audio3 p.para4{
+        max-width: 800px;
+    }
+  
+    .firstAudio,.seventh{
+        margin-left: -110px;
+    }
+    img.firstImageAudio,img.fourthImageAudio, img.seventhImage{
+         min-width: 290px ;
+         
+    }
+    h1.firstHeadingAudio{
+        transform: scale(1, 1.8);
+        font-size: 21px;
+        margin-left: -30px;
+        margin-top: 10px;
+        
+    }
+    p.firstParaAudio{
+        margin-left: 5px;
+        width: 280px ;
+    }
+    .secondAudio,.fifth,.eighth{
+        margin-left: 40px;
+    }
+    img.secondImageAudio,img.fifthImage,img.eighthImage{
+        min-width: 290px;
+    }
+    h1.secondHeadingAudio{
+        margin-left:5px;
+        transform: scale(1, 1.8);
+        font-size: 21px;
+        margin-top: 25px;
+        width: 300px;
+    }
+    p.secondParaAudio{
+         margin-left: 3px;
+         width: 280px !important;
+    }
+    .thirdAudio,.sixth,.nineth{
+        margin-left: 40px;
+    }
+    img.thirdImageAudio,img.sixthImage,img.ninethImage{
+        
+        min-width: 290px;
+       
+    }
+    h1.thirdHeadingAudio{
+        margin-left:0px;
+        transform: scale(1, 1.8);
+        font-size: 21px;
+         min-width: 310px !important;
+         margin-top: 30px;
+    }
+    p.thirdParaAudio{
+        margin-left: 7px;
+         width: 280px !important;
+        font-size: 14.7px;
+        font-family:  Verdana, Geneva, Tahoma, sans-serif;
+        text-align: left;
+        margin-top: 40px;
+    }
+    .fourthAudio{
+        margin-left: 200px !important;
+    }
+    h1.fourthHeadingAudio{
+        margin-left: -45px  ;
+        transform: scale(1, 1.8);
+        font-size: 21px;
+        margin-top: 10px;
+        width: 400px;
+    }
+    p.fourthParaAudio{
+        margin-left: 5px;
+           width: 280px !important;
+        
+    }
+   
+   
+}
+
+@media only screen and (max-width:768px){
+    .sec5Audio3{
+        padding-top: 80px;
+        margin-left: -160px !important;
+    }
+    .sec5Audio3 h5{ 
+        min-width: 1000px !important; 
+        font-weight: 400;
+        font-size: 43px;
+        transform: scale(.87,1.8);
+        word-spacing: 0;
+        
+    }
+    .sec5Audio3 p.para3{
+        max-width: 670px;
+        margin-top: 80px;
+        font-size: 17px;
+        margin-left: 50px;
+        font-weight: 500;
+    }
+    .sec5Audio3 p.para4{
+        max-width: 530px;
+        margin-top: 50px;
+        font-size: 16px;
+        margin-left: 80px;
+        font-weight: 500;
+    }
+    .sec6{
+        margin-top: 160px;
+    }
+    .sec6 h5{
+        font-size: 45px;
+        transform: scale(.85,1.9);
+        font-weight: 200 !important;
+        margin-left: -125px; 
+       padding-bottom: 70px;
+       min-width: 700px;
+    }
+    img.firstImageAudio,img.fourthImageAudio, img.seventhImage,img.secondImageAudio,img.fifthImage,img.eighthImage,img.thirdImageAudio,img.sixthImage,img.ninethImage{
+        min-width: 315px ;
+        
+   }
+   h1.firstHeadingAudio{
+    transform: scale(1, 2);
+    font-size: 13px;
+    margin-left: -130px;
+    margin-top: 10px;
+    font-weight: 800; 
+}
+p.firstParaAudio{
+    margin-left: 0;
+    width: 310px;
+}
+.secondAudio{
+    margin-left: 60px;
+}
+h1.secondHeadingAudio{
+    transform: scale(1, 2);
+    font-size: 13px;
+    margin-left: 0px;
+    margin-top: 10px;
+    font-weight: 800;
+}
+p.secondParaAudio{
+    margin-left: 0;
+    width: 300px !important;
+    margin-top: 25px;
+}
+.thirdAudio{
+    margin-left: -110px !important;
+    margin-top: 50px !important;
+}
+.fourthAudio{
+    margin-left: 60px !important;
+    margin-top: -70px !important;
+}
+ 
+h1.thirdHeadingAudio{
+    margin-left: 0px;
+    transform: scale(1, 2);
+    font-size: 13px;
+    font-weight: 800;
+}
+p.thirdParaAudio{
+    margin-left: 3px;
+     width: 320px !important;
+    margin-top: 30px;
+}
+ 
+ 
+h1.fourthHeadingAudio{
+    margin-left: -105px;
+    transform: scale(1, 2);
+    font-size: 13px;
+    font-weight: 800;
+}
+p.fourthParaAudio{
+    margin-left: 3px;
+      width: 310px !important;
+    
+}
+ 
+}
+
+@media only screen and (max-width:450px){
+    .sec5Audio3{
+        padding-top: 80px;
+        margin-left: -180px;
+    }
+    .sec5Audio3 h5{ 
+         min-width: 450px !important; 
+        margin-left: 0px;
+    }
+    .sec5Audio3 p.para3{
+        width: 375px;
+        margin-top: 90px; 
+        margin-left: 55px; 
+    }
+    .sec5Audio3 p.para4{
+        width:353px;
+        margin-left: 55px;
+    }
+    .sec6{
+        margin-top: 160px;
+    }
+    .sec6 h5{
+      
+        margin-left: -205px; 
+      padding-bottom: 80px;
+       min-width: 500px;
+    }
+    img.firstImageAudio,img.fourthImageAudio, img.seventhImage,img.secondImageAudio,img.fifthImage,img.eighthImage,img.thirdImageAudio,img.sixthImage,img.ninethImage{
+        min-width: 165px ;
+        
+   }
+   .firstAudio{
+    margin-left: -130px;
+   }
+   h1.firstHeadingAudio{
+   width: 200px;
+    margin-left: 0px;
+    text-align: left;
+    line-height: .85;
+    margin-top: 20px;
+    
+}
+p.firstParaAudio{
+    margin-top: 30px;
+    margin-left: 0px;
+    width: 170px ;
+}
+.secondAudio{
+    margin-left:75px !important;
+}
+h1.secondHeadingAudio{
+    margin-left: 0px;
+    text-align: left;
+    line-height: .85;
+    margin-top: 20px;
+     width: 180px ;
+}
+p.secondParaAudio{
+    margin-left: 0;
+    width: 155px !important;
+    margin-top: 30px;
+}
+.thirdAudio{
+    margin-left: -310px !important;
+    margin-top: 550px !important;
+}
+.fourthAudio{
+    margin-left: 75px !important;
+    margin-top: 430px !important;
+}
+ 
+h1.thirdHeadingAudio{
+    margin-left: 0px;
+    text-align: left;
+    line-height: .85;
+    margin-top: 20px;
+    min-width: 160px !important ;
+}
+p.thirdParaAudio{
+    margin-left: 0;
+    width: 175px !important;
+    margin-top: 30px;
+    
+}
+ 
+ 
+h1.fourthHeadingAudio{
+    margin-left: 0px;
+    text-align: left;
+    line-height: .85;
+    margin-top: 20px;
+    max-width: 150px;
+}
+p.fourthParaAudio{
+    margin-left: 0;
+    width: 160px !important;
+    margin-top: 30px;
+    
+}
+ 
+}
+@media only screen and (max-width:380px){
+    .sec5Audio3{ 
+        margin-left: -160px;
+    }
+    .sec5Audio3 h5{ 
+          min-width: 300px !important;  
+    }
+    .sec5Audio3 p.para3{
+        width: 300px;
+        margin-top: 110px; 
+        margin-left: 35px; 
+        font-size: 15.5px;
+    }
+    .sec5Audio3 p.para4{
+        width:310px;
+        margin-left: 35px;
+    }
+    .sec6{
+        margin-top: 160px;
+    }
+    .sec6 h5{
+      
+        margin-left: -125px; 
+      padding-bottom: 80px;
+       min-width: 300px;
+    }
+    img.firstImageAudio,img.fourthImageAudio, img.seventhImage,img.secondImageAudio,img.fifthImage,img.eighthImage,img.thirdImageAudio,img.sixthImage{
+        min-width: 140px ;
+        
+   }
+   .firstAudio{
+    margin-left: -130px;
+   }
+   h1.firstHeadingAudio{
+   width: 300px; 
+    
+}
+p.firstParaAudio{ 
+    width: 140px;
+}
+.secondAudio{
+    margin-left: 75px;
+} 
+h1.secondHeadingAudio{
+    width: 150px; 
+     
+ }
+p.secondParaAudio{ 
+    width: 140px !important; 
+}
+.thirdAudio{
+    margin-left: -260px !important;
+    margin-top: 580px !important;
+}
+h1.thirdHeadingAudio{
+    min-width: 130px !important; 
+     
+ }
+.fourthAudio{
+    margin-left: - 75px !important;
+    margin-top: 460px !important;
+} 
+p.thirdParaAudio{ 
+    width: 140px !important; 
+} 
+p.fourthParaAudio{ 
+    width: 138px !important; 
+    
+}
+ 
+ 
+}
+
+@media only screen and (max-width:320px){
+     
+    .sec5Audio3 h5{ 
+         width: 320px; 
+         font-size: 38px; 
+    }
+    .sec5Audio3 p.para3{
+        width: 252px; 
+    }
+    .sec5Audio3 p.para4{
+        width:252px; 
+    } 
+    .sec6 h5{ 
+        margin-left: -150px;  
+    }
+    img.firstImageAudio,img.fourthImageAudio, img.seventhImage,img.secondImageAudio,img.fifthImage,img.eighthImage,img.thirdImageAudio,img.sixthImage{
+        min-width: 115px ;
+        
+   }  
+p.firstParaAudio{ 
+    width: 110px;
+} 
+h1.firstHeadingAudio{
+    width: 130px; 
+     
+ }
+h1.secondHeadingAudio{
+    width: 150px; 
+     
+ }
+p.secondParaAudio{ 
+    width: 110px !important; 
+}
+.firstAudio,.secondAudio{
+    
+    margin-top: -50px;
+}
+.thirdAudio{
+    margin-left: -200px !important;
+    margin-top: 580px !important;
+}
+h1.thirdHeadingAudio{
+    min-width: 100px !important; 
+     
+ }
+.fourthAudio{
+    margin-left: 75px;
+    margin-top: 460px;
+} 
+h1.fourthHeadingAudio{
+     width: 110px !important; 
+     
+ }
+p.thirdParaAudio{ 
+    width: 117px !important; 
+} 
+p.fourthParaAudio{ 
+    width: 114px !important; 
+    
+}
+.fifth{
+    margin-left: -200px;
+    margin-top: 1750px;
+}
+.sixth{
+    margin-left: 75px;
+    margin-top: 1750px;
+} 
+p.fifthPara{ 
+    width: 115px !important; 
+     
+} 
+p.sixthPara{ 
+    width: 114px !important; 
+}
+.seventh{
+     margin-left: -210px;
+    margin-top: 2750px;
+}
+.eighth{
+    margin-left: 75px;
+    margin-top: 2750px;
+} 
+p.seventhPara{ 
+    width: 114px !important; 
+}  
+p.eighthPara{ 
+    width: 114px !important; 
+}
+img.ninethImage{
+    min-width: 260px;
+}
+.nineth{
+    margin-left: -205px;
+    margin-top: 3450px;
+} 
+p.ninethPara{
+    margin-left: 0;
+    width: 260px !important;
+    margin-top: 30px;
+    
+}
+}

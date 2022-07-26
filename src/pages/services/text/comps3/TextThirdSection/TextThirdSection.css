@@ -1,0 +1,1075 @@
+.thirdContainerText{
+    margin-left: 150px;
+    margin-right: 20px;
+    padding-bottom: 80px;
+}
+.sec5Text{
+    padding-top: 80px;
+    margin-left: 80px;
+}
+.sec5Text h5{
+    text-align: center;
+    font-size: 50px;
+    transform: scale(.9, 2.2);
+    max-width: 1000px;
+    line-height: .85;
+    word-spacing: 15px;
+    letter-spacing: 3px;
+     
+}
+.sec5Text p.para3{
+    text-align: center;
+    max-width: 970px;
+    margin-top: 100px;
+    font-family: sans-serif;
+    font-size: 26px;
+    margin-left: 40px;
+}
+.sec5Text p.para4{
+    text-align: center;
+    max-width: 1050px;
+    margin-top: 50px;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.sec6Text{
+    margin-top: 130px;
+}
+.sec6Text h5{
+    text-align: center;
+    font-size: 50px;
+    transform: scale(1.1, 2.2);
+    line-height: .85;
+    word-spacing: 15px;
+    max-width: 100%;
+    margin-left: -50px; 
+   padding-bottom: 70px;
+   font-weight: 500px !important;
+}
+.first{
+    margin-left: -30px;
+}
+img.firstImage{
+    max-width:100% ;
+    width: 380px;
+    box-shadow: 4px 4px 4px 2px rgb(190, 190, 190);
+    margin-bottom: 20px;
+}
+h1.firstHeadingText{
+    transform: scale(.9, 1.8);
+    font-size: 25px;
+    margin-left: -150px;
+}
+p.firstParaText{
+    margin-left: 15px;
+    max-width: 385px;
+    font-size: 15.7px;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    margin-top: 25px;
+     
+}
+.second{
+    margin-left: -20px;
+}
+img.secondImage{
+    max-width:100% ;
+    width: 380px;
+    box-shadow: 4px 4px 4px 2px rgb(190, 190, 190);
+    margin-bottom: 20px;
+}
+h1.secondHeadingText{
+    margin-left: -185px;
+    transform: scale(.9, 1.8);
+    font-size: 25px;
+}
+p.secondParaText{
+    margin-left: 20px;
+     max-width: 380px !important;
+     font-size: 15.7px;
+     font-family:  Verdana, Geneva, Tahoma, sans-serif;
+     text-align: left;
+     margin-top: 25px;
+}
+.third{
+    margin-left: -20px;
+}
+img.thirdImage{
+    max-width:100% ;
+    width: 380px;
+    box-shadow: 4px 4px 4px 2px rgb(190, 190, 190);
+    margin-bottom: 20px;
+}
+h1.thirdHeadingText{
+    margin-left: 0px;
+    transform: scale(.9, 1.8);
+    font-size: 25px;
+     width: 400px;
+    text-align: left;
+    line-height: .9;
+}
+p.thirdParaText{
+    margin-left: 20px;
+    max-width: 399px;
+    font-size: 15.7px;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    margin-top: 45px;
+}
+img.fourthImageText{
+    max-width:100% ;
+    width: 380px;
+    box-shadow: 4px 4px 4px 2px rgb(190, 190, 190);
+    margin-bottom: 20px;
+    margin-top: 120px;
+}
+.fourth{
+    margin-left: -30px;
+    margin-top: -50px;
+}
+h1.fourthHeadingText{
+    margin-left: -30px;
+    transform: scale(.9, 1.8);
+    font-size: 25px;
+    width: 450px ;
+}
+p.fourthParaText{
+    margin-left: 10px;
+     max-width: 380px;
+     font-size: 15.7px;
+     font-family:  Verdana, Geneva, Tahoma, sans-serif;
+     text-align: left;
+     margin-top: 25px;
+}
+.fifthText{
+    margin-left: -20px;
+    margin-top: 70px;
+}
+img.fifthImageText{
+    max-width:100% ;
+    width: 380px;
+    box-shadow: 4px 4px 4px 2px rgb(190, 190, 190);
+    margin-bottom: 20px;
+}
+h1.fifthHeadingText{
+    margin-left: -150px;
+    transform: scale(.9, 1.8);
+    font-size: 25px;
+}
+p.fifthParaText{
+    margin-left: 20px;
+    max-width: 400px;
+    font-size: 15.7px;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    margin-top: 25px;
+}
+img.sixthImageText{
+    max-width:100% ;
+    width: 380px;
+    box-shadow: 4px 4px 4px 2px rgb(190, 190, 190);
+    margin-bottom: 20px;
+}
+.sixthText{
+    margin-left: -20px;
+    margin-top: 70px;
+}
+h1.sixthHeadingText{
+    margin-left: -150px;
+    transform: scale(.9, 1.8);
+    font-size: 25px;
+}
+p.sixthParaText{
+    margin-left: 20px;
+    max-width: 399px;
+    font-size: 15.7px;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    margin-top: 25px;
+}
+.seventh{
+    margin-left: -30px;
+    margin-top: 50px;
+}
+img.seventhImage{
+    max-width:100% ;
+    width: 380px;
+    box-shadow: 4px 4px 4px 2px rgb(190, 190, 190);
+    margin-bottom: 20px;
+    
+}
+h1.seventhHeading{
+    margin-left: -115px;
+    transform: scale(.9, 1.8);
+    font-size: 25px;
+}
+p.seventhPara{
+    margin-left: 15px;
+    max-width: 410px;
+    font-size: 14.5px;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    margin-top: 25px;
+}
+.eighth{
+    margin-left: -20px;
+    margin-top: 50px;
+}
+img.eighthImage{
+    max-width:100% ;
+    width: 380px;
+    box-shadow: 4px 4px 4px 2px rgb(190, 190, 190);
+    margin-bottom: 20px;
+}
+h1.eighthHeading{
+    margin-left: -120px;
+    transform: scale(.9, 1.8);
+    font-size: 25px;
+}
+p.eighthPara{
+    margin-left: 20px;
+    max-width: 400px;
+    font-size: 14.5px;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    margin-top: 25px;
+}
+.nineth{
+    margin-left: -20px;
+    margin-top: 50px;
+}
+img.ninethImage{
+    max-width:100% ;
+    width: 380px;
+    box-shadow: 4px 4px 4px 2px rgb(190, 190, 190);
+    margin-bottom: 20px;
+}
+h1.ninethHeading{
+    margin-left: -150px;
+    transform: scale(.9, 1.8);
+    font-size: 25px;
+}
+p.ninethPara{
+    margin-left: 20px;
+    max-width: 399px;
+    font-size: 14.5px;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    margin-top: 25px;
+}
+
+@media only screen and (max-width:1440px){
+    .sec5Text p.para3{ 
+        max-width: 980px; 
+        font-size: 24px;
+        margin-left: -30px;
+    }
+    h1.firstHeadingText{ 
+        margin-left: -140px;
+    }
+    p.firstParaText{ 
+        max-width: 400px;
+        font-size: 14.5px; 
+         
+    }
+    p.secondParaText{ 
+        max-width: 400px;
+        font-size: 14.5px; 
+         
+    }
+    h1.thirdHeadingText{ 
+     width: 450px;
+     margin-left: -15px;
+    }
+    p.thirdParaText{ 
+        max-width: 400px;
+        font-size: 14.5px; 
+         
+    }
+    h1.fourthHeadingText{ 
+        width: 450px;
+        margin-left: -30px !important;
+       }
+       p.fourthParaText{ 
+        max-width: 400px;
+        font-size: 14.5px; 
+         
+    }
+    p.fifthParaText{ 
+         width: 550px !important;
+        font-size: 14.5px; 
+         
+    }
+    p.sixthParaText{ 
+        width: 550px !important;
+       font-size: 14.5px; 
+        
+   }
+    .first,.fourth,.seventh{
+        margin-left: -60px;
+    }
+    .second,.fifthText,.eighth{
+        margin-left: 0px;
+    }
+    .third,.sixthText,.nineth{
+        margin-left: 0px;
+    }
+    p.firstParaText,p.secondParaText,p.thirdParaText,p.fifthParaText,p.sixthParaText,p.seventhPara,p.eighthPara,p.ninethPara {
+        margin-left: 10px;
+    }
+   h1.fourthHeadingText{
+    margin-left: -155px;
+   }
+}
+
+@media only screen and (max-width:1024px){
+    .sec5Text{
+        padding-top: 90px;
+        margin-left: -55px;
+    }
+    .sec5Text h5{ 
+        max-width: 800px; 
+        font-weight: 500;
+    }
+    .sec5Text p.para3{
+        max-width: 750px;
+        margin-left: 20px;
+    }
+    .sec5Text p.para4{
+        max-width: 800px;
+    }
+    .sec6Text{
+        margin-top: 180px;
+    }
+    .sec6Text h5{
+        transform: scale(1.05, 2.2);
+        font-weight: 400;
+        margin-left: -55px; 
+       padding-bottom: 85px;
+    }
+    .first,.fourth,.seventh{
+        margin-left: -110px;
+    }
+    img.firstImage,img.fourthImageText, img.seventhImage{
+         min-width: 290px ;
+         
+    }
+    h1.firstHeadingText{
+        transform: scale(1, 1.8);
+        font-size: 20.3px;
+        margin-left: -35px;
+        margin-top: 10px; 
+    }
+    p.firstParaText{
+        margin-left: 5px;
+        width: 286px;
+    }
+    .second,.fifthText,.eighth{
+        margin-left: 40px;
+    }
+    img.secondImage,img.fifthImageText,img.eighthImage{
+        min-width: 290px;
+    }
+    h1.secondHeadingText{
+        margin-left: -80px;
+        transform: scale(1, 1.8);
+        font-size: 20.3px;
+        margin-top: 10px;
+    }
+    p.secondParaText{
+         margin-left: 3px;
+         width: 290px !important;
+    }
+    .third,.sixthText,.nineth{
+        margin-left: 40px;
+    }
+    img.thirdImage,img.sixthImageText,img.ninethImage{
+        
+        min-width: 290px;
+       
+    }
+    h1.thirdHeadingText{
+        margin-left:5px;
+        transform: scale(1, 1.8);
+        font-size: 20.3px;
+         width: 310px;
+         margin-top: 30px;
+    }
+    p.thirdParaText{
+        margin-left: 7px;
+        width: 295px;
+        font-size: 14.7px;
+        font-family:  Verdana, Geneva, Tahoma, sans-serif;
+        text-align: left;
+        margin-top: 35px;
+    }
+    h1.fourthHeadingText{
+        margin-left:5px !important;
+        transform: scale(1, 1.8);
+        font-size: 20.3px;
+        margin-top: 10px;
+        width: 335px;
+        line-height: .9;
+        text-align: left;
+    }
+    p.fourthParaText{
+        margin-left: 5px;
+          width: 290px;
+        
+    }
+    h1.fifthHeadingText{
+        margin-left: -45px;
+        transform: scale(1, 1.8);
+        font-size: 20.3px;
+        margin-top: 10px;
+       
+    }
+    p.fifthParaText{
+        margin-left: 5px;
+         width: 290px !important;
+      
+    }
+    
+    h1.sixthHeadingText{
+        margin-left: -50px;
+        transform: scale(1, 1.8);
+        font-size: 20.3px;
+        margin-top: 10px;
+        width: 300px;
+    }
+    p.sixthParaText{
+        margin-left: 2px;
+         width: 280px !important;
+        
+    }
+    h1.seventhHeading{
+        margin-left: -5px;
+        transform: scale(1, 1.8);
+        font-size: 21px;
+        margin-top: 10px;
+    }
+    p.seventhPara{
+        margin-left: 5px;
+         width: 290px;
+        
+    }
+   
+    h1.eighthHeading{
+        margin-left: -10px;
+        transform: scale(1, 1.8);
+        font-size: 21px;
+        margin-top: 10px;
+    }
+    p.eighthPara{
+        margin-left: 5px;
+         width: 290px;
+         
+    }
+    
+    h1.ninethHeading{
+        margin-left: -40px;
+        transform: scale(1, 1.8);
+        font-size: 21px;
+        margin-top: 10px;
+    }
+    p.ninethPara{
+        margin-left: 5px;
+         width: 295px;
+        
+    }
+    
+   
+}
+
+@media only screen and (max-width:768px){
+    .sec5Text{
+        padding-top: 55px;
+        margin-left: -120px;
+    }
+    .sec5Text h5{ 
+        max-width: 800px; 
+        font-weight: 400;
+        font-size: 43px;
+        transform: scale(.85,1.8);
+        word-spacing: 0;
+        
+    }
+    .sec5Text p.para3{
+        max-width: 530px;
+        margin-top: 80px;
+        font-size: 16px;
+        margin-left: 80px;
+        font-weight: 500;
+    }
+    .sec5Text p.para4{
+        max-width: 530px;
+        margin-top: 50px;
+        font-size: 16px;
+        margin-left: 80px;
+        font-weight: 500;
+    }
+    .sec6Text{
+        margin-top: 160px;
+    }
+    .sec6Text h5{
+        font-size: 45px;
+        transform: scale(.85,1.9);
+        font-weight: 200 !important;
+        margin-left: -125px; 
+       padding-bottom: 70px;
+       min-width: 700px;
+    }
+    img.firstImage,img.fourthImageText, img.seventhImage,img.secondImage,img.fifthImageText,img.eighthImage,img.thirdImage,img.sixthImageText,img.ninethImage{
+        min-width: 315px ;
+        
+   }
+   h1.firstHeadingText{
+    transform: scale(1, 2);
+    font-size: 13px;
+    margin-left: -132px;
+    margin-top: 10px;
+    font-weight: 800;
+}
+p.firstParaText{
+    margin-left: 0;
+    width: 320px;
+}
+.second{
+    margin-left: 60px;
+}
+h1.secondHeadingText{
+    transform: scale(1, 2);
+    font-size: 13px;
+    margin-left: -155px ;
+    margin-top: 10px;
+    font-weight: 800;
+}
+p.secondParaText{
+    margin-left: 0;
+    width: 320px !important;
+}
+.third{
+    margin-left: -110px;
+    margin-top: 50px;
+}
+.fourth{
+    margin-left: 60px;
+    margin-top: -70px;
+}
+ 
+h1.thirdHeadingText{
+    margin-left: 5px;
+    transform: scale(1, 2);
+    font-size: 13px;
+    font-weight: 800;
+    margin-top:15px;
+}
+p.thirdParaText{
+    margin-left: 3px;
+     width: 320px;
+    
+}
+ 
+ 
+h1.fourthHeadingText{
+    margin-left: -135px;
+    transform: scale(1, 2);
+    font-size: 13px;
+    font-weight: 800;
+}
+p.fourthParaText{
+    margin-left: 3px;
+      width: 320px;
+    
+}
+.fifthText{
+    margin-left: -110px;
+}
+.sixthText{
+    margin-left: 60px;
+}
+h1.fifthHeadingText{
+    margin-left: -135px;
+    transform: scale(1, 2);
+    font-size: 13px;
+    font-weight: 800;
+}
+p.fifthParaText{
+    margin-left: 3px;
+    width: 315px;
+     
+}
+ 
+ 
+h1.sixthHeadingText{
+    margin-left: -85px;
+    transform: scale(1, 2);
+    font-size: 13px;
+    font-weight: 800;
+}
+p.sixthParaText{
+    margin-left: 0px;
+    width: 330px !important;
+   
+}
+.eighth{
+    margin-left: 60px;
+}
+h1.seventhHeading{
+    margin-left: -110px;
+    transform: scale(1, 2);
+    font-size: 13px;
+    font-weight: 800;
+}
+p.seventhPara{
+    margin-left: 0px;
+    width: 320px;
+    
+}
+ 
+ 
+h1.eighthHeading{
+    margin-left: -115px;
+    transform: scale(1, 2);
+    font-size: 13px;
+    font-weight: 800;
+}
+p.eighthPara{
+    margin-left: 0px;
+     width: 320px;
+}
+.nineth{
+    margin-left: 65px;
+}
+h1.ninethHeading{
+    margin-left: -135px;
+    transform: scale(1, 2);
+    font-size: 13px;
+    font-weight: 800;
+    
+}
+p.ninethPara{
+    margin-left: 3px;
+     width: 320px;
+    
+}
+}
+
+@media only screen and (max-width:450px){
+    .sec5Text{
+        padding-top: 80px;
+        margin-left: -180px;
+    }
+    .sec5Text h5{ 
+         width: 450px; 
+        
+    }
+    .sec5Text p.para3{
+        width: 353px;
+        margin-top: 90px; 
+        margin-left: 55px; 
+    }
+    .sec5Text p.para4{
+        width:353px;
+        margin-left: 55px;
+    }
+    .sec6Text{
+        margin-top: 160px;
+    }
+    .sec6Text h5{
+      
+        margin-left: -205px; 
+      padding-bottom: 80px;
+       min-width: 500px;
+    }
+    img.firstImage,img.fourthImageText, img.seventhImage,img.secondImage,img.fifthImageText,img.eighthImage,img.thirdImage,img.sixthImageText,img.ninethImage{
+        min-width: 100px ;
+        
+   }
+   .first{
+    margin-left: -130px;
+   }
+   h1.firstHeadingText{
+  
+    margin-left: 0px;
+    text-align: left;
+    line-height: .85;
+    margin-top: 20px;
+    
+}
+p.firstParaText{
+    margin-top: 30px;
+    margin-left: 0;
+    width: 100px;
+}
+.second{
+    margin-left: 10px;
+}
+h1.secondHeadingText{
+    margin-left: 0px;
+    text-align: left;
+    line-height: .85;
+    margin-top: 20px;
+}
+p.secondParaText{
+    margin-left: 0;
+    width: 100px !important;
+    margin-top: 30px;
+}
+.third{
+    margin-left: 125px;
+    margin-top: -1040px;
+}
+.fourth{
+    margin-left: -370px;
+    margin-top: -80px;
+}
+ 
+h1.thirdHeadingText{
+    margin-left: 0px;
+    text-align: left;
+    line-height: .85;
+    margin-top: 28px;
+    max-width: 100px;
+}
+p.thirdParaText{
+    margin-left: 0;
+    width: 105px !important;
+    margin-top: 30px;
+    
+}
+ 
+ 
+h1.fourthHeadingText{
+    margin-left: 0px;
+    text-align: left;
+    line-height: .85;
+    margin-top: 20px;
+    max-width: 100px;
+}
+p.fourthParaText{
+    margin-left: 5px;
+    width: 100px !important;
+    margin-top: 30px;
+    
+}
+.fifthText{
+    margin-left: 10px;
+    margin-top: 40px;
+}
+.sixthText{
+    margin-left: 125px;
+    margin-top: -815px;
+}
+h1.fifthHeadingText{
+    margin-left: 0px;
+    text-align: left;
+    line-height: .85;
+    margin-top: 20px;
+    max-width: 100px;
+}
+p.fifthParaText{
+    margin-left: 0;
+    width: 100px !important;
+    margin-top: 30px;
+     
+}
+ 
+ 
+h1.sixthHeadingText{
+    margin-left: 0px;
+    text-align: left;
+    line-height: .85;
+    margin-top: 20px;
+    max-width: 100px;
+}
+p.sixthParaText{
+    margin-left: 0;
+    width: 100px !important;
+    margin-top: 30px;
+   
+}
+.seventh{
+     margin-left: -370px;
+    margin-top: 330px;
+}
+.eighth{
+    margin-left: 10px;
+    margin-top: 330px;
+}
+h1.seventhHeading{
+    margin-left: 0px;
+    text-align: left;
+    line-height: .85;
+    margin-top: 20px;
+    max-width: 100px;
+}
+p.seventhPara{
+    margin-left: 0;
+    width: 100px !important;
+    margin-top: 30px;
+}
+ 
+ 
+h1.eighthHeading{
+    margin-left: 0px;
+    text-align: left;
+    line-height: .85;
+    margin-top: 20px;
+    max-width: 100px;
+}
+p.eighthPara{
+    margin-left: 0;
+    width: 100px !important;
+    margin-top: 30px;
+}
+.nineth{
+    margin-left: 12px;
+    margin-top: -690px;
+}
+h1.ninethHeading{
+    margin-left: 0px;
+    text-align: left;
+    line-height: .85;
+    margin-top: 20px;
+    max-width: 100px;
+    
+}
+p.ninethPara{
+    margin-left: 0;
+    width: 100px !important;
+    margin-top: 30px;
+    
+}
+}
+@media only screen and (max-width:380px){
+    .sec5Text{ 
+        margin-left: -160px;
+    }
+    .sec5Text h5{ 
+         width: 380px;  
+    }
+    .sec5Text p.para3{
+        width: 300px;
+        margin-top: 110px; 
+        margin-left: 35px; 
+    }
+    .sec5Text p.para4{
+        width:310px;
+        margin-left: 35px;
+    }
+    .sec6Text{
+        margin-top: 160px;
+    }
+    .sec6Text h5{
+      
+        margin-left: -130px; 
+      padding-bottom: 80px;
+       min-width: 320px;
+    }
+    img.firstImage,img.fourthImageText, img.seventhImage,img.secondImage,img.fifthImageText,img.eighthImage,img.thirdImage,img.sixthImageText{
+        min-width: 140px ;
+        
+   }
+   .first{
+    margin-left: -130px;
+   }
+   h1.firstHeadingText{
+   width: 300px; 
+    
+}
+p.firstParaText{ 
+    width: 144px;
+}
+.second{
+    margin-left: 75px;
+} 
+h1.secondHeadingText{
+    width: 300px; 
+     
+ }
+p.secondParaText{ 
+    width: 144px !important; 
+}
+.third{
+    margin-left: -260px;
+    margin-top: 820px;
+}
+h1.thirdHeadingText{
+    min-width:130px !important; 
+     
+ }
+.fourth{
+    margin-left: 75px;
+    margin-top: 700px;
+} 
+p.thirdParaText{ 
+    width: 147px !important; 
+} 
+p.fourthParaText{ 
+    width: 144px !important; 
+    
+}
+h1.fourthHeadingText{
+    min-width:140px !important; 
+     
+ }
+.fifthText{
+    margin-left: -260px;
+    margin-top: 1450px;
+}
+h1.fifthHeadingText{
+    min-width:140px !important; 
+     
+ }
+.sixthText{
+    margin-left: 75px;
+    margin-top: 1450px;
+} 
+h1.sixthHeadingText{
+    min-width:140px !important; 
+     
+ }
+p.fifthParaText{ 
+    width: 144px !important; 
+     
+} 
+p.sixthParaText{ 
+    width: 144px !important; 
+}
+.seventh{
+     margin-left: -260px;
+    margin-top: 2350px;
+}
+.eighth{
+    margin-left: 75px;
+    margin-top: 2350px;
+} 
+p.seventhPara{ 
+    width: 144px !important; 
+}  
+p.eighthPara{ 
+    width: 144px !important; 
+}
+img.ninethImage{
+    min-width: 320px;
+}
+.nineth{
+    margin-left: -260px;
+    margin-top: 2950px;
+}
+h1.ninethHeading{ 
+    min-width: 150px;
+    
+}
+p.ninethPara{
+    margin-left: 0;
+    width: 320px !important;
+    margin-top: 30px;
+    
+}
+}
+
+@media only screen and (max-width:320px){
+     
+    .sec5Text h5{ 
+         width: 320px;  
+    }
+    .sec5Text p.para3{
+        width: 252px; 
+    }
+    .sec5Text p.para4{
+        width:252px; 
+    } 
+    .sec6Text h5{ 
+        margin-left: -150px;  
+        min-width: 300px !important;
+    }
+    img.firstImage,img.fourthImageText, img.seventhImage,img.secondImage,img.fifthImageText,img.eighthImage,img.thirdImage,img.sixthImageText{
+        min-width: 115px ;
+        
+   }  
+   h1.firstHeadingText{
+    width: 130px !important; 
+     
+ }
+p.firstParaText{ 
+    width: 114px;
+} 
+p.secondParaText{ 
+    width: 114px !important; 
+}
+.third{
+    margin-left: -200px;
+    margin-top: 1020px;
+}
+h1.thirdHeadingText{
+    min-width: 100px !important; 
+     
+ }
+ h1.fourthHeadingText{
+    min-width: 100px !important; 
+     
+ }
+.fourth{
+    margin-left: 75px;
+    margin-top: 900px;
+} 
+p.thirdParaText{ 
+    width: 117px !important; 
+} 
+p.fourthParaText{ 
+    width: 114px !important; 
+    
+}
+.fifthText{
+    margin-left: -200px;
+    margin-top: 1680px;
+}
+h1.fifthHeadingText{
+    min-width: 100px !important; 
+     
+ }
+.sixthText{
+    margin-left: 75px;
+    margin-top: 1680px;
+} 
+p.fifthParaText{ 
+    width: 115px !important; 
+     
+} 
+h1.six thHeadingText{
+    min-width: 100px !important; 
+     
+ }
+p.sixthParaText{ 
+    width: 114px !important; 
+}
+.seventh{
+     margin-left: -210px;
+    margin-top: 2750px;
+}
+.eighth{
+    margin-left: 75px;
+    margin-top: 2750px;
+} 
+p.seventhPara{ 
+    width: 114px !important; 
+}  
+p.eighthPara{ 
+    width: 114px !important; 
+}
+img.ninethImage{
+    min-width: 260px;
+}
+.nineth{
+    margin-left: -205px;
+    margin-top: 3450px;
+} 
+p.ninethPara{
+    margin-left: 0;
+    width: 260px !important;
+    margin-top: 30px;
+    
+}
+}

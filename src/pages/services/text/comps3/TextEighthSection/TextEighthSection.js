@@ -1,0 +1,82 @@
+import React, { useEffect } from 'react'
+import './TextEighthSection.css'
+import Aos from 'aos';
+import 'aos/dist/aos.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
+function TextEighthSection() {
+    useEffect(() =>{
+        Aos.init({});
+    },[]);
+  return (
+    <div className='ninethContainerText'>
+        <div className='container'>
+            <div className='row'>
+                <h1 className='headNine'>LEARN MORE ABOUT TEXT ANNOTATION</h1> 
+            </div>
+            <div className='row posts orig2'>
+                <div className='col-md-6'>
+                    <div className='post1' data-aos="fade-up" data-aos-duration="4s" >
+                        <h1 className='post1Head'>POST</h1>
+                        <img className='post1Image' src='https://imerit.net/wp-content/uploads/2019/09/CrowdReason-Machine-Learning-model-customer-testimonial.jpg' alt='post'></img>
+                        <div className='post1Overlay'  >
+                            <p className='post1ParaText'>CrowdReason’s Quality Model Uses iMerit Labeled Data</p>
+                        </div>
+                        <h3 className='post1Subhead'>READ MORE</h3>
+                        <img src="https://img.icons8.com/office/344/line.png" alt="logo" className='lineImage5'></img>
+                        <img src="https://img.icons8.com/office/344/line.png" alt="logo" className='lineImage6'></img>                    
+                    </div>
+                </div>
+                <div className='col-md-6'>
+                    <div className='post2' data-aos="fade-up" data-aos-duration="4s" >
+                        <h1 className='post2Head'>WHITE PAPER</h1>
+                        <img className='post2Image' src='https://imerit.net/wp-content/uploads/2020/06/Natural-Language-Processing@1x-1.jpg' alt='post'></img>
+                        <div className='post2Overlay'>
+                            <p className='post2ParaText'>Annotating Data for Natural Language Processing</p>
+                        </div>
+                        <h3 className='post2Subhead'>READ MORE</h3>
+                        <img src="https://img.icons8.com/office/344/line.png" alt="logo" className='lineImage5'></img>
+                        <img src="https://img.icons8.com/office/344/line.png" alt="logo" className='lineImage6'></img>                    
+                    </div>
+                </div>
+            </div>
+            <div className='row dup2  '>
+                <div id="demo" className="carousel slide" data-bs-ride="carousel">
+                    <div className="carousel-indicators">
+                        <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
+                        <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
+                    </div>
+                    <div className="carousel-inner">
+                    <div className="carousel-item active">
+                        <div className='post3Video'  >
+                            <h1 className='post3Head'>POST</h1>
+                            <img className='post3Image' src='https://imerit.net/wp-content/uploads/2019/09/CrowdReason-Machine-Learning-model-customer-testimonial.jpg' alt='post'></img>
+                            <div className='post3OverlayVideo'  >
+                                <p className='post3ParaVideo'>CrowdReason’s Quality Model Uses iMerit Labeled Data</p>
+                            </div>
+                            <h3 className='post3Subhead'>READ MORE</h3>
+                            <img src="https://img.icons8.com/office/344/line.png" alt="logo" className='lineImage11'></img>
+                        <img src="https://img.icons8.com/office/344/line.png" alt="logo" className='lineImage12'></img>                    
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div className='post4Video' >
+                            <h1 className='post4Head'>POST</h1>
+                            <img className='post4Image' src='https://imerit.net/wp-content/uploads/2020/06/Natural-Language-Processing@1x-1.jpg' alt='post'></img>
+                            <div className='post4OverlayVideo'>
+                                <p className='post4ParaVideo'>Annotating Data for Natural Language Processing</p>
+                            </div>
+                            <h3 className='post4Subhead'>READ MORE</h3>
+                            <img src="https://img.icons8.com/office/344/line.png" alt="logo" className='lineImage11'></img>
+                        <img src="https://img.icons8.com/office/344/line.png" alt="logo" className='lineImage12'></img>                    
+                        </div>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+  )
+}
+
+export default TextEighthSection

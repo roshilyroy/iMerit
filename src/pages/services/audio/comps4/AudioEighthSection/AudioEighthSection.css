@@ -1,0 +1,309 @@
+.sixthContainer{
+    background-color: #f8f8f9;
+    margin-top: 50px;
+    padding-bottom: 50px;
+ }
+ h1.sec9head1Audio{
+     padding-top: 80px;
+     transform: scale(1.2, 2.5);
+     font-size: 50px;
+     font-weight: 200;
+     line-height: .9;
+     word-spacing: 1.5px;
+     margin-left: 150px;
+     max-width: 1000px;
+ }
+ .sec10Audio{
+    margin-top: 200px;
+    margin-left: 35px;
+}
+img.img1sec10{
+    width: 500px;
+}
+.sec10AudioContainer1{
+    margin-left: -170px;
+    margin-top: 5px;
+}
+.sec10AudioContainer1 h1{
+    transform: scale(1, 2);
+    font-size: 28px;
+}
+p.para10Audio{
+    font-size: 16px;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 700px;
+    margin-left: 170px;
+    text-align: left;
+    margin-top: 35px;
+}
+ 
+img.img2sec10Audio{
+    width: 500px;
+    margin-top: 60px;
+    margin-left: -50px;
+}
+.sec10AudioContainer2{
+    margin-top: 80px;
+}
+.sec10AudioContainer2 h1{
+    transform: scale(1, 2);
+    font-size: 26px;
+   max-width: 600px;
+   text-align: left;
+   line-height: .9;
+}
+p.para12Audio{
+    font-size: 16px;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 700px;
+    text-align: left;
+    margin-top: 45px;
+}
+@media only screen and (max-width:1440px){
+    h1.sec9head1Audio{
+        max-width: 1200px;
+        margin-left: 40px;
+        transform: scale(1.1, 2.5);
+    }
+    p.para10Audio{
+        font-size: 14.5px;
+        max-width: 718px;
+    }
+    p.para12Audio{
+        font-size: 14.5px;
+    }
+}
+@media only screen and (max-width:1024px){
+    h1.sec9head1Audio{
+        margin-left: 20px;
+        transform: scale(1, 2.5);
+    }
+    .sec10Audio{
+        margin-left: 5px;
+    }
+    .sec10AudioContainer1{
+        margin-top: 15px;
+    }
+    .sec10AudioContainer1 h1{
+      margin-left:170px;
+      line-height: .8;
+      text-align: left;
+    }
+    p.para10Audio{
+        
+         width: 535px;
+        margin-top: 55px;
+    }
+    p.para12Audio{
+        
+        max-width: 510px;
+       
+    }
+    img.img2sec10Audio,img.img4sec10,img.img6sec10{
+       
+        margin-left: -20px;
+    }
+    
+}
+
+@media only screen and (max-width:768px){
+    h1.sec9head1Audio{ 
+        transform: scale(1.15, 2.7);
+        font-size: 35px;
+        margin-left: 100px;
+       width: 500px;
+    }
+    .sec10Audio{
+        margin-left: 15px;
+    }
+    img.img1sec10{
+        width: 260px;
+        margin-top: -20px;
+    }
+    .sec10AudioContainer1{
+        margin-top: -15px;
+    }
+    .sec10AudioContainer1 h1{
+      margin-left:170px;
+      font-size: 14.5px;
+    }
+    p.para10Audio{
+        font-size: 14.5px;
+        width: 380px;
+        margin-top: 30px;
+    }
+    p.para11{
+        font-size: 14.5px;
+        width: 374px;
+        margin-top: 10px;
+    }
+    .sec10AudioContainer2{
+        margin-top: 70px;
+    }
+    img.img2sec10Audio,img.img3sec10,img.img4sec10,img.img5sec10,img.img6sec10,img.img7sec10{
+        width: 260px;
+    }
+    .sec10AudioContainer2 h1{
+        font-size: 14.5px;
+      }
+    p.para12Audio{
+        font-size: 14.5px; 
+        width: 375px;
+       
+    }
+     
+}
+
+@media only screen and (max-width:450px){
+    .sixthContainer{
+        padding-top: 60px; 
+    }
+    h1.sec9head1Audio{ 
+        transform: scale(1.15, 2.5); 
+        margin-left: 30px;
+        max-width: 340px;
+    }
+    .sec10Audio{
+        margin-top: 200px;
+        margin-left: 0px;
+    }
+    img.img1sec10{
+        width: 365px; 
+    }
+    p.para10Audio{
+        font-size: 14.5px;
+        width: 370px;
+        margin-top: 30px;
+    }
+    .sec10AudioContainer1{
+        margin-top: 30px;
+        margin-left: -150px;
+    }
+    img.img2sec10Audio {
+        margin-top: -700px;
+        width: 365px;
+        margin-left: 0px;
+        margin-bottom: 100px;
+    }  
+    .sec10AudioContainer2{
+        margin-top: 350px;
+        margin-left: 20px;
+    }
+   
+  
+   
+ 
+}
+@media only screen and (max-width:380px){
+    h1.sec9head1Audio{  
+        max-width: 300px;
+    }
+    .sec10Audio{ 
+        margin-left: 0px;
+    }
+    img.img1sec10{
+        width: 310px !important; 
+    } 
+    p.para10Audio{ 
+        width: 320px; 
+    }
+    p.para11{ 
+        width: 315px; 
+    }
+    img.img2sec10Audio{ 
+        width: 310px; 
+        margin-top :-750px;
+    }  
+    .sec10AudioContainer2{
+        margin-top: 300px;
+    }
+    .sec10AudioContainer2 h1{
+        max-width: 300px;
+      }
+      p.para12Audio{ 
+        width: 320px; 
+    }
+    
+}
+
+@media only screen and (max-width:320px){
+    h1.sec9head1Audio{  
+        margin-left: 0px; 
+        transform: scale(1, 2.4);
+    } 
+    img.img1sec10{
+        width: 260px !important; 
+    } 
+    .sec10AudioContainer1 h1{
+        width: 250px;
+        font-size: 14px;
+      }
+    p.para10Audio{ 
+        width: 265px; 
+    }
+    p.para11{ 
+        width: 265px; 
+    }
+    img.img2sec10Audio{ 
+        width: 260px; 
+        margin-top: -800px; 
+    }  
+    .sec10AudioContainer2{
+        margin-top: 270px;
+    }
+    .sec10AudioContainer2 h1{
+        max-width: 250px; 
+      }
+      p.para12Audio{ 
+        width: 265px; 
+        margin-top: 40px;
+    }
+    img.img3sec10{ 
+        width: 260px;
+    } 
+    p.para13{ 
+        width: 265px;  
+    }
+    img.img4sec10{ 
+        width:260px; 
+        margin-top: -800px;
+    }
+    .sec10AudioContainer4{
+        margin-top: 270px;
+        margin-left: 20px;
+    } 
+    .sec10AudioContainer4 h1{
+        max-width: 260px;
+      }
+    p.para14{ 
+         width: 265px; 
+    }
+    img.img5sec10{ 
+        width: 260px;
+    } 
+    p.para15{ 
+         width: 248px; 
+    } 
+    img.img6sec10{
+        margin-top: -800px;
+        width: 260px; 
+    }
+    .sec10AudioContainer6{
+        margin-top: 270px;
+        margin-left: 20px;
+    } 
+    p.para16{ 
+          width:265px;  
+     } 
+    img.img7sec10{ 
+        width: 260px;
+    } 
+    .sec10AudioContainer7 h1{
+        max-width: 270px;
+      }
+    p.para17{
+       font-size: 14px;
+         width: 260px;
+         margin-top: 30px; 
+    } 
+}

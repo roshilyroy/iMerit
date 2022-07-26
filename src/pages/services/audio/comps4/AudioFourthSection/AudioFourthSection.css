@@ -1,0 +1,116 @@
+.fourthContainerAudio{
+    background-color: #f8f8f9 !important;
+}
+.thirdContainerAudio{
+    margin-left: 150px;
+    margin-right: 20px;
+    padding-bottom: 50px;
+}
+.sec5Audio2{
+    padding-top: 80px;
+    margin-left: 0px;
+}
+.sec5Audio2 h5{
+    text-align: center;
+    font-size: 50px;
+    transform: scale(1.1, 2.4);
+    max-width: 1000px;
+    line-height: .85;
+    word-spacing: 10px;
+    letter-spacing: 3px;
+     font-weight: 500;
+     margin-left: 150px; 
+}
+.sec5Audio2 img{
+   max-width: 100%;
+   width: 850px;
+}
+
+@media only screen and (max-width:1440px){
+    .sec5Audio2 h5{
+        transform: scale(1, 2.4);
+    } 
+}
+
+
+@media only screen and (max-width:1024px){
+    .sec5Audio2{
+        padding-top: 90px;
+        margin-left: 15px;
+    }
+    .sec5Audio2 h5{ 
+        max-width: 850px; 
+        font-weight: 500;
+        margin-left: 35px;
+    } 
+    .sec5Audio2 img{ 
+        width: 780px;
+     }
+}
+
+
+@media only screen and (max-width:768px){
+    .sec5Audio2{
+        padding-top: 55px;
+        margin-left: -30px;
+    }
+    .sec5Audio2 h5{ 
+        width: 750px !important; 
+        font-weight: 400;
+        font-size: 43px;
+        transform: scale(.85,1.8);
+        word-spacing: 0;
+        margin-left: 0px;
+    }
+    
+    .sec5Audio2 img{ 
+        width: 650px;
+     }
+}
+
+@media only screen and (max-width:450px){
+    .sec5Audio2{
+        padding-top: 80px ;
+        margin-left: -10px;
+    }
+    .sec5Audio2 h5{ 
+         width: 700px !important; 
+        margin-left: -130px;
+    }
+    .sec5Audio2 img{ 
+        width: 360px;
+     }
+  
+}
+
+@media only screen and (max-width:380px){
+    .sec5Audio2{ 
+        margin-left: -10px;
+    }
+    .sec5Audio2 h5{ 
+         width: 300px !important;
+         margin-left: 30px;  
+    }
+    .sec5Audio2 img{ 
+        width: 300px;
+        margin-top: 50px;
+     }
+  
+}
+
+@media only screen and (max-width:320px){
+    
+    .sec5Audio2 h5{ 
+        max-width:320px; 
+        font-weight: 400;
+        font-size: 43px;
+        transform: scale(.75,1.8);
+        word-spacing: 0; 
+        margin-left: 5px;
+    }
+    .sec5Audio2 img{ 
+        width: 270px;
+        margin-top: 50px;
+     }
+    
+}
