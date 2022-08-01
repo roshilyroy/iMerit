@@ -1,0 +1,122 @@
+
+@media  screen and (max-width: 2000px) 
+{
+.sec3{
+    margin-top: -270px;
+}
+.quote3
+{
+    background-color: #531cb3 !important;
+    margin-top: 50px;
+    display: block;
+    height: 610px;
+}
+.quote3 img{
+    position: absolute;transform: translate3d(123px, -257px, 70px);
+    clip-path: polygon(100% 0,100% 70%,70% 100%,0 100%);
+    height: 615px;
+}
+
+.triangle3{background-color: white!important;
+    position: relative;
+    /* back
+    ground: transparent; */
+    top: 269px;
+    left: 0px !important;
+    width: 220px !important;
+    height: 220px !important;
+    clip-path: polygon(0 0,0 100%,100% 0) !important;
+    transform: translateY(0px);
+}
+.quote3 h1{color: white;
+    transform: translate(200px);
+}
+.quote3 h1{
+    width: 600px;font-size: 37px;
+    text-align: left;
+    transform: translate(130px,100px);
+    padding-left: 0px;
+}
+.quote3 h3{
+    font-size:-0.281em!important;
+    font-weight: 400;
+    color:white;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+}
+@media  screen and (max-width: 1440px) 
+{
+    .quote3 img{
+        transform: translate(85px,-268px);
+    }
+    
+
+}
+@media  screen and (max-width: 1025px) 
+{
+    .quote3 img{
+        transform: translate(-123px,-255px);
+    }
+    .quote3 h1{
+  width: 550px;
+    }
+}
+@media  screen and (max-width: 768px) 
+{
+.quote3{
+    height: 700px;
+}
+.quote3 img {
+    transform: translate(-252px,-260px);
+}
+.quote3 h1{
+    width:370px;
+}
+.quote3 h3{
+    font-size:0.381em!important; ;
+}
+}
+
+@media  screen and (max-width: 426px) 
+{
+    .triangle3{
+        width: 100px!important;
+        height: 100px!important;
+        transform: translateY(-123px);
+    }
+    .quote3 h1{
+        font-weight: 500;
+    font-size: 1.375em;
+    margin-left: -40px;
+
+    width: 250px;
+    }
+    .quote3 img{
+       transform: translate(-217px,123px); 
+       width: 100%;
+    }
+   .quote3{
+    height: 900px!important ;
+   }
+}
+@media  screen and (max-width: 376px) 
+{
+    .quote3{
+        height: 770px!important;
+    }
+    .quote3 img{
+        transform: translate(-190px,6px);
+    }
+
+}
+@media  screen and (max-width: 321px) 
+{
+    .quote3 h1{
+        margin-left: -90px;
+        width: 200px;
+        }
+        .quote3 img{
+            transform: translate(-165px,-45px);
+        }  
+}

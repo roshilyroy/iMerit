@@ -2,7 +2,7 @@ import React from 'react'
 
 function Autonomous() {
   return (
-    <div>Autonomous</div>
+    <div></div>
   )
 }
 

@@ -1,0 +1,123 @@
+@media  screen and (max-width: 2000px) {
+    .cardsection01{
+        display: none;
+    }
+    .heading0 h2{
+        font-size: 7.5rem;
+        font-weight: 300;
+        line-height: .78;
+        color: #2c2f3b;
+        text-align: left;
+        font-family: 'Roboto Condensed', sans-serif;
+        margin-left: 70px;
+        padding: 70px;
+    }
+    .left0 .uk-card-body h3{
+        font-size: 2.8125rem!important;
+        color: #531cb3;
+        font-weight: 400;
+        line-height: .78;
+        text-align: left;
+        font-family: 'Roboto Condensed', sans-serif;
+    
+    }
+    .left0 .uk-card-body p{
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #2c2f3b;
+        text-align: left;
+    }
+    .right0 .uk-card-body h3{
+        text-align: left;
+        font-size: 2.8125rem!important;
+        color: #531cb3;
+        font-weight: 400;
+        line-height: .78;
+        font-family: 'Roboto Condensed', sans-serif;
+    
+    }
+    
+    .para0{
+        text-align: left;
+        transform: translateY(100px);
+    }
+    .para0 p1{
+        color: #531cb3!important;
+        text-align: left!important;
+    
+    }
+    }
+    @media  screen and (max-width: 769px) {
+        .cardsection0{
+            display: none!important;
+        }
+        .cardsection01{
+         display: block;
+        }
+        .heading01{
+            margin-top: 100px;
+    
+        }
+        .heading01 h2{
+            font-size: 5.5rem!important;
+            font-weight: 300;
+            line-height: .78;
+            color: #2c2f3b;
+            text-align: left;
+            font-family: 'Roboto Condensed', sans-serif;
+            margin-left: 70px;
+            padding: 0px;
+        }
+    .cardsection01 .uk-card-body h3{
+        font-size: 2.8125rem!important;
+        color: #531cb3;
+        font-weight: 400;
+        line-height: .78;
+        font-family: 'Roboto Condensed', sans-serif;
+    
+    } 
+    
+    .cardsection01 .uk-card-body p{
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #2c2f3b;
+        text-align: left;
+    }
+    .learn01{
+    
+       margin-top: 40px;
+       text-align: left; 
+    }
+    .learn01 p1{
+        color: #531cb3!important;
+    
+    }
+    
+    }
+    @media  screen and (max-width: 426px) {
+    .cardsection01 .uk-card-default{
+        width: 370px;
+        margin-left: 20px;
+    }
+        .heading01{
+        text-align: left!important;
+        margin-left: -40px;
+        }
+    }
+        @media  screen and (max-width: 376px) {
+    
+        .cardsection01 .uk-card-default{
+       width: 330px;
+    }
+    .cardsection01 .heading9 h2 {
+        font-size: 3.5rem;
+        margin-left: 30px;
+    } 
+        }
+        @media  screen and (max-width: 321px) {
+            .cardsection01 .uk-card-default{
+                width: 280px;
+             }
+        }

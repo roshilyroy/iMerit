@@ -1,0 +1,121 @@
+
+@media  screen and (max-width: 2000px) 
+{
+.sec{
+    margin-top: -270px;
+}
+.quote
+{background-color: #E33D3B !important;
+    margin-top: 50px;
+    display: block;
+    height: 610px;
+}
+.quote img{
+    position: absolute;transform: translate3d(125px, -257px, 70px);
+    clip-path: polygon(100% 0,100% 70%,70% 100%,0 100%);
+    height: 615px;
+}
+
+.triangle{background-color: white!important;
+    position: relative;
+    /* back
+    ground: transparent; */
+    top: 269px;
+    left: 0px !important;
+    width: 220px !important;
+    height: 220px !important;
+    clip-path: polygon(0 0,0 100%,100% 0) !important;
+    transform: translateY(0px);
+}
+.quote h1{color: white;
+    transform: translate(200px);
+}
+.quote h1{
+    width: 600px;font-size: 37px;
+    text-align: left;
+    transform: translate(130px,100px);
+    padding-left: 0px;
+}
+.quote h3{
+    font-size:-0.281em!important;
+    font-weight: 400;
+    color:white;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+}
+@media  screen and (max-width: 1440px) 
+{
+    .quote img{
+        transform: translate(85px,-255px);
+    }
+    
+
+}
+@media  screen and (max-width: 1025px) 
+{
+    .quote img{
+        transform: translate(-123px,-255px);
+    }
+    .quote h1{
+  width: 550px;
+    }
+}
+@media  screen and (max-width: 768px) 
+{
+.quote{
+    height: 700px;
+}
+.quote img {
+    transform: translate(-252px,-260px);
+}
+.quote h1{
+    width:370px;
+}
+.quote h3{
+    font-size:0.381em!important; ;
+}
+}
+
+@media  screen and (max-width: 426px) 
+{
+    .triangle{
+        width: 100px!important;
+        height: 100px!important;
+        transform: translateY(-123px);
+    }
+    .quote h1{
+        font-weight: 500;
+    font-size: 1.375em;
+    margin-left: -40px;
+
+    width: 250px;
+    }
+    .quote img{
+       transform: translate(-218px,105px); 
+       width: 100%;
+    }
+   .quote{
+    height: 900px!important ;
+   }
+}
+@media  screen and (max-width: 376px) 
+{
+    .quote{
+        height: 770px!important;
+    }
+    .quote img{
+        transform: translate(-193px,-19px);
+    }
+
+}
+@media  screen and (max-width: 321px) 
+{
+    .quote h1{
+        margin-left: -90px;
+        width: 200px;
+        }
+        .quote img{
+            transform: translate(-165px,-45px);
+        }  
+}

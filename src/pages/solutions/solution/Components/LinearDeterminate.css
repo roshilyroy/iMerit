@@ -1,0 +1,14 @@
+.gradiant{
+background: linear-gradient(270deg,#e33d3b,#531cb3 100%);
+max-width: 100%;
+width: 1220px;
+height: 8px;
+animation: mymove 3s;
+color: transparent;
+margin-top: 100px;
+
+}
+@keyframes mymove{
+    from{width: 0px;}
+    to{width: 1220px;}
+}

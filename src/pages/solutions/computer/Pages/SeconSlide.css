@@ -1,0 +1,40 @@
+@media  screen and (max-width: 2000px) {
+    .second0{
+     padding-top: 100px;
+     background-color: #f8f8f9;
+    }
+     .text0 h3{
+         margin-top: 60px;
+         color: #531cb3;
+         font-size: 7.5rem;
+         font-weight: 300;
+         line-height: .78;
+         font-family: 'Roboto Condensed', sans-serif;
+     
+     }
+     .text0 p{
+         text-align: center;
+         font-weight: 400;
+         font-size: 1.5em;
+         line-height: 1.5;
+         color: #2c2f3b;
+     }
+     }
+     @media  screen and (max-width: 426px) {
+     
+         .text0 h3{
+             font-size: 5.5rem;
+         }
+         .text0 p{
+     font-size: 1rem;
+         }
+         .text0 h3{
+             font-size: 5rem;
+         }
+     
+     }
+     @media  screen and (max-width: 321px) {
+         .text0  h3{
+             margin-left: -30px;
+         }
+     }

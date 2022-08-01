@@ -1,0 +1,129 @@
+
+@media  screen and (max-width: 2000px) 
+{
+.sec5{
+    margin-top: -270px;
+}
+.quote5
+{
+    background-color: #531cb3;
+        margin-top: 50px;
+    display: block;
+    height: 610px;
+}
+.quote5 img{
+    position: absolute;transform: translate3d(125px, -290px, 70px);
+    clip-path: polygon(100% 0,100% 70%,70% 100%,0 100%);
+    height: 615px;
+}
+
+.triangle5{background-color: white!important;
+    position: relative;
+    /* back
+    ground: transparent; */
+    top: 269px;
+    left: 0px !important;
+    width: 220px !important;
+    height: 220px !important;
+    clip-path: polygon(0 0,0 100%,100% 0) !important;
+    transform: translateY(0px);
+}
+.quote5 h1{color: white;
+    transform: translate(200px);
+}
+.quote5 h1{
+    width: 600px;font-size: 37px;
+    text-align: left;
+    transform: translate(130px,100px);
+    padding-left: 0px;
+    line-height: 1.5;
+}
+.quote5 h3{
+    font-size:-0.281em!important;
+    font-weight: 400;
+    color:white;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+}
+@media  screen and (max-width: 1440px) 
+{
+    .quote5 img{
+        transform: translate(85px,-288px);
+    }
+    
+
+}
+@media  screen and (max-width: 1025px) 
+{
+    .quote5 img{
+        transform: translate(-123px,-292px);
+    }
+    .quote5 h1{
+  width: 550px;
+    }
+}
+@media  screen and (max-width: 768px) 
+{
+.quote5{
+    height: 770px;
+}
+.quote5 img {
+    transform: translate(-252px,-120px);
+}
+.quote5 h1{
+    width:370px;
+    font-size: 2em;
+}
+.quote5 h3{
+    font-size:0.381em!important; ;
+}
+.triangle5{
+    width: 150px!important;
+    height: 150px!important;
+    transform: translateY(-69px);
+}
+}
+
+@media  screen and (max-width: 426px) 
+{
+    .triangle5{
+        width: 100px!important;
+        height: 100px!important;
+        transform: translateY(-123px);
+    }
+    .quote5 h1{
+        font-weight: 500;
+    font-size: 1.375em;
+    margin-left: -40px;
+
+    width: 250px;
+    }
+    .quote5 img{
+       transform: translate(-217px,90px); 
+       width: 100%;
+    }
+   .quote5{
+    height: 900px!important ;
+   }
+}
+@media  screen and (max-width: 376px) 
+{
+    .quote5{
+        height: 805px!important;
+    }
+    .quote5 img{
+        transform: translate(-193px,-17px);
+    }
+
+}
+@media  screen and (max-width: 321px) 
+{
+    .quote5 h1{
+        margin-left: -90px;
+        width: 200px;
+        }
+        .quote5 img{
+            transform: translate(-165px,-45px);
+        }  
+}

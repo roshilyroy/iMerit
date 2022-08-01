@@ -1,0 +1,123 @@
+@media  screen and (max-width: 2000px) {
+.cardsection9{
+    display: none;
+}
+.heading5 h2{
+    font-size: 7.5rem;
+    font-weight: 300;
+    line-height: .78;
+    color: #2c2f3b;
+    text-align: left;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-left: 70px;
+    padding: 70px;
+}
+.left5 .uk-card-body h3{
+    font-size: 2.8125rem!important;
+    color: #531cb3;
+    font-weight: 400;
+    line-height: .78;
+    text-align: left;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+.left5 .uk-card-body p{
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #2c2f3b;
+    text-align: left;
+}
+.right5 .uk-card-body h3{
+    text-align: left;
+    font-size: 2.8125rem!important;
+    color: #531cb3;
+    font-weight: 400;
+    line-height: .78;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.para5{
+    text-align: left;
+    transform: translateY(100px);
+}
+.para5 p1{
+    color: #531cb3!important;
+    text-align: left!important;
+
+}
+}
+@media  screen and (max-width: 769px) {
+    .cardsection8{
+        display: none;
+    }
+    .cardsection9{
+     display: block;
+    }
+    .heading9{
+        margin-top: 100px;
+
+    }
+    .heading9 h2{
+        font-size: 5.5rem!important;
+        font-weight: 300;
+        line-height: .78;
+        color: #2c2f3b;
+        text-align: left;
+        font-family: 'Roboto Condensed', sans-serif;
+        margin-left: 70px;
+        padding: 0px;
+    }
+.cardsection9 .uk-card-body h3{
+    font-size: 2.8125rem!important;
+    color: #531cb3;
+    font-weight: 400;
+    line-height: .78;
+    font-family: 'Roboto Condensed', sans-serif;
+
+} 
+
+.cardsection9 .uk-card-body p{
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #2c2f3b;
+    text-align: left;
+}
+.learn9{
+
+   margin-top: 40px;
+   text-align: left; 
+}
+.learn9 p1{
+    color: #531cb3!important;
+
+}
+
+}
+@media  screen and (max-width: 426px) {
+.cardsection9 .uk-card-default{
+    width: 370px;
+    margin-left: 20px;
+}
+    .heading9{
+    text-align: left!important;
+    margin-left: -40px;
+    }
+}
+    @media  screen and (max-width: 376px) {
+
+    .cardsection9 .uk-card-default{
+   width: 330px;
+}
+.cardsection9 .heading9 h2 {
+    font-size: 3.5rem;
+    margin-left: 30px;
+} 
+    }
+    @media  screen and (max-width: 321px) {
+        .cardsection9 .uk-card-default{
+            width: 280px;
+         }
+    }

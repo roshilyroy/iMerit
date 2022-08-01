@@ -1,0 +1,136 @@
+@media  screen and (max-width: 2000px) {
+  .media1{
+    height: 1500px;
+    background-color: #f8f8f9;
+    padding-top: 100px;
+
+  }
+   
+    .mediasecond{
+    display: none;
+   }
+   .mediathird{
+    display: none;
+   }
+    .ui.card{
+        border: none!important;
+        text-align: left;
+        width: 370px!important;
+    }
+    .content h1{
+        font-weight: 400;
+        font-size: 2.8125rem;
+         line-height: .78;
+        color: #2c2f3b;
+        text-align: left;
+        font-family: 'Roboto Condensed', sans-serif;
+
+    }
+    .content p2{
+        
+    
+        color: #2c2f3b;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+    }
+
+
+    }
+
+    @media  screen and (max-width: 1025px) {
+        .ui.card{
+            width: 240px!important;
+        }
+       
+    .content h1{
+        font-size: 2.125rem;
+
+}
+.media1{
+    height: 1300px;
+    background-color: #f8f8f9;
+
+
+}
+    }
+    @media  screen and (max-width: 769px) {
+        .media1{
+            height: 2000px;
+        }
+  .mediafirst{
+    display: none;
+  }
+  .mediasecond{
+    display: block;
+  }
+.content h1{
+    font-size: 1.8rem!important;
+    line-height: .78;
+} 
+.mediasecond .ui.card{
+width: 320px!important;
+}
+
+    }
+    @media  screen and (max-width: 426px) {
+      .mediasecond{
+        display: none;
+      }  
+      .mediathird{
+        display: block!important;
+      }
+      .content h1{
+        font-size: 1.3rem!important;
+         margin-left: -5px;
+      }
+      .content p2{
+        font-size: .950rem;
+      }
+      
+      .mediathird   .ui.fluid.card {      
+             width: 130px!important;
+        }
+      
+     .media1{
+        height: 1500px;
+        padding-top: 100px;
+     }
+
+      
+    }
+    @media  screen and (max-width: 376px) {
+      .mediathird{
+        display: none!important;
+      }
+      .mediasecond{
+        display: block;
+      }
+      .mediasecond  .ui.fluid.card {      
+        height: 430px!important;
+        margin-left: 10px;
+        width: 180px!important;
+
+   }
+   .row3 .ui.fluid.card {      
+  width: 300px!important;
+   }
+   .media1{
+    height: 1900px;
+   }
+   
+    }
+    @media  screen and (max-width: 321px) {
+      
+      .ui.fluid.card {      
+
+ margin-left: 0px;
+      
+      }
+      .mediasecond  .ui.fluid.card {      
+        width: 140px!important;
+      }
+      .row3 .ui.fluid.card {  
+         width: 260px!important;   
+      }
+    }

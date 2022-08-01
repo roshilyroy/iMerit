@@ -1,0 +1,153 @@
+@media  screen and (max-width: 2000px) 
+{
+.trio{
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.overlay{
+    display: none;
+}
+.image{
+    position: relative;
+}
+.img__effect{
+    display: block;
+    width: 100%;
+}
+.img__overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(62,50,59,.9);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 1;
+    transition: opacity 0.25s;
+}
+.img__overlay:hover{
+    opacity: 0;
+}
+.description{
+    font-size: 1.25em;
+}
+.overlaycard .ui.card {
+    width: 350px!important;
+    border: 1px solid #3e323b!important;
+    background-color: white!important;
+}
+.contents h4{
+    font-size: 2.7em!important;
+    font-weight: 300!important;
+    color: #3e323b!important;
+    letter-spacing: 1.5px!important;
+    text-align: center!important;
+    line-height: 1em;
+        font-family: 'Roboto Condensed', sans-serif;
+
+}
+.overlaycard .contents{
+    padding: 14px  14px;
+}
+
+  .overlaycard .contents1{
+    padding: 13px 13px;
+    text-align: center;
+  }
+
+  .overlaycard .contents1 p{
+    font-size: 1.5em!important;
+    font-weight: 400;
+    font-size: 1.25em;
+    color: #3e323b;
+    letter-spacing: 1.5px;
+
+}
+  
+}
+@media  screen and (max-width: 1025px) 
+{
+    .overlaycard .contents1{
+        padding: 4px 0px;
+    }
+    .overlaycard .ui.card{
+        height: 380px;
+    }
+}
+@media  screen and (max-width: 769px) 
+{
+    .overlay{
+        display: block;
+        height: 450px;
+        margin-top: 50px;
+    }
+    .overlaycard{
+        display: none;
+    }
+    .overlay .ui.card{
+        border: 1px solid #3e323b!important;
+        height: 350px;
+    }
+    .contents h4{
+        font-size: 2.5em!important;
+        font-weight: 300!important;
+        color: #3e323b!important;
+        letter-spacing: 1.5px!important;
+        text-align: center!important;
+        line-height: 1em;
+                    font-family: 'Roboto Condensed', sans-serif;
+    }
+    
+ .overlay .contents{
+                padding: 14px  14px;
+                }
+.overlay .contents1{
+    text-align: center;
+    padding: 10px 10px;
+}
+                .overlay .contents1 p{
+                font-size: 1.25em!important; 
+                 font-weight: 400;
+                    font-size: 1.25em;
+                    color: #3e323b;
+                    letter-spacing: 1.5px;
+                
+                }
+                  
+
+}
+@media  screen and (max-width: 426px) 
+{
+    .overlay .ui.card{
+        margin-left: 57px!important;
+        height: 430px!important;
+
+        }
+        .overlay{
+            margin-top: 20px;
+            height: 450px;
+        }
+}
+@media  screen and (max-width: 376px) 
+{
+    .overlay .ui.card{
+        margin-left: 30px!important;
+
+        }
+
+
+
+}
+@media  screen and (max-width: 321px) 
+{
+    .overlay .ui.card{
+        margin-left: 8px!important;
+        width: 280px!important;
+
+        }
+
+}

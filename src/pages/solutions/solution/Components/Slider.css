@@ -1,0 +1,9 @@
+.show{
+    background-color: #f8f8f9;
+    margin-top: 40px;
+    
+}
+.show p{
+    font-size: 1.5rem;
+    transform: translateY(20px);
+}
