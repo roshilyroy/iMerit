@@ -1,9 +1,16 @@
 import React from 'react'
-import './Edgecase.css'
+//import Edge1 from './Edge1';
+//import Edge2 from './Edge2';
+//import Edge3 from './Edge3';
+//import Edge4 from './Edge4';
+//import Edge5 from './Edge5';
+
 
 function Edgecase() {
   return (
-    <div>Edgecase</div>
+    <div>
+
+    </div>
   )
 }
 

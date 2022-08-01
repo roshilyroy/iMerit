@@ -1,0 +1,112 @@
+
+.css-ah0e1x-MuiPaper-root  {box-shadow: none !important;}
+.css-ah0e1x-MuiPaper-root {box-shadow: none !important;}
+#studio1{height: 475px !important;}
+#studiog1{transform: translateY(150px) !important;
+    margin-left: 50px !important;box-shadow: none !important;}
+#img1n{box-shadow: none !important;}
+#img2n{box-shadow: none !important;}
+#studiog1 h1{color: #531cb3;font-size: 75px !important;
+    font-weight: 300 !important;
+    line-height: 1.2 !important;
+    }
+#studiog1 p{font-size: 25px;color: rgb(56, 54, 54) !important;
+    width: 750px !important;
+    }
+#img1n img{transform: translateY(80px);width: 350px !important;
+        border-radius: 360% !important;
+}
+#img2n img{transform: translate(90px,-225px) !important;
+    mix-blend-mode: multiply !important;
+}
+#studio2{display: none !important;}
+
+/*-------------------------------1024-------------------*/
+@media screen and (max-width:1024px){
+ 
+    body{overflow-x: hidden !important;
+        margin-right:-305px !important;
+        padding: 0px !important;
+    } 
+    #studiog1 p{font-size: 45px !important;width: 1100px !important;} 
+    #studio1{height: 800px !important;}
+    #studiog1 h1{font-size: 170px !important;letter-spacing: -4px !important;}
+    #img1n img{transform: translate(210px,380px) !important;max-width: 900px !important;}
+    #img2n img{transform: translate(225px,25px) !important;max-width: 800px !important;
+            height: 400px !important;}
+}
+/*-------------------------------768-------------------*/
+@media screen and (max-width:769px){
+ 
+    body{overflow-x: hidden !important;
+        margin-right:-590px !important;
+        padding: 0px !important;
+    }  
+    #studiog1 h1{font-size: 140px !important;}
+    #studio1{height: 700px !important;}
+    #studiog1 p{font-size: 40px !important;width: 1100px !important;
+                    padding-top: 30px !important;
+    }
+    #img1n img{width: 400px !important;transform: translate(130px,225px) !important;}
+    #img2n img{transform: translate(176px,-125px) !important;}
+}
+/*-------------------------------425-------------------*/
+@media screen and (max-width:426px){
+ 
+    body{overflow-x: hidden !important;
+        margin-right:100px !important;
+        padding: 0px !important;
+    }  
+
+    #studiog1r{transform: translateY(150px) !important;
+        margin-left: 50px !important;box-shadow: none !important;} 
+    #studiog2r{height: 1770px !important;box-shadow: none !important;}
+    #studiog1r h1{font-size: 220px !important;color: #531cb3 !important;
+        font-weight: 300 !important;width: 1500px !important;
+        line-height: 1.2 !important;}
+    #studiog1r p{font-size: 65px !important;width: 1420px !important;
+                    padding-top: 30px !important;color: rgb(56, 54, 54) !important;
+    }
+    #studio1{display: none !important;}
+    #studio2{display: contents !important;}
+    #imgrespo1 img{transform: translate(200px,280px) !important;
+        width: 1300px !important;border-radius: 360% !important;
+    }
+    #imgrespo1{box-shadow: none !important;}
+    #imgrespo2 img{transform: translate(720px,-550px) !important;
+      width: 1000px !important;
+        mix-blend-mode: multiply !important;
+    }
+}
+
+/*-------------------------------375-------------------*/
+@media screen and (max-width:376px){
+    body{overflow-x: hidden !important;
+        margin-right:300px !important;
+        padding: 0px !important;
+    }  
+    #studiog1r h1{font-size: 200px !important;margin-left: 100px !important;}
+    #studiog1r p{margin-left: 100px !important;width: 1100px !important;}
+    #dimg1r img{transform: translate(150px,280px) !important;
+        width: 1300px !important;}
+    #dimg2r img{transform: translate(720px,-620px) !important; }
+    #studiog2r{height: 1770px !important;}
+}
+
+/*-------------------------------320-------------------*/
+@media screen and (max-width:321px){
+    body{overflow-x: hidden !important;
+        margin-right:300px !important;
+        padding: 0px !important;
+    }  
+    #studiog1r h1{font-size: 250px !important;margin-left: 200px !important;
+        letter-spacing: -15px !important;line-height: 230px !important;width: 1000px !important;
+    }
+    #studiog1r p{margin-left: 200px !important;font-size: 65px !important;
+        width: 1050px !important;padding-top: 100px !important;
+    }
+    #imgrespo1 img{transform: translate(280px,280px) !important;
+        width: 1050px !important;}
+    #imgrespo2 img{transform: translate(600px,-650px) !important;width: 1000px !important;}
+    #studiog2r{height: 1420px !important;}
+}

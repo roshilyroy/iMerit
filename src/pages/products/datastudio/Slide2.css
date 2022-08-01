@@ -1,0 +1,152 @@
+#dsdatagrid3, #dsdatagrid4{background-color: #f8f8f9 !important;height: 500px;box-shadow: none !important;}
+#dsdataimg1{height: 400px !important;transform: translate(50px,50px) !important;}
+#dsdatagrid4 p{font-size: 16px;width: 600px !important; 
+    transform: translate(-40px,50px);color: black !important;
+}
+#dsstudiop1{width: 600px !important;}
+#dsdatagrid4 h2{font-size: 35px !important;
+    transform: translate(-40px,40px); 
+}
+#dsdatagrid4 ul{font-size: 16px !important;color: black !important;
+    transform: translate(-30px,50px);
+}
+#dsdataredtriangle{background-color: #e33d3b !important;
+    width: 220px !important;
+    height: 220px !important;
+    clip-path: polygon(0 0,0 100%,100% 0) !important;
+    transform: rotate(180deg) !important;
+    position: relative;left: 310px !important;
+    top: -170px !important;
+}
+
+#dsplaytext{color: rgb(255, 255, 255) !important;font-size: 18px !important;
+    transform: translate(400px,-250px) !important;
+}
+#dsdataplayicon{color: rgb(255, 255, 255);height: 160px !important;
+    width: 50px !important;position: relative;left: 430px ;
+    top: -400px;
+
+}
+#dsdataplayicon:hover {
+    animation-name: movement !important;
+    animation-duration: 2s !important;
+    animation-iteration-count: 1;
+}
+@keyframes movement {
+    0%   { left:200px ; }
+    25%  {transform: rotate(180deg);}
+    30%  {left:300px;  }
+    100%{left: 430px ;}
+  }
+ 
+  #div2{
+    width: 30px;
+    height: 30px;
+    background-color: red;
+    position: relative;left:200px;
+  
+  }
+#dsslide2responsive{display: none !important;}
+
+
+/*-------------------------------1024-------------------*/
+@media screen and (max-width:1024px){
+
+  #dsdatagrid3, #dsdatagrid4{height: 1100px !important;}
+  #dsdatagrid4{margin-left: -40px !important;}
+  #dsdatagrid4 p{font-size: 34px;width: 1050px !important;}
+  #dsstudiop1{width: 610px !important;}
+  #dsdatagrid4 h2{font-size: 57px !important;padding-top: 60px;}
+  #dsdataimg1{padding-top: 80px;height: 590px !important;}
+  #dsdatagrid4 ul{font-size: 34px !important;}
+  #dsdataredtriangle{left: 260px !important;top: -350px !important; height: 400px !important;width: 400px !important;}
+  
+#dsplaytext{font-size: 33px !important;
+  transform: translate(420px,-470px) !important;
+}
+#dsdataplayicon{height: 160px !important;
+  width: 100px !important;position: relative;left: 490px ;
+  top: -680px;
+
+}
+}
+
+/*-------------------------------768-------------------*/
+@media screen and (max-width:769px){
+  
+  #dsdatagrid3, #dsdatagrid4{height: 950px !important;}
+  #dsdatagrid4 p{font-size: 30px !important;width: 700px !important;}
+  #dsstudiop1{width: 680px !important;}
+  #dsdatagrid4 h2{font-size: 50px !important;}
+  #dsdataimg1{padding-top: 60px;height: 530px !important;}
+  #dsdatagrid4 ul{font-size: 26px !important;padding-left: 50px !important;}
+  #dsdatagrid4 h2{font-size: 45px !important;}
+  #dsdataredtriangle{width: 300px !important;height: 300px !important;
+                  position: relative;left: 310px !important;
+                  top: -250px !important;
+  }
+  #dsdataplayicon{top: -540px !important;left: 480px !important;width: 100px !important;}
+  #dsplaytext{font-size: 30px !important;
+    transform: translate(420px,-350px) !important;
+}
+}
+
+/*-------------------------------425-------------------*/
+@media screen and (max-width:426px){
+  #dsdatagrid3{height: 1350px !important;width: 1800px !important;}
+  #dsrdatagrid4{height: 1950px !important;width: 1800px !important;background-color: #f8f8f9 !important;
+  padding-left: 100px !important;padding-top: 100px !important;
+}
+  #dsrdatagrid4 p{font-size: 65px !important;width: 1390px !important;padding-top: 40px !important;
+          color: black !important;
+  }
+  #dsstudiop1{width: 1280px !important;}
+  #dsrh{font-size: 90px !important;}
+  #dsdataimg1{padding-top: 60px;height: 1500px !important;padding-left: 60px !important;width: 1450px !important;}
+  #dsrdatagrid4 ul{font-size: 65px !important;padding-left: 50px !important;
+          color: black !important;
+  }
+  #dsdataredtriangle{width: 700px !important;height: 700px !important;
+                  top: -650px !important;
+  }
+  #dsdataplayicon{top: -1120px !important;left: 1280px !important;width: 150px !important;}
+  #dsplaytext{font-size: 60px !important;
+    transform: translate(1200px,-840px) !important;
+}
+#dsslide2grid{display: none !important;}
+#dsslide2responsive{display: contents !important;}
+
+
+  #dsdataimg1{padding-top: 260px;height: 1200px !important;padding-left: 130px !important;}
+  #dsdataredtriangle{left: 800px !important;}
+  #dsdataplayicon{left: 1150px !important;}
+  #dsplaytext{transform: translate(1000px,-840px) !important;}
+  #dsrdatagrid4{height: 2150px !important;padding-left: 190px !important;}
+  #dsrdatagrid4 p{width: 1360px !important;}
+  #dsstudiop1{width: 1200px !important;}
+}
+/*-------------------------------375-------------------*/
+@media screen and (max-width:376px){
+  #dsdataimg1{padding-top: 260px;height: 1200px !important;padding-left: 130px !important;width: 1260px !important;}
+  #dsdataredtriangle{left: 610px !important;}
+  #dsdataplayicon{left: 1050px !important;}
+  #dsplaytext{transform: translate(900px,-840px) !important;}
+  #dsrdatagrid4{height: 2150px !important;padding-left: 190px !important;}
+  #dsrdatagrid4 p{width: 1120px !important;font-size: 60px !important;}
+  #dsstudiop1{width: 1100px !important;}
+  #dsrh{font-size: 70px !important;}
+}
+
+/*-------------------------------320-------------------*/
+@media screen and (max-width:321px){
+  #dsdataimg1{padding-top: 260px;height: 1100px !important;padding-left: 220px !important;width: 1230px !important;}
+  #dsdataredtriangle{left: 580px !important;}
+  #dsdataplayicon{left: 1000px !important;}
+  #dsplaytext{transform: translate(850px,-840px) !important;}
+  #dsrdatagrid4{height: 2250px !important;padding-left: 280px !important;}
+  #dsrdatagrid4 p{width: 1050px !important;font-size: 65px !important;}
+  #dsstudiop1{width: 1050px !important;}
+  #dsrdatagrid4 ul{padding-left: 120px !important;}
+  #dsdatagrid3{margin-left: 50px !important;}
+
+}

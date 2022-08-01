@@ -1,0 +1,165 @@
+/*h1,h2{font-family: 'Lato', sans-serif !important; letter-spacing: -1.5px !important;}*/
+.css-1633um2-MuiPaper-root {box-shadow: none !important;}
+#titlegrid1gc h1{font-size: 60px !important;width: 1100px;
+   padding-top: 100px;padding-left: 80px;padding-bottom: 60px !important;
+   }
+   #datagridgc p{text-align: left;font-size: 16px;color: black;
+      width: 420px !important;padding-left: 70px !important;
+   }
+   #progridgc p{text-align: left;font-size: 16px;color: black;
+      width: 350px !important;margin-left:35px !important;
+   }
+    #buildgridgc p{text-align: left;font-size: 16px;color: black;
+       width: 350px;margin-left: -5px !important;
+    }
+    #datagridgc h2, #progridgc h2, #buildgridgc h2{font-size: 23px; letter-spacing: -1.1px;font-weight: 600 !important;}
+    #datagridgc h2{margin-left: -50px !important;}
+    #progridgc h2{margin-left: -53px !important;}
+    #buildgridgc h2{margin-left: -160px !important;}
+
+
+   #mlgridgc p{text-align: left;font-size: 16px;color: black;
+      width: 450px !important;padding-left: 70px !important;
+   }
+   #compgridgc p{text-align: left;font-size: 16px;color: black;
+      width: 350px !important;margin-left: 32px !important;
+   }
+   #customgridgc p{text-align: left;font-size: 16px;color: black;
+       width: 350px;margin-left: -10px !important;
+    }
+    #mlgridgc h2, #compgridgc h2, #customgridgc h2{font-size: 23px; letter-spacing: -1.1px;font-weight: 600 !important;}
+    #mlgridgc h2{padding-left: 70px !important;width: 400px !important;}
+    #compgridgc h2{margin-left: -5px !important;}
+    #customgridgc h2{margin-left: -110px !important;}
+    .gg2gc{display: none !important;}
+
+
+
+/*-------------------------------1024-------------------*/
+@media screen and (max-width:1024px){
+   #titlegrid1gc h1{font-size: 100px !important;width: 1800px;font-weight: 200 !important;
+     margin-left: -120px !important;}
+
+      .gg1gc h2{font-size: 38px !important;text-align: left !important;}
+      .gg1gc p{font-size: 28px !important;}
+
+      #datagridgc p{width: 580px !important;}
+      #progridgc p{width: 450px !important;}
+       #buildgridgc p{ width: 490px; }
+       #datagridgc h2{margin-left: 70px !important;}
+       #progridgc h2{margin-left: 33px !important;}
+       #buildgridgc h2{margin-left: -10px !important;}
+   
+   
+      #mlgridgc p{ width: 560px !important;}
+      #compgridgc p{ width: 490px !important; }
+      #customgridgc p{ width: 450px; }
+       #mlgridgc h2{padding-left: 70px !important;}
+       #compgridgc h2{margin-left: 30px !important;}
+       #customgridgc h2{margin-left: -10px !important;}
+
+}
+/*-------------------------------768-------------------*/
+@media screen and (max-width:769px){
+   #titlegrid1gc h1{font-size: 100px !important;width: 1800px;font-weight: 200 !important;
+     margin-left: -120px !important;}
+
+      .gg2gc h2{font-size: 45px !important;text-align: left !important;
+      padding: 30px !important;}
+      .gg2gc p{font-size: 35px !important;}
+
+      #datagridgc p{width: 750px !important;margin-left: 30px !important;}
+      #progridgc p{width: 650px !important;margin-left: 880px !important;}
+       #buildgridgc p{ width: 710px !important;margin-left: 100px !important; }
+       #datagridgc h2{margin-left: 70px !important;}
+       #progridgc h2{margin-left: 850px !important;margin-top: -310px !important;width: 700px !important;}
+       #buildgridgc h2{margin-left: 70px !important;}
+   
+   
+      #mlgridgc p{ width: 690px !important;transform: translate(820px,-310px) !important;}
+      #compgridgc p{ width: 650px !important; transform: translate(70px,-250px) !important;}
+      #customgridgc p{ width: 700px; transform: translate(900px,-560px) !important;}
+       #mlgridgc h2{width: 900px !important;transform: translate(820px,-310px) !important;}
+       #compgridgc h2{transform: translate(40px,-250px) !important;}
+       #customgridgc h2{transform: translate(870px,-566px) !important;}
+      .rcg{height: 1600px !important;}
+       .gg1gc{display: none !important;}
+       .gg2gc{display: contents !important;}
+
+}
+
+/*-------------------------------425-------------------*/
+@media screen and (max-width:426px){
+     #titlegrid1gc h1{font-size: 170px !important;width: 1600px;font-weight: 200 !important;
+       margin-left: -40px !important;padding-bottom: 180px !important;}
+ 
+        .gg1gc h2{font-size: 65px !important;text-align: left !important;width: 450px !important;padding-bottom: 50px !important;}
+        .gg1gc p{font-size: 60px !important;}
+ 
+        #datagridgc p{width: 400px !important;}
+        #progridgc p{width: 350px !important;transform:translateX(-240px) !important;}
+        #buildgridgc p{ width: 340px !important; transform:translate(1100px,-1160px) !important;}
+        #datagridgc h2{margin-left: 110px !important;}
+        #progridgc h2{margin-left: 640px !important;margin-top: -1120px !important;}
+        #buildgridgc h2{margin-left: -10px !important;transform:translate(1200px,-1160px) !important;}
+    
+    
+        #mlgridgc p{ width: 460px !important;transform:translate(10px,-850px) !important;}
+        #compgridgc p{ width: 390px !important; transform:translate(570px,-2320px)  !important;}
+        #customgridgc p{ width: 350px;transform:translate(1180px,-3270px)  !important; }
+        #mlgridgc h2{width: 400px !important;transform:translate(10px,-850px) !important;}
+        #compgridgc h2{transform:translate(570px,-2320px) !important;}
+        #customgridgc h2{transform:translate(1180px,-3270px) !important;}
+       .gg2gc{display: none !important;}
+       .gg1gc{display: contents !important;}
+       .rcg1{height: 2300px !important;}
+
+}
+/*-------------------------------375-------------------*/
+@media screen and (max-width:376px){
+   #titlegrid1gc h1{font-size: 200px !important;width: 1200px;letter-spacing: -5px !important;margin: 150px !important;}
+   
+     .gg1gc h2{font-size: 70px !important;width: 700px !important;}
+      .gg1gc p{font-size: 65px !important;}
+      #datagridgc h2{transform: translate(60px,-80px ) !important;}
+      #datagridgc p{width: 600px !important;transform: translate(80px,-80px) !important;}
+      #progridgc h2{transform: translate(290px,300px ) !important;}
+      #progridgc p{transform: translate(50px,300px ) !important;width: 600px !important;}
+      #buildgridgc h2{transform: translate(180px,100px ) !important;}
+      #buildgridgc p{transform: translate(80px,100px ) !important;width: 550px !important;}
+     
+      #mlgridgc h2{width: 900px !important;transform:translate(810px,-750px) !important;}
+      #mlgridgc p{ width: 600px !important;transform:translate(810px,-750px) !important;}
+      #compgridgc h2{transform:translate(170px,-600px) !important;}
+      #compgridgc p{ width: 590px !important; transform:translate(170px,-600px)  !important;}
+      #customgridgc p{ width: 550px;transform:translate(880px,-1340px)  !important; }
+      #customgridgc h2{transform:translate(880px,-1340px) !important;}
+      .rcg1{height: 3500px !important;}
+
+
+}
+/*-------------------------------320-------------------*/
+@media screen and (max-width:321px){
+  
+   
+     .gg1gc h2{font-size: 65px !important;width: 600px !important;}
+      .gg1gc p{font-size: 65px !important;}
+      #datagridgc h2{transform: translate(140px,-80px ) !important;}
+      #datagridgc p{width: 550px !important;transform: translate(140px,-80px) !important;}
+      #progridgc h2{transform: translate(240px,130px ) !important;}
+      #progridgc p{transform: translate(0px,130px ) !important;width: 450px !important;}
+      #buildgridgc h2{transform: translate(240px,100px ) !important;}
+      #buildgridgc p{transform: translate(130px,100px ) !important;width: 450px !important;}
+     
+      #mlgridgc h2{width: 900px !important;transform:translate(790px,-900px) !important;}
+      #mlgridgc p{ width: 540px !important;transform:translate(790px,-900px) !important;}
+      #compgridgc h2{transform:translate(190px,-700px) !important;}
+      #compgridgc p{ width: 480px !important; transform:translate(190px,-700px)  !important;}
+      #customgridgc p{ width: 450px;transform:translate(850px,-1610px)  !important; }
+      #customgridgc h2{transform:translate(850px,-1610px) !important;}
+      .rcg1{height: 4100px !important;}
+
+
+}
+     
+    

@@ -1,0 +1,124 @@
+#titlegrid h1{font-size: 70px !important;
+padding-top: 100px;font-weight: 300 !important;
+}
+#datagridself p{text-align: left;font-size: 16px;color: black;
+   width: 410px !important;padding-left: 65px !important;
+}
+#progridself p{text-align: left;font-size: 16px;color: black;
+   width: 360px !important;margin-left: 30px !important;
+}
+ #buildgridself p{text-align: left;font-size: 16px;color: black;
+    width: 350px;margin-left: 0px !important;
+ }
+ #datagridself h2, #progrid h2, #buildgrid h2{font-size: 23px; letter-spacing: -1.1px;font-weight: 600 !important;}
+ #datagridself h2{padding-left: 65px;}
+ #progridself h2{margin-left: -25px !important;}
+ #buildgridself h2{margin-left: -80px !important;}
+.respogrid{display: none !important;}
+
+ /*-------------------------------1024-------------------*/
+@media screen and (max-width:1024px){
+
+      #titlegrid h1{font-size: 110px !important;width: 1800px;
+      padding-top: 100px;padding-left: 20px;
+      }
+      #datagridself h2, #progridself h2, #buildgridself h2{font-size: 40px !important;text-align: left !important;}
+      #datagridself p{text-align: left;font-size: 30px;
+         width: 550px !important;padding-left: 80px !important;
+      }
+      #progridself p{font-size: 30px;
+         width: 490px !important;margin-left: 30px !important;
+      }
+      #buildgridself p{text-align: left;font-size: 30px;
+         width: 490px;margin-left: 5px !important;
+      }
+      #datagridself h2{padding-left: 80px;}
+      #progridself h2{margin-left: 30px !important;}
+      #buildgridself h2{margin-left: 5px !important;}
+      #chart{height: 1000px !important;}
+}
+ /*-------------------------------768-------------------*/
+ @media screen and (max-width:769px){
+      #datagridselfr p{font-size: 38px;color: black !important;text-align: left !important;
+         width: 780px !important;padding-left: 110px !important;
+      }
+      #progridselfr p{font-size: 38px;color: black !important;text-align: left !important;
+         width: 740px !important;margin-left: 940px !important;
+      }
+      #buildgridselfr p{font-size: 38px;color: black !important;text-align: left !important;
+         width: 740px;margin-left: 550px !important;
+      }
+      #datagridselfr h2{padding-left: 50px;font-size: 42px !important;padding-bottom: 20px !important;}
+      #progridselfr h2{margin-left: 920px !important;font-size: 42px !important;
+         width: 600px !important;
+         padding-bottom: 20px !important;margin-top: -375px !important;}
+      #buildgridselfr h2{margin-left: -60px !important;font-size: 42px !important;padding-bottom: 20px !important;padding-top: 50px !important;}
+      .normalgrid{display: none !important;}
+      .respogrid{display: contents !important;}
+      #titlegridself h1{font-size: 110px !important;width: 1700px;letter-spacing: -3px !important;
+         padding-top: 100px;padding-left: 20px;font-weight: 100 !important;
+         }
+         #chartr{height: 900px !important;}
+
+ }
+ /*-------------------------------425-------------------*/
+ @media screen and (max-width:426px){
+   #titlegridself h1{font-size: 180px !important;width: 1700px;
+      padding-top: 100px;padding-left: 90px !important;
+      }
+   #datagridselfr p{font-size: 60px;
+      width: 750px !important;padding-left: 150px !important;
+   }
+   #progridselfr p{font-size: 60px;
+      width: 620px !important;margin-left: 900px !important;
+   }
+   #buildgridselfr p{font-size: 60px;margin-left: 130px !important;
+      width: 1340px;margin-bottom: 200px !important;
+   }
+   #datagridselfr h2{padding-left: 150px;font-size: 75px !important;padding-top: 120px !important;text-align: left;width: 900px !important;}
+   #progridselfr h2{margin-left: 900px !important;font-size: 75px !important;margin-top: -1099px !important;text-align: left;width: 900px !important;}
+   #buildgridselfr h2{font-size: 75px !important;padding-bottom: 20px !important;padding-top: 144px !important;text-align: left;
+      margin-left: 130px !important;}
+ 
+      #chartr{margin-left: -1650px !important;padding-top: 100px !important;margin-bottom: 100px !important;}
+}
+ /*-------------------------------375-------------------*/
+ @media screen and (max-width:376px){
+   #titlegridself h1{font-size: 190px !important;width: 1500px;
+      padding-top: 100px;padding-left: 230px !important;
+      }
+   #datagridselfr p{font-size: 65px;
+      width: 750px !important;margin-left: 60px !important;
+   }
+   #progridselfr p{font-size: 65px;
+      width: 580px !important;margin-left: 900px !important;
+   }
+   #buildgridselfr p{font-size: 65px;margin-left: 200px !important;
+      width: 1340px;margin-bottom: 200px !important;
+   }
+   #datagridselfr h2{margin-left: 60px;font-size: 72px !important;padding-top: 120px !important;}
+   #progridselfr h2{margin-left: 900px !important;font-size: 72px !important;margin-top: -1250px !important;}
+   #buildgridselfr h2{font-size: 72px !important;margin-left: 200px !important;}
+
+
+}
+/*-------------------------------320-------------------*/
+@media screen and (max-width:321px){
+   #titlegrid h1{font-size: 200px !important;padding-bottom: 200px !important;
+      padding-top: 200px;padding-left: 60px;
+      }
+   #datagridselfr p{font-size: 65px;
+      width: 590px !important;margin-left: 150px !important;
+   }
+   #progridselfr p{font-size: 65px;
+      width: 480px !important;margin-left: 900px !important;
+   }
+   #buildgridselfr p{font-size: 65px;margin-left: 300px !important;
+      width: 1040px;
+   }
+   #datagridselfr h2{margin-left: 150px;font-size: 62px !important;width: 800px !important;}
+   #progridselfr h2{margin-left: 900px !important;font-size: 62px !important;margin-top: -1790px !important;width: 600px !important;}
+   #buildgridselfr h2{font-size: 62px !important;margin-left: 300px !important;}
+   #chartr{width: 1200px !important;margin-left: -1580px !important;}
+
+}

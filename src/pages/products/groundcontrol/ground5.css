@@ -1,0 +1,90 @@
+.groground5{background-color: #e33d3b !important;
+    display: block;height: 550px !important;
+}
+.groground5 img{
+    position: absolute;transform: translate(5px, -488px) !important;
+    clip-path: polygon(100% 0,100% 70%,70% 100%,0 100%);
+    height: 615px;
+}
+.grotriangle1{background-color: rgb(255, 255, 255) !important;
+    position: relative;
+    top: 340px !important;
+    left: 0px !important;
+    width: 220px !important;
+    height: 220px !important;
+    clip-path: polygon(0 0,0 100%,100% 0) !important;}
+.groground5 h1{color: white;
+    transform: translate(200px);
+}
+.groground5 h1{width: 600px;font-size: 37px;text-align: left;
+    animation: grosliding 2s ;
+    padding-top: 100px !important;padding-left: 0px;letter-spacing:0ch !important;
+    position: relative;left: 0px;
+}
+.groground5 h3{width: 750px;color: white !important;font-weight: 300 !important;}
+.white{background-color:white !important;
+    position: relative;
+    top: 0px !important;z-index: 10 !important;
+    left: 1050px !important;
+    width: 220px !important;
+    height: 120px !important;}
+
+    @keyframes grosliding {
+        0%   { left:300px; }
+        
+        
+        100% { left:0px; }
+    }
+
+/*-------------------------------1024-------------------*/
+@media screen and (max-width:1024px){
+ 
+    .groground5{height: 900px !important; }
+    .groground5 img{transform: translate(30px, -653px) !important;
+        height: 895px; }
+    .grotriangle1{ top: 400px !important;
+        width: 290px !important;
+        height: 290px !important;}
+    .groground5 h1{ transform: translate(200px);}
+    .groground5 h1{width: 850px;font-size: 65px;
+        padding-top: 150px !important;}
+    .groground5 h3{width: 930px !important;font-size: 20px !important;}
+
+
+}
+/*-------------------------------768-------------------*/
+@media screen and (max-width:769px){
+ 
+    .groground5{height: 1700px !important; }
+    .groground5 img{transform: translate(-126px, -343px) !important;
+        height: 1115px;max-width: 1000px !important; }
+    .groground5 h1{width: 850px;font-size: 75px;
+        padding-top: 150px !important;}
+    .groground5 h3{width: 850px !important;font-size: 25px !important;}
+
+
+}
+/*-------------------------------425-------------------*/
+@media screen and (max-width:426px){
+ 
+    .groground5{height: 2500px !important; }
+    .groground5 img{transform: translate(-1300px, -55px) !important;
+        height: 1315px;max-width: 1300px !important; }
+    .groground5 h1{width: 1090px;font-size: 98px;
+        padding-top: 150px !important;}
+    .groground5 h3{width: 1000px !important;font-size: 45px !important;}
+
+
+}
+/*-------------------------------320-------------------*/
+@media screen and (max-width:321px){
+ 
+    .groground5{height: 3200px !important;margin-left: 100px !important; width: 1400px !important;}
+    .groground5 img{transform: translate(-450px, 60px) !important;
+        height: 1115px;max-width: 1300px !important; }
+    .groground5 h1{width: 750px;font-size: 98px;
+        padding-left: 100px !important;padding-top: 300px !important;}
+    .groground5 h3{width: 1000px !important;font-size: 45px !important;}
+    .grotriangle1{color: black;}
+
+}
