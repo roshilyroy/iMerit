@@ -1,0 +1,180 @@
+.bckimg{
+    padding: 80px 25px 65px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    min-height: 280px;
+    position: relative;
+}
+.bckimg1{
+    background-image:url("https://imerit.net/wp-content/uploads/2021/05/InsurTech-End-to-End-Automation.jpg") ;
+}
+.bckimg2{
+background-image: url("https://imerit.net/wp-content/uploads/2021/05/Deep-NLP.jpg");
+}
+.bckimg3{
+    background-image: url("https://imerit.net/wp-content/uploads/2020/08/NLP-Financial-Data-Enrichment-1-min-1.png");
+}
+@media(min-width:350px){
+    .p1{
+    height: 60px;
+    padding-top: 1.8rem;
+}
+}
+.p1{
+   
+    font-size: 2.5rem;
+  
+    letter-spacing: -2px;
+    font-stretch:extra-condensed !important;
+    font-family: mongoose,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 2.5em;
+    font-weight: 300;
+    color: #3e323b;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+.p2{
+    letter-spacing: -2px;
+    font-stretch:extra-condensed !important;
+height: 55px;
+font-family: mongoose,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-weight: 400;
+    font-size: 1.25em;
+    color: #3e323b;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 15px 20px;
+    display: block;
+    background-color: #fff;
+    line-height: 1em;
+    position: relative;
+}
+.texton{
+    font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1.5em;
+    color: #fff;
+    line-height: 1.4em;
+    margin: 0;
+    z-index: 5;
+    font-weight: lighter;
+    padding: 20px;
+   padding-top: 100px;
+}
+.card4th{
+   transform: translateY(75px);
+   
+}
+.card4{
+    border: 1px solid black;
+}
+.overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    background: rgba(62,50,59,.9);
+    opacity: 1;
+  
+}
+.card4:hover .overlay{
+opacity: 0;
+}
+.card41{
+    transform: translateX(20px);
+}
+.card42{
+    transform: translate(440px,-432px);
+}
+.card43{
+    transform: translate(860px,-864px);
+}
+.card4{
+    box-shadow: none !important;
+}
+.card4{
+    position: relative;
+    animation-name: example1;
+   animation-fill-mode: forwards;
+  animation-duration: 1s;
+}
+@keyframes example1 {
+    from {top: 50px;opacity:1; }
+     to {top: 0px;opacity:1; }
+   
+   }
+   @media (min-width:900px) and (max-width:1200px){
+    .card41{
+        transform: translateX(-75px);
+    }
+    .card42{
+        transform: translate(250px,-432px);
+    }
+    .card43{
+        transform: translate(575px,-864px);
+    }
+   }
+   @media (min-width:900px){
+    .card4thslide{
+        display: none !important;
+    }
+   }
+   @media (max-width:900px){
+    .card4th{
+        display: none !important;
+    }
+   }
+   @media (min-width:500px) and (max-width:900px){
+    .card8title1{
+     margin-left: -105px !important;
+     margin-top: 80px !important;
+     
+    }
+}
+
+    @media (max-width:900px){
+        .card4{
+            box-shadow: 5px 10px 10px #aaaaaa !important;
+        }
+        .uk-dotnav>.uk-active>* {
+            background-color: #e33d3b;
+           
+        }
+        .uk-dotnav>*>* {
+            border: 1px solid #e33d3b !important;
+        }
+    }
+   
+    @media (min-width:400px) and (max-width:500px){
+        .card8title1{
+         margin-left: -85px !important;
+         margin-top: 90px !important;
+         
+        }
+    }
+    @media (min-width:350px) and (max-width:400px){
+        .card8title1{
+         margin-left: -105px !important;
+         margin-top: 90px !important;
+         
+        }
+    }
+    @media (min-width:300px) and (max-width:350px){
+        .card8title1{
+         margin-left: -110px !important;
+         margin-top: 90px !important;
+         width: 250px !important;
+        }
+
+            .p1{
+                height: 40px;
+                padding-top: 1rem;
+            }
+            .p2{
+                padding-top: 1.5rem !important;
+            }
+
+    }

@@ -1,0 +1,108 @@
+@media (min-width:1200px){
+.counth{
+    margin-top: 500px !important;
+   margin-left: 50px !important;
+   margin-right: 50px !important;
+}
+}
+@media(min-width:900px) and (max-width:1200px){
+    .counth{
+        margin-top: 500px !important;
+       margin-left: 50px !important;
+       margin-right: 50px !important;
+    }
+       .newth{
+        margin-left: -40px !important;
+       }
+}
+@media(min-width:500px) and (max-width:900px){
+    .counth{
+        margin-top: -100px !important;
+       margin-left: 50px !important;
+       margin-right: 50px !important;
+    }
+       .newth{
+        margin-left: 20px !important;
+       }
+       .pa3th{
+        width: 90% !important;
+        margin-left: 13px !important;
+       }
+}
+@media(min-width:400px) and (max-width:500px){
+    
+    .counth{
+        margin-top: 500px !important;
+     margin-left: -250px !important;
+       margin-right: 50px !important;
+    }
+    .couth{
+        margin-left: 280px !important;
+    }
+       .newth{
+        margin-left: 50px !important;
+       }
+       .pa3th{
+        width: 90% !important;
+        margin-left: 13px !important;
+       }
+}
+@media(min-width:350px) and (max-width:400px){
+   
+   .headth{
+    line-height: 50px !important;
+    font-stretch:ultra-condensed !important ;
+    letter-spacing: -5px;
+    font-size: 58px !important;
+    margin-bottom: -40px;
+    margin-left: 158px !important;
+    width: 100% !important;
+    }
+    .counth{
+        margin-top: 500px !important;
+     margin-left: -180px !important;
+       margin-right: 150px !important;
+    }
+    .couth{
+        margin-left: 260px !important;
+    }
+       .newth{
+        margin-left: -20px !important;
+       }
+       .pa3th{
+        width: 250% !important;
+        margin-left: -68px !important;
+       }
+}
+@media(min-width:300px) and (max-width:350px){
+   .nu3th{
+margin-left: -15px !important;
+   }
+   .nu4th{
+    margin-left: -35px !important;
+}
+    .headth{
+     line-height: 50px !important;
+     font-stretch:ultra-condensed !important ;
+     letter-spacing: -5px;
+     font-size: 58px !important;
+     margin-bottom: -40px;
+     margin-left: 158px !important;
+     width: 100% !important;
+     }
+     .counth{
+         margin-top: 500px !important;
+      margin-left: -180px !important;
+        margin-right: 150px !important;
+     }
+     .couth{
+         margin-left: 260px !important;
+     }
+        .newth{
+         margin-left: -40px !important;
+        }
+        .pa3th{
+         width: 300% !important;
+         margin-left: -48px !important;
+        }
+ }

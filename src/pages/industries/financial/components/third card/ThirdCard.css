@@ -1,0 +1,305 @@
+.thirdcard{
+    height: 465px; 
+   width: 81%;
+   box-shadow: 0 5px 15px rgb(0 0 0 / 50%);
+   margin-left: 150px;
+}
+.thirdcardimg{
+    object-fit:cover !important;
+    height: 465px; 
+width: 600px;
+transform: translateX(315px);
+    }
+   
+    .content-type,.featured-asset-cta{
+        font-family: mongoose,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+        font-size: 1.875rem;
+        color: #e33d3b;
+        letter-spacing: 1.5px;
+        text-transform: uppercase;
+        line-height: 1em;
+       font-stretch: condensed;
+   
+    }
+    .card3title a{
+        color: #2c2f3b !important;
+        font-size: 1.3rem!important;
+            font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+            line-height: 1.4em;
+            font-weight:bold;
+            margin-bottom: 0.5rem;
+        font-size: 2rem!important;  
+    }
+    .content-type{
+    
+    }
+    .featured-asset-cta{
+       
+    }
+    .content2{
+        transform: translateY(235px);
+       
+    }
+    .featured-asset-cta,.featured-asset a,.featured-asset-cta:hover{
+        position: relative;  
+        border-top: 1px solid rgba(0,0,0,.19);
+        color: #e33d3b;     
+     
+        display: block;
+       width: 153%;
+transform: translate(-40px,-40px);
+      padding-left: 40px;
+    
+    }
+   @media(min-width:500px){
+    .crdlogo{
+        padding-left: 340px;
+    }
+   }
+    .h2-alt{
+        font-size: 5rem;
+    text-transform: uppercase;
+font-weight: 100;
+    line-height: .78;
+    transform: translateY(-80px);
+    }
+    .h2-alt strong{
+        color: #e33d3b!important;
+        font-size: 2em;
+        text-transform: uppercase;
+        letter-spacing: -8px;
+        font-stretch:extra-condensed !important;
+       
+    }
+    @media (min-width:900px) {
+        .thirdcardabout{
+            text-align: left !important;
+            transform: translateY(-455px);
+            font-weight: bold;
+            width: 40%;
+        }
+    }
+    @media (min-width:900px) and (max-width:1200px){
+        .thirdcard{
+            width: 90%;
+            margin-left: 50px !important;
+           height: 400px;
+        }
+        .thirdcardimg{
+          transform: translateX(226px);
+          height: 400px !important;
+          width: 470px;
+        }
+        .thirdcardabout{
+            transform: translateY(-410px);
+            width: 50% !important;
+        }
+        .card3title{
+          transform: translateY(80px);
+        }
+        .featured-asset-cta{
+            width: 113%;
+            transform: translate(-30px,60px);
+                  padding-left: 40px;  
+        padding-top: 15px !important;
+                 
+        }
+        .content2{
+            transform: translateY(120px);
+           
+        }
+        .crdlogo{
+           margin-top: -60px !important;
+        }
+    }
+    @media (min-width:500px) and (max-width:900px){
+        .h2-alt{
+            font-size: 3rem !important;
+            margin-top: -75px !important;
+        }
+        .h2-alt strong{
+            font-size: 1.5em !important;
+        }  
+        .thirdcard{
+            width: 85%;
+            margin-left: 55px !important;
+           height: 515px;
+        }
+        .thirdcardimg{
+            transform: translateX(0px);
+            width: 100% !important;
+            height: 300px !important;
+          }
+          .thirdcardabout{
+            text-align: left !important;
+        }
+        .featured-asset-cta{
+            width: 110%;
+            transform: translate(-30px,-45px);
+            padding-top: 10px !important;
+                  padding-left: 20px;  
+                  font-size: 1.3rem;
+    
+                 
+        }
+        .content2{
+            transform: translateY(85px);
+           
+        }
+        .crdlogo{
+            position: absolute;
+            top: 0;
+            right: 0;
+            height: 140%;
+            width: auto;
+        }
+    }
+    @media (min-width:400px) and (max-width:500px){
+        .h2-alt{
+            font-size: 3rem !important;
+            margin-top: -75px !important;
+        }
+        .h2-alt strong{
+            font-size: 1.5em !important;
+        }  
+        .thirdcard{
+            width: 85%;
+            margin-left: 33px !important;
+           height: 515px;
+        }
+        .thirdcardimg{
+            transform: translateX(0px);
+            width: 100% !important;
+            height: 300px !important;
+          }
+          .thirdcardabout{
+            text-align: left !important;
+        }
+        .featured-asset-cta{
+            width: 120%;
+            transform: translate(-30px,-45px);
+            padding-top: 5px !important;
+            padding-bottom: 5px !important;
+                  padding-left: 20px;  
+                  font-size: 1.2rem;
+                }
+        .content-type{
+            font-size: 1.2rem;
+                  }
+  
+        .content2{
+            transform: translateY(85px);
+           
+        }
+        .crdlogo{
+            position: absolute;
+            top: 0;
+            right: 0;
+            height: 100% !important;
+            width: auto;
+           padding-left: 115px;
+        }
+        .card3title a{
+         font-size: 1.5rem !important;
+        }
+    }
+
+    @media (min-width:350px) and (max-width:400px){
+        .h2-alt{
+            font-size: 3rem !important;
+            margin-top: -75px !important;
+        }
+        .h2-alt strong{
+            font-size: 1.5em !important;
+        }  
+        .thirdcard{
+            width: 85%;
+            margin-left: 33px !important;
+           height: 515px;
+        }
+        .thirdcardimg{
+            transform: translateX(0px);
+            width: 100% !important;
+            height: 300px !important;
+          }
+          .thirdcardabout{
+            text-align: left !important;
+        }
+        .featured-asset-cta{
+            width: 123%;
+            transform: translate(-30px,-45px);
+            padding-top: 5px !important;
+            padding-bottom: 5px !important;
+                  padding-left: 20px;  
+                  font-size: 1.2rem;
+                }
+        .content-type{
+            font-size: 1.2rem;
+                  }
+  
+        .content2{
+            transform: translateY(85px);
+           
+        }
+        .crdlogo{
+            position: absolute;
+            top: 0;
+            right: 0;
+            height: 100% !important;
+            width: auto;
+           padding-left: 115px;
+        }
+        .card3title a{
+         font-size: 1.5rem !important;
+        }
+    }
+
+    @media (min-width:300px) and (max-width:350px){
+        .h2-alt{
+            font-size: 2.5rem !important;
+            margin-top: -130px !important;
+        }
+        .h2-alt strong{
+            font-size: 1.7em !important;
+        }  
+        .thirdcard{
+            width: 85%;
+            margin-left: 27px !important;
+           height: 515px;
+        }
+        .thirdcardimg{
+            transform: translateX(0px);
+            width: 100% !important;
+            height: 300px !important;
+          }
+          .thirdcardabout{
+            text-align: left !important;
+        }
+        .featured-asset-cta{
+            width: 128%;
+            transform: translate(-30px,-45px);
+            padding-top: 8px !important;
+            padding-bottom: 5px !important;
+                  padding-left: 20px;  
+                  font-size: 1rem;
+                }
+        .content-type{
+            font-size: 1.5rem;
+                  }
+  
+        .content2{
+            transform: translateY(47px);
+           
+        }
+        .crdlogo{
+            position: absolute;
+            top: 0;
+            right: 0;
+            height: 125% !important;
+            width: auto;
+           padding-left: 115px;
+        }
+        .card3title a{
+         font-size: 1.5rem !important;
+        }
+    }

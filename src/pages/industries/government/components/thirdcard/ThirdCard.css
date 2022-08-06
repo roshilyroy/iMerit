@@ -1,0 +1,21 @@
+.cardth4th{
+    margin-top: 200px !important;
+}
+@media (min-width:500px) and (max-width:900px){
+    .cardth4th{
+        margin-top: -450px !important;
+    }   
+}
+@media (min-width:350px) and (max-width:400px){
+.cardth4th .featured-asset-cta{
+    margin-top: 43px !important;
+}
+}
+@media (min-width:300px) and (max-width:350px){
+    .cardth4th{
+        margin-top: 300px !important;
+    }  
+    .cardth4th .featured-asset-cta{
+        margin-top: 43px !important;
+    }
+    }

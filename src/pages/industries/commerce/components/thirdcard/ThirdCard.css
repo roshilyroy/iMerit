@@ -1,0 +1,13 @@
+@media(min-width:1200px){
+.ctth{
+transform: translateY(80px) !important;
+}
+}
+@media (min-width:350px) and (max-width:400px){
+  .cardth3th{
+    margin-top: -100px !important;
+  }
+  .contntth{
+    margin-top: -27px !important;
+  }
+}
