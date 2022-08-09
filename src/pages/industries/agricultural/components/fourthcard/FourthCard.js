@@ -3,7 +3,7 @@ import "./FourthCard.css";
 function FourthCard() {
   return (
     <>
-    <div className="card4thslidese2">
+    <div className="frthpagecards card4thslidese2">
         <div class="  slidese uk-slider-container-offset" uk-slider="infinite:true">
           <div
             class="uk-position-relative uk-visible-toggle uk-light" 

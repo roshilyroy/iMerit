@@ -193,3 +193,41 @@ opacity: 0;
         width: 80% !important;
        } 
     }
+    @media (min-width:1200px){
+        .frthpagecards .card4{
+            width: 380px !important;
+           
+        }
+        .frthpagecards  .secard{
+           
+            transform: translateX(-80px);
+        }
+        .frthpagecards {
+            width: 1520px !important;
+            margin-left: 45px !important;
+           margin-right: -1500px !important;
+        }
+        .frthpagecards .uk2dot{
+            margin-left: 75px;
+        }
+    }
+    @media (min-width:900px) and (max-width:1200px){
+        .frthpagecards .card4{
+
+           
+        }
+        .frthpagecards  .secard{
+            width: 280px !important;
+         transform: translateX(-100px);
+        }
+        .frthpagecards {
+            
+                margin-left: 100px !important;
+            width: 950px !important;
+           
+           
+        }
+        .frthpagecards  .uk2dot{
+            margin-left: 30px;
+        }
+    }
