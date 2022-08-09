@@ -1,0 +1,164 @@
+.fifthhead{
+    color:#2c2f3b;
+    text-transform: uppercase;
+    font-size:8.75rem;
+    font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+    font-weight: 200;
+    line-height: .78;
+    text-align: center;
+    width:3000px;
+    
+    -webkit-transform: scaleX(1);
+    transform: scaleX(0.4);
+    letter-spacing: 5px;
+    margin-left:-750px;
+    word-spacing: 20px;
+    margin-top: 0px; 
+    padding-bottom: 80px;   }
+       .fourthcontiner{
+     
+        padding-top: 80px; 
+}
+.fifthimage{
+    max-width:150%;
+    height: 150px;
+}
+.fifthfirstpart{
+    padding-top: 80px;
+}
+@media only screen and (max-width:1024px) {
+    .fifthhead{
+        color:#2c2f3b;
+        text-transform: uppercase;
+        font-size:8.75rem;
+        font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+        font-weight: 200;
+        line-height: .78;
+        text-align: center;
+        width:2500px;
+        
+        -webkit-transform: scaleX(1);
+        transform: scaleX(0.4);
+        letter-spacing: 5px;
+        margin-left:-750px;
+        word-spacing: 20px;
+        margin-top: 0px; 
+        padding-bottom: 80px;   }
+           .fourthcontiner{
+         
+            padding-top: 80px; 
+    }
+    .fifthimage{
+        max-width:180%;
+        height: 150px;
+    }
+}
+@media only screen and (max-width:768px) {
+    .fifthhead{
+        color:#2c2f3b;
+        text-transform: uppercase;
+        font-size:5.75rem;
+        font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+        font-weight: 200;
+        line-height: .78;
+        text-align: center;
+        width:1800px;
+        
+        -webkit-transform: scaleX(1);
+        transform: scaleX(0.4);
+        letter-spacing: 5px;
+        margin-left:-500px;
+        word-spacing: 20px;
+        margin-top: 0px; 
+        padding-bottom: 80px;   }
+           .fourthcontiner{
+         
+            padding-top: 80px; 
+    }
+    .fifthimage{
+        max-width:200%;
+        height: 150px;
+    }
+}
+@media only screen and (max-width:426px) {
+    .fifthhead{
+        color:#2c2f3b;
+        text-transform: uppercase;
+        font-size:5.75rem;
+        font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+        font-weight: 200;
+        line-height: .78;
+        text-align: center;
+        width:1000px;
+        
+        -webkit-transform: scaleX(1);
+        transform: scaleX(0.4);
+        letter-spacing: 5px;
+        margin-left:-300px;
+        word-spacing: 20px;
+        margin-top: 0px; 
+        padding-bottom: 0px;   }
+           .fourthcontiner{
+         
+            padding-top: 80px; 
+    }
+    .fifthimage{
+        max-width:150%;
+        height: 150px;
+    }
+}
+@media only screen and (max-width:376px) {
+    .fifthhead{
+        color:#2c2f3b;
+        text-transform: uppercase;
+        font-size:5.75rem;
+        font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+        font-weight: 200;
+        line-height: .78;
+        text-align: center;
+        width:800px;
+        
+        -webkit-transform: scaleX(1);
+        transform: scaleX(0.4);
+        letter-spacing: 5px;
+        margin-left:-220px;
+        word-spacing: 20px;
+        margin-top: 0px; 
+        padding-bottom: 0px;   }
+           .fourthcontiner{
+         
+            padding-top: 80px; 
+    }
+    .fifthimage{
+        max-width:120%;
+        height: 150px;
+    }
+}
+@media only screen and (max-width:322px) {
+    .fifthhead{
+        color:#2c2f3b;
+        text-transform: uppercase;
+        font-size:5.75rem;
+        font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+        font-weight: 200;
+        line-height: .78;
+        text-align: center;
+        width:600px;
+        
+        -webkit-transform: scaleX(1);
+        transform: scaleX(0.4);
+        letter-spacing: 5px;
+        margin-left:-140px;
+        word-spacing: 20px;
+        margin-top: 0px; 
+        padding-bottom: 0px;   }
+           .fourthcontiner{
+         
+            padding-top: 80px; 
+    }
+    .fifthimage{
+        max-width:120%;
+        height: 150px;
+        padding-left: 20px;
+    }
+}

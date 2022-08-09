@@ -1,0 +1,431 @@
+.cardheadsentiment{
+    color:#2c2f3b;
+text-transform: uppercase;
+font-size: 8.75rem;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 300;
+line-height: .78;
+text-align: center;
+width:3500px;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left: -990px;
+word-spacing: 20px;
+}
+.cardheadcontent{
+    color:#2c2f3b;
+text-transform: uppercase;
+font-size: 8.75rem;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 300;
+line-height: .78;
+text-align: center;
+width:3500px;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left: -990px;
+word-spacing: 20px;
+}
+.cardheadsentiment1{
+    color:#2c2f3b;
+text-transform: uppercase;
+font-size: 8.75rem;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 300;
+line-height: .78;
+text-align: center;
+width:2500px;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left: -490px;
+word-spacing: 20px;
+}
+.cardsent{
+    margin-top: 80px;
+    height: 1000px; 
+}
+.card{
+    margin-top: 80px;
+    background:rgb(247,247,247) ;
+    height: 1800px;
+}
+.cardparasent{
+    font-weight: 200;
+    font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+        font-size: 1.7rem!important;
+      text-align: left;
+        color: #2c2f3b;
+        line-height: 1.35em;
+    width: 1200px;
+        font-weight: 200;
+        margin-left: 200px;
+        padding-top: 40px; 
+}
+.imagecard{
+  width: 360px;
+ 
+}
+.cardcon{
+  padding-top: 80px;
+}
+.cardhead1{
+   
+    font-size: 2rem!important;
+    color: #531cb3;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+width:400px;
+    font-weight: 600;
+    transform: scaleX(0.5);
+    text-align: left;
+    margin-left: -100px;
+}
+.cardbody{
+    margin-top: -60px;
+    
+}
+.paracard{
+font-weight: 200;
+font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1.5rem!important;
+  text-align: left;
+    color: #2c2f3b;
+    line-height: 1.35em;
+
+    font-weight: 200;
+  
+    
+}
+.media{
+height:300px
+}
+.advertisecard{
+height: 700px;
+
+}
+.advertisecardco{
+    height: 700px;
+
+}
+.advertisecardse{
+    height: 600px;
+    width: 350px;
+    }
+.advertisecardLast{
+    height: 800px;
+    }
+.cardcontain{
+    margin-top: 80px;
+}
+.cardhead1se{
+   
+    font-size: 2.5rem!important;
+    color:#2c2f3b;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+width:400px;
+    font-weight: 700;
+    transform: scaleX(0.6);
+    text-align: left;
+    margin-left: -90px;
+}
+.paracardse{
+    font-weight: 200;
+    font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+        font-size: 1.2rem!important;
+      text-align: left;
+        color: #2c2f3b;
+        line-height: 1.35em;
+    
+        font-weight: 200;
+      width:330px
+        
+    }
+    @media only screen and (max-width:1025px){
+        .advertisecardse{
+            height: 650px;
+            width: 350px;
+            }
+            .advertisecardco{
+                height: 750px;
+            
+            }
+            .cardheadsentiment{
+                color:#2c2f3b;
+            text-transform: uppercase;
+            font-size: 7.75rem !important;
+            font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+            font-weight: 300;
+            line-height: .78;
+            text-align: center;
+            width:3500px;
+            
+            -webkit-transform: scaleX(1);
+            transform: scaleX(0.4);
+            letter-spacing: 5px;
+            margin-left: -520px !important;
+            word-spacing: 20px;
+            }
+            .cardheadcontent{
+                color:#2c2f3b;
+            text-transform: uppercase;
+            font-size: 8.75rem;
+            font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+            font-weight: 300;
+            line-height: .78;
+            text-align: center;
+            width:2500px !important;
+            
+            -webkit-transform: scaleX(1);
+            transform: scaleX(0.4);
+            letter-spacing: 5px;
+            margin-left: -740px;
+            word-spacing: 20px;
+            }
+            .cardparasent{
+                font-weight: 200;
+                font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+                    font-size: 1.7rem!important;
+                  text-align: left;
+                    color: #2c2f3b;
+                    line-height: 1.35em;
+                width:900px;
+                    font-weight: 200;
+                    margin-left: 30px;
+                    padding-top: 40px; 
+            }
+    }
+    @media only screen and (max-width:769px){
+    .cardheadcontent{
+    color:#2c2f3b;
+text-transform: uppercase;
+font-size: 6.75rem;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 300;
+line-height: .78;
+text-align: center;
+width:2000px !important;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left: -620px;
+word-spacing: 20px;
+}
+.cardheadsentiment{
+    color:#2c2f3b;
+text-transform: uppercase;
+font-size: 5.75rem !important;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 300;
+line-height: .78;
+text-align: center;
+width:3500px;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left: -520px !important;
+word-spacing: 20px;
+}
+.cardparasent{
+    font-weight: 200;
+    font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+        font-size: 1.2rem!important;
+      text-align: left;
+        color: #2c2f3b;
+        line-height: 1.35em;
+    width: 680px !important;
+        font-weight: 200;
+        margin-left:40px;
+        padding-top: 40px; 
+}
+.advertisecardco{
+    height: 850px!important;
+}
+.advertisecard{
+    height: 850px!important;
+}
+
+
+    }
+    @media only screen and (max-width:426px){
+        .cardheadcontent{
+        color:#2c2f3b;
+    text-transform: uppercase;
+    font-size: 6.75rem;
+    font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+    font-weight: 300;
+    line-height: .78;
+    text-align: center;
+    width:800px !important;
+    
+    -webkit-transform: scaleX(1);
+    transform: scaleX(0.4);
+    letter-spacing: 5px;
+    margin-left: -200px;
+    word-spacing: 20px;
+    }
+    .cardheadsentiment{
+        color:#2c2f3b;
+    text-transform: uppercase;
+    font-size: 5.75rem !important;
+    font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+    font-weight: 300;
+    line-height: .78;
+    text-align: center;
+    width:800px !important;
+    
+    -webkit-transform: scaleX(1);
+    transform: scaleX(0.4);
+    letter-spacing: 5px;
+    margin-left: -180px !important;
+    word-spacing: 20px;
+    margin-top: -60px !important;
+    }
+    .cardparasent{
+        font-weight: 200;
+        font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+            font-size: 1.2rem!important;
+          text-align: left;
+            color: #2c2f3b;
+            line-height: 1.35em;
+        width: 380px !important;
+            font-weight: 200;
+            margin-left:40px;
+            padding-top: 40px; 
+    }
+    .advertisecardco{
+        height: auto!important;
+    }
+    .advertisecard{
+        height: auto!important;
+    }
+    .advertisecardse{
+        height: auto;
+        width: 350px !important;
+        }
+    
+        }
+        @media only screen and (max-width:376px){
+            .cardheadcontent{
+            color:#2c2f3b;
+        text-transform: uppercase;
+        font-size: 6.75rem;
+        font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+        font-weight: 300;
+        line-height: .78;
+        text-align: center;
+        width:800px !important;
+        
+        -webkit-transform: scaleX(1);
+        transform: scaleX(0.4);
+        letter-spacing: 5px;
+        margin-left: -200px;
+        word-spacing: 20px;
+        }
+        .cardheadsentiment{
+            color:#2c2f3b;
+        text-transform: uppercase;
+        font-size: 5.75rem !important;
+        font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+        font-weight: 300;
+        line-height: .78;
+        text-align: center;
+        width:800px !important;
+        
+        -webkit-transform: scaleX(1);
+        transform: scaleX(0.4);
+        letter-spacing: 5px;
+        margin-left: -200px !important;
+        word-spacing: 20px;
+        margin-top: -60px !important;
+        }
+        .cardparasent{
+            font-weight: 200;
+            font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+                font-size: 1.2rem!important;
+              text-align: left;
+                color: #2c2f3b;
+                line-height: 1.35em;
+            width: 320px !important;
+                font-weight: 200;
+                margin-left:30px;
+                padding-top: 40px; 
+        }
+        .advertisecardco{
+            height: auto!important;
+        }
+        .advertisecard{
+            height:  auto !important;
+        }
+        .advertisecardse{
+            height:  auto ;
+            width: 300px !important;
+            }
+        
+            }
+            @media only screen and (max-width:322px){
+                .cardheadcontent{
+                color:#2c2f3b;
+            text-transform: uppercase;
+            font-size: 6.75rem;
+            font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+            font-weight: 300;
+            line-height: .78;
+            text-align: center;
+            width:800px !important;
+            
+            -webkit-transform: scaleX(1);
+            transform: scaleX(0.4);
+            letter-spacing: 5px;
+            margin-left: -240px;
+            word-spacing: 20px;
+            }
+            .cardheadsentiment{
+                color:#2c2f3b;
+            text-transform: uppercase;
+            font-size: 5.75rem !important;
+            font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+            font-weight: 300;
+            line-height: .78;
+            text-align: center;
+            width:800px !important;
+            
+            -webkit-transform: scaleX(1);
+            transform: scaleX(0.4);
+            letter-spacing: 5px;
+            margin-left: -230px !important;
+            word-spacing: 20px;
+            margin-top: -60px !important;
+            }
+            .cardparasent{
+                font-weight: 200;
+                font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+                    font-size: 1.2rem!important;
+                  text-align: left;
+                    color: #2c2f3b;
+                    line-height: 1.35em;
+                width: 280px !important;
+                    font-weight: 200;
+                    margin-left:30px;
+                    padding-top: 40px; 
+            }
+            .advertisecardco{
+                height: auto!important;
+            }
+            .advertisecard{
+                height: auto!important;
+            }
+            .advertisecardse{
+                height: auto;
+                width: 300px !important;
+                }
+            
+                }

@@ -1,0 +1,211 @@
+.cardheadli{
+    color:#2c2f3b;
+text-transform: uppercase;
+font-size: 8.75rem;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 300;
+line-height: .78;
+text-align:center;
+width:2900px;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left: -690px;
+word-spacing: 20px;
+}
+.card{
+    margin-top: 80px;
+    background:rgb(247,247,247) ;
+    height: 1800px;
+}
+.imagecard{
+  width: 360px;
+ 
+}
+.cardcon{
+  padding-top: 80px;
+}
+.cardconlidar{
+    padding-top: 10px;
+  }
+.cardhead1lidar{
+    font-size: 2rem!important;
+    color: #531cb3;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+width:700px;
+    font-weight: 600;
+    transform: scaleX(0.5);
+    text-align: left;
+    margin-left: -175px;
+}
+.cardhead1{
+   
+    font-size: 2.5rem!important;
+    color: #2c2f3b;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+width:700px;
+    font-weight: 600;
+    transform: scaleX(0.5);
+    text-align:left;
+    margin-left:-180px;
+}
+.cardbody{
+    margin-top: -60px;
+    
+}
+.paracardli{
+font-weight: 200;
+font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1.5rem!important;
+  text-align: left;
+    color: #2c2f3b;
+    line-height: 1.35em;
+
+    font-weight: 200;
+  
+    
+}
+.paracardlidar{
+    font-weight: 200;
+    font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+        font-size: 1.2rem!important;
+      text-align: left;
+        color: #2c2f3b;
+        line-height: 1.35em;
+    
+        font-weight: 200;   
+}
+.media{
+height:300px
+}
+.advertisecardli{
+height: 700px;
+}
+.advertisecardLast{
+    height: 800px;
+    }
+.cardcontain{
+    margin-top: 80px;
+}
+.advertisecard2{
+    height: 580px;
+    border: none;
+    }
+    .mobilelidar{
+        display: none!important;
+    }
+    @media only screen and (max-width:1024px){
+        .cardheadli{
+            color:#2c2f3b;
+        text-transform: uppercase;
+        font-size: 8.75rem;
+        font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+        font-weight: 300;
+        line-height: .78;
+        text-align:center;
+        width:2000px;
+        
+        -webkit-transform: scaleX(1);
+        transform: scaleX(0.4);
+        letter-spacing: 5px;
+        margin-left: -490px;
+        word-spacing: 20px;
+        }
+    }
+    @media only screen and (max-width:769px){
+        .cardheadli{
+            color:#2c2f3b;
+        text-transform: uppercase;
+        font-size: 6.75rem;
+        font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+        font-weight: 300;
+        line-height: .78;
+        text-align:center;
+        width:1800px;
+        
+        -webkit-transform: scaleX(1);
+        transform: scaleX(0.4);
+        letter-spacing: 5px;
+        margin-left: -500px;
+        word-spacing: 20px;
+        }
+        .paracardli{
+            font-weight: 200;
+            font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+                font-size: 1.5rem!important;
+              text-align: left;
+                color: #2c2f3b;
+                line-height: 1.35em;
+            
+                font-weight: 200;
+              
+                
+            }
+            .advertisecardli{
+                height: 680px;
+            }
+    }
+    @media only screen and (max-width:426px){
+        .cardheadli{
+            color:#2c2f3b;
+        text-transform: uppercase;
+        font-size: 5.75rem;
+        font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+        font-weight: 300;
+        line-height: .78;
+        text-align:center;
+        width:800px;
+        
+        -webkit-transform: scaleX(1);
+        transform: scaleX(0.4);
+        letter-spacing: 5px;
+        margin-left: -200px;
+        word-spacing: 20px;
+        }
+        .paracardli{
+            font-weight: 200;
+            font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+                font-size: 1.5rem!important;
+              text-align: left;
+                color: #2c2f3b;
+                line-height: 1.35em;
+            
+                font-weight: 200;
+              
+                
+            }
+            .advertisecardli{
+                height: 680px;
+            }
+            .mobilelidar{
+                display:block!important;
+            }
+    }
+    @media only screen and (max-width:322px)
+    {
+        .advertisecard2{
+            height: 600px;
+        }
+        .cardheadli{
+            color:#2c2f3b;
+        text-transform: uppercase;
+        font-size: 5.75rem;
+        font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+        font-weight: 300;
+        line-height: .78;
+        text-align:center;
+        width:600px;
+        
+        -webkit-transform: scaleX(1);
+        transform: scaleX(0.4);
+        letter-spacing: 5px;
+        margin-left: -140px;
+        word-spacing: 20px;
+        }
+        .advertisecardli{
+            height: 750px !important;
+        }
+    }

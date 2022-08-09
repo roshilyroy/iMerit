@@ -1,0 +1,279 @@
+
+
+
+.gradient-line {
+    
+    width: 250px;
+    max-width: 100%;
+    margin: 1rem auto;
+    position: relative;
+    display: block;
+    
+    height: 8px;
+    background: #a2f1c5;
+    
+    background-image: linear-gradient(90deg,#a2f1c5 0,#a2f1c5 24%,#eef1a2 79%,#fff 100%);
+    margin-bottom: 30px;
+    }
+    .fourthpartsent{
+        margin-top: 80px;
+        height:750px;
+        background-color:rgb(247, 247,247)}
+        .fourheadsentiment{
+            color:#2c2f3b;
+    text-transform: uppercase;
+    font-size: 8.75rem;
+    font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+    font-weight: 200;
+    line-height: .78;
+    text-align: left;
+    width:3500px;
+    
+    -webkit-transform: scaleX(1);
+    transform: scaleX(0.4);
+    letter-spacing: 5px;
+    margin-left:-840px;
+    word-spacing: 20px;
+    margin-top: 0px; 
+    padding-bottom: 10px;   }
+       .fourthcontiner{
+     
+        padding-top: 40px;
+     
+        
+       }
+       .fourtext{
+       font-size: 7.8rem;
+       margin: 0;
+       line-height: 1em;
+       -webkit-transform: scaleX(1);
+       font-weight: 800;
+       transform: scaleX(0.6);
+       color: #2c2f3b;
+    
+    }
+    .fourtext1sent{
+        font-size: 1.1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color:black;
+        width:400px;
+        margin-left: -40px;
+    }
+    .sentimentp{
+        margin-top: 30px;
+        margin-left:140px;
+        width: 1300px;
+        font-size: 1.8em;
+        font-weight: 300;
+        line-height: 1.5;
+        color: #2c2f3b;
+        text-align: left;
+        font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    }
+    @media only screen and (max-width:1024px){
+        .sentimentp{
+            margin-top: 30px;
+            margin-left:60px;
+            width: 1000px;
+            font-size: 1.8em;
+            font-weight: 300;
+            line-height: 1.5;
+            color: #2c2f3b;
+            text-align: left;
+            font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+        }
+        .fourtext1sent{
+            font-size: 1.1rem;
+            font-weight: 400;
+            line-height: 1.5;
+            color:black;
+            width:300px;
+            margin-left: -20px;
+        }
+        .fourheadsentiment{
+            color:#2c2f3b;
+    text-transform: uppercase;
+    font-size: 8.75rem;
+    font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+    font-weight: 200;
+    line-height: .78;
+    text-align:center;
+    width:2500px !important;
+    
+    -webkit-transform: scaleX(1);
+    transform: scaleX(0.4);
+    letter-spacing: 5px;
+    margin-left:-740px;
+    word-spacing: 20px;
+    margin-top: 0px; 
+    padding-bottom: 10px;   }
+    }
+    @media only screen and (max-width:769px){
+        .sentimentp{
+            margin-top: 30px;
+            margin-left:60px;
+            width: 650px;
+            font-size: 1.2em;
+            font-weight: 300;
+            line-height: 1.5;
+            color: #2c2f3b;
+            text-align: left;
+            font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+        }
+        .fourtext1sent{
+            font-size: 1.1rem;
+            font-weight: 200;
+            line-height: 1.5;
+            color:black;
+            width:200px;
+            margin-left: -20px;
+        }
+        .fourheadsentiment{
+            color:#2c2f3b;
+    text-transform: uppercase;
+    font-size: 6.75rem;
+    font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+    font-weight: 200;
+    line-height: .78;
+    text-align:center;
+    width:1500px !important;
+    
+    -webkit-transform: scaleX(1);
+    transform: scaleX(0.4);
+    letter-spacing: 5px;
+    margin-left:-380px;
+    word-spacing: 20px;
+    margin-top: 0px; 
+    padding-bottom: 10px;   }
+    }
+    @media only screen and (max-width:426px){
+        .fourheadsentiment{
+            color:#2c2f3b;
+    text-transform: uppercase;
+    font-size: 6.75rem;
+    font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+    font-weight: 200;
+    line-height: .78;
+    text-align:center;
+    width:1000px !important;
+    
+    -webkit-transform: scaleX(1);
+    transform: scaleX(0.4);
+    letter-spacing: 5px;
+    margin-left:-280px;
+    word-spacing: 20px;
+    margin-top: 0px; 
+    padding-bottom: 10px;   
+    }  
+    .sentimentp{
+        margin-top: 30px;
+        margin-left:30px;
+        width: 380px;
+        font-size: 1.2em;
+        font-weight: 300;
+        line-height: 1.5;
+        color: #2c2f3b;
+        text-align: left;
+        font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    }
+    .fourthpartsent{
+        height: 1400px;
+    }
+    .fourtext1sent{
+        font-size: 1.1rem;
+        font-weight: 200;
+        line-height: 1.5;
+        color:black;
+        width:400px;
+        margin-left: -20px;
+        padding-bottom: 100px;
+    }
+    }
+    @media only screen and (max-width:376px){
+        .fourheadsentiment{
+            color:#2c2f3b;
+    text-transform: uppercase;
+    font-size: 6.75rem;
+    font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+    font-weight: 200;
+    line-height: .78;
+    text-align:center;
+    width:800px !important;
+    
+    -webkit-transform: scaleX(1);
+    transform: scaleX(0.4);
+    letter-spacing: 5px;
+    margin-left:-220px;
+    word-spacing: 20px;
+    margin-top: 0px; 
+    padding-bottom: 10px;   
+    }  
+    .sentimentp{
+        margin-top: 30px;
+        margin-left:30px;
+        width: 350px !important;
+        font-size: 1.2em;
+        font-weight: 300;
+        line-height: 1.5;
+        color: #2c2f3b;
+        text-align: left;
+        font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    }
+    .fourthpartsent{
+        height: 1600px;
+    }
+    .fourtext1sent{
+        font-size: 1.1rem;
+        font-weight: 200;
+        line-height: 1.5;
+        color:black;
+        width:300px;
+        margin-left: 10px;
+        padding-bottom: 100px;
+    }
+    }
+    @media only screen and (max-width:322px){
+        .fourheadsentiment{
+            color:#2c2f3b;
+    text-transform: uppercase;
+    font-size: 6.75rem;
+    font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+    font-weight: 200;
+    line-height: .78;
+    text-align:center;
+    width:800px !important;
+    
+    -webkit-transform: scaleX(1);
+    transform: scaleX(0.4);
+    letter-spacing: 5px;
+    margin-left:-240px;
+    word-spacing: 20px;
+    margin-top: 0px; 
+    padding-bottom: 10px;   
+    }  
+    .sentimentp{
+        margin-top: 30px;
+        margin-left:30px;
+        width: 300px !important;
+        font-size: 1.2em;
+        font-weight: 300;
+        line-height: 1.5;
+        color: #2c2f3b;
+        text-align: left;
+        font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    }
+    .fourthpartsent{
+        height: 1600px;
+    }
+    .fourtext1sent{
+        font-size: 1.1rem;
+        font-weight: 200;
+        line-height: 1.5;
+        color:black;
+        width:250px;
+        margin-left: 10px;
+        padding-bottom: 100px;
+    }
+    }
+    

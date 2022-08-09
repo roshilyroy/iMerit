@@ -1,0 +1,299 @@
+.gradient-line-purple {
+    width: 100%;
+    background-image: linear-gradient(270deg,#e33d3b 0,#531cb3 100%);
+    margin: 1rem auto;
+position: relative;
+display: block;
+height: 8px;
+animation-name: example3;
+animation-duration: 1s;
+}
+@keyframes example3 {
+  from {width: 0%;}
+  to {width: 100%;}
+}
+.Sixhead{
+   
+   
+    
+        color:#2c2f3b;
+text-transform: uppercase;
+font-size: 8.75rem;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 200;
+line-height: .78;
+text-align: left;
+width:3500px;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left:-880px;
+word-spacing: 20px;
+margin-top: 0px; 
+ padding-top: 40px;
+}
+.sixtxt{
+    font-size: 24px;
+    width:1150px;
+    text-align: center;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+.svgbut3{
+    border: 1px solid #e33d3b;
+width: 200px;
+height: 40px;
+text-align: center;
+justify-content: center;
+margin-left: -130px;
+margin-top: 50px;
+}
+.svgbut3:hover #linefirst{stroke: white !important}
+        .svgbut3:hover #line1first{stroke: white !important}
+        .svgbut3:hover #line2first{stroke: white !important}
+      .svgbut3:hover #line3first{stroke: white !important}
+      .svgbut3:hover {
+        background-color: #e33d3b;
+      }
+      .svgbut3:hover .btnsix{
+        color: white;
+      }
+.btnsix{
+    color: #e33d3b;
+}
+#button-svg3{
+    margin-top: -11px !important;
+    position: absolute;
+    margin-left:15px;
+    z-index: 1;
+  }
+  
+  .svgbut3:hover #linefirst{
+  animation-name: linesvgfirst;
+  animation-duration: 2s;
+  animation-delay: 1s;
+ 
+  }
+  .svgbut3:hover #line1first{
+  transform: rotate(16deg) scale(.45);
+  transform-origin: 0px 40px;
+  transition-duration: 1s;
+
+  }
+  .svgbut3:hover #line3first{
+  transition-duration: 1s;
+  transform: rotate(36deg) scale(1);
+  transform-origin: 0px 5px;
+ 
+  }
+  @keyframes linesvgfirst{
+  from{stroke-width: 0; }
+  to{stroke-width: 1 ; }
+  }
+  #line{
+  stroke-width: 0  ;
+  }
+  .bottom{
+    margin-top: 50px;
+  }
+  @media only screen and (max-width:1024px){
+    .Sixhead{
+   
+   
+    
+      color:#2c2f3b;
+text-transform: uppercase;
+font-size: 6.75rem;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 200;
+line-height: .78;
+text-align: left;
+width:3500px;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left:-1020px;
+word-spacing: 20px;
+margin-top: 0px; 
+padding-top: 40px;
+}
+
+.sixtxt{
+  font-size: 24px;
+  width:890px !important;
+  text-align: center;
+  margin-left: 0px !important;
+  margin-top: 50px;
+}
+.svgbut3{
+  border: 1px solid #e33d3b;
+width: 200px;
+height: 40px;
+text-align: center;
+justify-content: center;
+margin-left: 20px !important;
+margin-top: 50px;
+}
+  }
+  @media only screen and (max-width:768px){
+    .Sixhead{
+   
+   
+    
+      color:#2c2f3b;
+text-transform: uppercase;
+font-size: 3.75rem;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 200;
+line-height: .78;
+text-align: left;
+width:3500px;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left:-990px;
+word-spacing: 20px;
+margin-top: 0px; 
+padding-top: 40px;
+}
+
+.sixtxt{
+  font-size: 16px !important;
+  width:650px !important;
+  text-align: center;
+  margin-left: 0px !important;
+  margin-top: 50px;
+}
+.svgbut3{
+  border: 1px solid #e33d3b;
+width: 200px;
+height: 40px;
+text-align: center;
+justify-content: center;
+margin-left: 20px !important;
+margin-top: 50px;
+}
+  }
+  @media only screen and (max-width:426px){
+    .Sixhead{
+   
+   
+    
+      color:#2c2f3b;
+text-transform: uppercase;
+font-size: 3.75rem;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 200;
+line-height: .78;
+text-align: center;
+width:1000px;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left:-330px;
+word-spacing: 20px;
+margin-top: 0px; 
+padding-top: 40px;
+}
+
+.sixtxt{
+  font-size: 16px !important;
+  width:350px !important;
+  text-align: center;
+  margin-left: 10px !important;
+  margin-top: 50px;
+}
+.svgbut3{
+  border: 1px solid #e33d3b;
+width: 200px;
+height: 40px;
+text-align: center;
+justify-content: center;
+margin-left: 20px !important;
+margin-top: 50px;
+}
+  }
+  @media only screen and (max-width:376px){
+    .Sixhead{
+   
+   
+    
+      color:#2c2f3b;
+text-transform: uppercase;
+font-size: 3.75rem;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 200;
+line-height: .78;
+text-align: center;
+width:1000px;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left:-340px;
+word-spacing: 20px;
+margin-top: 0px; 
+padding-top: 40px;
+}
+
+.sixtxt{
+  font-size: 16px !important;
+  width:300px !important;
+  text-align: center;
+  margin-left: 10px !important;
+  margin-top: 50px;
+}
+.svgbut3{
+  border: 1px solid #e33d3b;
+width: 200px;
+height: 40px;
+text-align: center;
+justify-content: center;
+margin-left: 20px !important;
+margin-top: 50px;
+}
+  }
+  @media only screen and (max-width:322px){
+    .Sixhead{
+   
+   
+    
+      color:#2c2f3b;
+text-transform: uppercase;
+font-size: 3.75rem;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 200;
+line-height: .78;
+text-align: center;
+width:1000px;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.3);
+letter-spacing: 5px;
+margin-left:-360px !important;
+word-spacing: 20px;
+margin-top: 0px; 
+padding-top: 40px;
+}
+
+.sixtxt{
+  font-size: 16px !important;
+  width:250px !important;
+  text-align: center;
+  margin-left: 10px !important;
+  margin-top: 50px;
+}
+.svgbut3{
+  border: 1px solid #e33d3b;
+width: 200px;
+height: 40px;
+text-align: center;
+justify-content: center;
+margin-left: 20px !important;
+margin-top: 50px;
+}
+  }

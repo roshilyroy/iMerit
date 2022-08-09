@@ -1,0 +1,568 @@
+.secondseclidar{
+    background-color: rgb(247,247,247);
+    height:850px
+}
+.secondheadsent{
+    color:#2c2f3b;
+    text-transform: uppercase;
+    font-size:2.75rem;
+    font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+    font-weight: 700;
+    line-height: .78;
+    text-align: left;
+    width:1500px;
+    -webkit-text-size-adjust: 100%;
+    transform: scaleX(0.6);
+    -font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+    margin-top:80px;
+    margin-left: -300px;
+}
+.secondparasent{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+
+    margin: 0;
+    font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #2c2f3b;
+    text-align: left;
+  margin-top: 20px;
+    width:700px
+}
+.secondparasentiment{
+    margin-left: 20px;
+}
+.secondparalidar{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+
+    margin: 0;
+    font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1.1rem;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #2c2f3b;
+    text-align: left;
+  margin-top: 20px;
+    width:700px;
+    margin-bottom: 20px;
+}
+.tstpart{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.secondimgsec{
+    margin-top: 30px;
+}
+.secondsecheadsentiment{
+    color:#531cb3;
+    text-transform: uppercase;
+    font-size:8.75rem;
+    font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+    font-weight: 300;
+    line-height: .78;
+    text-align: center;
+    width:2500px;
+    -webkit-text-size-adjust: 100%;
+    -font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+    margin-top:80px;
+    -webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left:-450px ;
+}
+.sec{
+    margin-top:80px;
+    
+}
+.secondsecparasentiment{
+    width:1220px;
+    text-align: left;
+    margin-left: 400px;
+    margin-top: 30px;
+    margin-left:170px;
+    
+    font-size: 1.8em;
+    font-weight: 300;
+    line-height: 1.5;
+    color: #2c2f3b;
+}
+.fourthpart{
+    height:600px;
+    background-color:rgb(247, 247,247)}
+    .fourhead{
+        color:#2c2f3b;
+text-transform: uppercase;
+font-size: 10.75rem;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 200;
+line-height: .78;
+text-align: left;
+width:3500px;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left:-780px;
+word-spacing: 20px;
+margin-top: 0px; 
+padding-bottom: 80px;   }
+   .fourthcontiner{
+ 
+    padding-top: 80px;
+ 
+    
+   }
+   .fourtextsentiment1{
+   font-size: 2.8rem;
+   margin: 0;
+   line-height: 1em;
+   -webkit-transform: scaleX(1);
+   font-weight: 800;
+   transform: scaleX(0.6);
+   color: #2c2f3b;
+   transform: scaleX(0.5);
+width: 700px;
+margin-left: -190px;
+}
+.fourtextsentiment2{
+    font-size: 2.8rem;
+    margin: 0;
+    line-height: 1em;
+    -webkit-transform: scaleX(1);
+    font-weight: 800;
+    transform: scaleX(0.6);
+    color: #2c2f3b;
+    transform: scaleX(0.5);
+ width: 700px;
+ margin-left: -255px;
+ }
+ .fourtextsentiment3{
+    font-size: 2.8rem;
+    margin: 0;
+    line-height: 1em;
+    -webkit-transform: scaleX(1);
+    font-weight: 800;
+    transform: scaleX(0.6);
+    color: #2c2f3b;
+    transform: scaleX(0.5);
+ width: 700px;
+ margin-left: -240px;
+ }
+.fourtext1sentiment{
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #2c2f3b;
+   text-align: left;
+   width:360px;
+   margin-top: 20px;
+}
+.gradient-linesentiment {
+    
+    width: 100%;
+    max-width: 100%;
+    margin: 1rem auto;
+    position: relative;
+    display: block;
+    
+    height: 8px;
+    background: #a2f1c5;
+    
+    background-image: linear-gradient(90deg,#a2f1c5 0,#a2f1c5 24%,#eef1a2 79%,#fff 100%);
+    margin-bottom: 30px;
+    }
+    .thirdsecsentiment{
+        margin-top: 40px;
+    }
+ .mobilesenti{
+    display: none!important;
+ }
+@media only screen and (max-width:1024px){
+    .secondparasent{
+        width:550px !important
+    }
+    .second1{
+        padding-top: 40px!important;
+    }
+    .secondsec1{
+        height: 380px;
+    }
+    .secondsechead1{
+        width: 2000px ;
+        margin-left:-500px;
+        transform: scaleX(0.5);
+        text-align: center;
+        font-size:7.75rem;
+    }
+    .secondsecpara1{
+        width:950px;
+        text-align:left;
+        margin-left: 40px ;
+        margin-top: 30px;
+        margin-left:150px;
+        
+        font-size: 1.8em;
+        font-weight: 300;
+        line-height: 1.5;
+        color: #2c2f3b;
+        
+    }
+    .secondparalidar{
+        width: 500px;
+    }
+    .secondseclidar{
+        height: 1050px;
+    }
+    .secondsecheadsentiment{
+        color:#531cb3;
+        text-transform: uppercase;
+        font-size:8.75rem;
+        font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+        font-weight: 300;
+        line-height: .78;
+        text-align: center;
+        width:2000px;
+        -webkit-text-size-adjust: 100%;
+        -font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+        margin-top:80px;
+        -webkit-transform: scaleX(1);
+    transform: scaleX(0.4);
+    letter-spacing: 5px;
+    margin-left:-480px ;
+    }
+    .secondsecparasentiment{
+        width:950px;
+        text-align: left;
+        margin-left: 400px;
+        margin-top: 30px;
+        margin-left:40px;
+        
+        font-size: 1.8em;
+        font-weight: 300;
+        line-height: 1.5;
+        color: #2c2f3b;
+    }
+    .fourtext1sentiment{
+        font-size: 1.2rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #2c2f3b;
+       text-align: left;
+       width:260px;
+       margin-top: 20px;
+    }
+    .fourtextsentiment1{
+        font-size: 2.8rem;
+        margin: 0;
+        line-height: 1em;
+        -webkit-transform: scaleX(1);
+        font-weight: 800;
+        transform: scaleX(0.6);
+        color: #2c2f3b;
+        transform: scaleX(0.5);
+     width: 500px;
+     margin-left: -130px;
+     text-align: left;
+     }
+    
+
+}
+@media only screen and (max-width:769px){
+    .secondparasent{
+        width:380px !important
+    }
+    .secondseclidar{
+        height: 1300px !important;
+    }
+    .second1{
+        padding-top: 40px!important;
+    }
+    .secondsec1{
+        height: 580px;
+    }
+    .secondsechead1{
+        width: 2000px ;
+        margin-left:-500px;
+        transform: scaleX(0.5);
+        text-align: center;
+        font-size:7.75rem;
+    }
+    .secondsecpara1{
+        width:950px;
+        text-align:left;
+        margin-left: 40px ;
+        margin-top: 30px;
+        margin-left:150px;
+        
+        font-size: 1.8em;
+        font-weight: 300;
+        line-height: 1.5;
+        color: #2c2f3b;
+        
+    }
+    .secondparalidar{
+        width:400px;
+    }
+    .secondseclidar{
+        height: 1050px;
+    }
+    .secondsecheadsentiment{
+        color:#531cb3;
+        text-transform: uppercase;
+        font-size:6.75rem;
+        font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+        font-weight: 300;
+        line-height: .78;
+        text-align: center;
+        width:1500px;
+        -webkit-text-size-adjust: 100%;
+        -font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+        margin-top:80px;
+        -webkit-transform: scaleX(1);
+    transform: scaleX(0.4);
+    letter-spacing: 5px;
+    margin-left:-350px ;
+    }
+    .secondsecparasentiment{
+        width:650px;
+        text-align: left;
+        margin-left: 60px !important;
+        margin-top: 30px;
+        margin-left:40px;
+        
+        font-size: 1.2em;
+        font-weight: 300;
+        line-height: 1.5;
+        color: #2c2f3b;
+    }
+    .fourtext1sentiment{
+        font-size: 1.2rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #2c2f3b;
+       text-align: left;
+       width:310px;
+       margin-top: 20px;
+    }
+   
+    .fourtextsentiment1{
+        font-size: 2rem;
+        margin: 0;
+        line-height: 1em;
+        -webkit-transform: scaleX(1);
+        font-weight: 800;
+        transform: scaleX(0.6);
+        color: #2c2f3b;
+        transform: scaleX(0.5);
+     width: 700px;
+     margin-left: -180px;
+     text-align: left;
+     }
+     .secondheadsent{
+        color:#2c2f3b;
+        text-transform: uppercase;
+        font-size:2rem;
+        font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+        font-weight: 700;
+        line-height: .78;
+        text-align: left;
+        width:1500px;
+        -webkit-text-size-adjust: 100%;
+        transform: scaleX(0.6);
+        -font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+        margin-top:80px;
+        margin-left: -300px;
+    }
+    .fourtextsentiment2{
+        font-size: 2rem;
+        margin-left: -280px;
+    }
+    .fourtextsentiment3{
+        font-size: 2rem;
+        margin-left: -270px;
+    }
+    .secondimgsec{
+        margin-left: -10px;
+    }
+}
+@media only screen and (max-width:426px){
+    .secondseclidar{
+        height: 2000px !important;
+    }
+    .secondparasent{
+        width:370px !important
+    }
+    .secondparalidar{
+        width: 350px;
+    }
+    .secondsecheadsentiment
+    {
+        color:#531cb3;
+        text-transform: uppercase;
+        font-size:5.75rem;
+        font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+        font-weight: 300;
+        line-height: .78;
+        text-align: center;
+        width:800px;
+        -webkit-text-size-adjust: 100%;
+        -font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+        margin-top:80px;
+        -webkit-transform: scaleX(1);
+    transform: scaleX(0.4);
+    letter-spacing: 5px;
+    margin-left:-180px ;
+    }
+    .secondsecparasentiment{
+        width:350px !important;
+        text-align: left;
+        margin-left: 30px !important;
+        margin-top: 30px;
+        margin-left:40px;
+        
+        font-size: 1.2em;
+        font-weight: 300;
+        line-height: 1.5;
+        color: #2c2f3b;
+    }
+    .mobilesenti{
+        display:block!important;
+        margin-top: 40px;
+     }
+     .thirdsecsentiment{
+        display: none !important;
+     }
+     .fourtext1sentiment1{
+        font-size: 1.2rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #2c2f3b !important;
+       text-align: left;
+       width:310px;
+       margin-top: -80px;
+    }
+    }
+    @media only screen and (max-width:376px){
+        .secondseclidar{
+            height: 2000px !important;
+        }
+        .secondparasent{
+            width:350px !important
+        }
+        .secondparalidar{
+            width: 320px;
+        }
+        .secondsecheadsentiment
+        {
+            color:#531cb3;
+            text-transform: uppercase;
+            font-size:5.75rem;
+            font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+            font-weight: 300;
+            line-height: .78;
+            text-align: center;
+            width:800px;
+            -webkit-text-size-adjust: 100%;
+            -font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+            margin-top:80px;
+            -webkit-transform: scaleX(1);
+        transform: scaleX(0.4);
+        letter-spacing: 5px;
+        margin-left:-200px ;
+        }
+        .secondsecparasentiment{
+            width:350px !important;
+            text-align: left;
+            margin-left: 30px !important;
+            margin-top: 30px;
+            margin-left:40px;
+            
+            font-size: 1.2em;
+            font-weight: 300;
+            line-height: 1.5;
+            color: #2c2f3b;
+        }
+        .mobilesenti{
+            display:block!important;
+            margin-top: 40px;
+         }
+         .thirdsecsentiment{
+            display: none !important;
+         }
+         .fourtext1sentiment1{
+            font-size: 1.2rem;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #2c2f3b;
+           text-align: left;
+           width:310px;
+           margin-top: -80px;
+        }
+        }
+        @media only screen and (max-width:322px){
+            .secondseclidar{
+                height: 2100px !important;
+            }
+            .secondparasent{
+                width:280px !important
+            }
+            .secondparalidar{
+                width: 280px;
+            }
+            .secondsecheadsentiment
+            {
+                color:#531cb3;
+                text-transform: uppercase;
+                font-size:5.75rem;
+                font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+                font-weight: 300;
+                line-height: .78;
+                text-align: center;
+                width:600px;
+                -webkit-text-size-adjust: 100%;
+                -font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+                margin-top:80px;
+                -webkit-transform: scaleX(1);
+            transform: scaleX(0.4);
+            letter-spacing: 5px;
+            margin-left:-150px ;
+            }
+            .secondsecparasentiment{
+                width:250px !important;
+                text-align: left;
+                margin-left: 30px !important;
+                margin-top: 30px;
+                margin-left:40px;
+                
+                font-size: 1.2em;
+                font-weight: 300;
+                line-height: 1.5;
+                color: #2c2f3b;
+            }
+            .mobilesenti{
+                display:block!important;
+                margin-top: 40px;
+             }
+             .thirdsecsentiment{
+                display: none !important;
+             }
+             .fourtext1sentiment1{
+                font-size: 1.2rem;
+                font-weight: 400;
+                line-height: 1.5;
+                color: #2c2f3b;
+               text-align: left;
+               width:250px;
+               margin-top: -80px;
+            }
+            }
+        

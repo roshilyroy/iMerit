@@ -1,0 +1,623 @@
+.cardhead{
+    color:#2c2f3b;
+text-transform: uppercase;
+font-size: 8.75rem;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 300;
+line-height: .78;
+text-align: left;
+width:3500px;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left: -790px;
+word-spacing: 20px;
+}
+.gridres{
+    display: none;
+}
+.cardheadsec{
+    color:#2c2f3b;
+text-transform: uppercase;
+font-size: 8.75rem;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 300;
+line-height: .78;
+text-align: left;
+width:3500px;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left: -790px;
+word-spacing: 20px;
+}
+.card{
+    margin-top: 80px;
+    background:rgb(247,247,247) ;
+    height: 1800px;
+}
+.imagecard{
+  width: 360px;
+ 
+}
+.cardcon{
+  padding-top: 80px;
+}
+.cardhead1{
+   
+    font-size: 2rem!important;
+    color: #531cb3;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+width:400px;
+    font-weight: 600;
+    transform: scaleX(0.5);
+    text-align: left;
+    margin-left: -100px;
+}
+.cardbody{
+    margin-top: -60px;
+    
+}
+.paracard{
+font-weight: 200;
+font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1.5rem!important;
+  text-align: left;
+    color: #2c2f3b;
+    line-height: 1.35em;
+
+    font-weight: 200;
+  
+    
+}
+.griddata1{
+    display: none;
+}
+.media{
+height:300px
+}
+.advertisecardsec{
+    height: 800px;
+}
+.advertisecard{
+height: 700px;
+}
+.advertisecarddata{
+    height: 700px;  
+    margin-left: 100px;
+}
+.advertisecardLast{
+    height: 800px;
+    }
+.cardcontain{
+    margin-top: 80px;
+}
+#datafirstcard1{
+height:650px;
+}
+#datafirstcard2{
+    height:650px;
+    }
+#datafirstcard3{
+ height:650px;
+        }
+#datafirstcard4{
+     height:580px;
+            }
+#datafirstcard5{
+    height:580px;
+                }
+#datafirstcard6{
+    height:580px;
+        }
+#datafirstcard7{
+height:610px;
+         } 
+                               
+#datafirstcard8{
+height:610px;
+    }
+#datafirstcard9{
+height:610px;
+    }
+#datafirstcard10{
+height:795px;
+ }
+ #datasecondcard4{
+    height: 650px ;
+   }
+   #datasecondcard3{
+    height: 700px ;
+   }  
+   #datasecondcard2{
+    height: 700px ;
+   }
+   #datasecondcard1{
+    height: 700px ;
+   }           
+@media only screen and (max-width:1024px){
+    .cardhead{
+        width: 2000px ;
+        margin-left: -450px ;
+        text-align: center !important;
+    }
+    #datafirstcard1{
+        height:830px !important;
+        }
+        #datafirstcard2{
+            height:830px !important;
+            }
+        #datafirstcard3{
+         height:830px !important;
+                }
+     #datafirstcard4{
+     height:790px !important;
+     }
+    #datafirstcard5{
+     height:790px !important;
+    }
+    #datafirstcard6{
+    height:790px !important;
+    }
+    #datafirstcard7{
+     height:790px !important;
+     }
+         #datafirstcard8{
+            height:790px !important;
+             }
+        #datafirstcard9{
+         height:790px !important;
+                }
+        #datafirstcard10{
+        height:1000px !important;
+        }
+                                                   
+        #datasecondcard4{
+             height: 700 !important;
+        }
+        #datasecondcard4{
+            height:850px ;
+           }
+           #datasecondcard3{
+            height: 920px ;
+           }  
+           #datasecondcard2{
+            height: 920px ;
+           }
+           #datasecondcard1{
+            height: 920px ;
+        
+           }    
+    .paracard{
+        font-weight: 200;
+        font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+            font-size: 1.5rem!important;
+          text-align: left;
+            color: #2c2f3b;
+            line-height: 1.35em;
+        
+            font-weight: 200;
+         width:200px; 
+            
+        }
+        .advertisecard{
+            height: 900px !important;
+        }
+        .advertisecardsec{
+            height: 1100px !important;
+        }
+        .card{
+            margin-top: 80px;
+            background:rgb(247,247,247) ;
+            height: 2300px !important ;
+        }
+        .cardheadsec{
+            width:2500px;
+            margin-left: -750px;
+            text-align: center;
+        }
+        .advertisecardLast{
+            height: 1100px !important;
+            }
+
+
+        
+}
+@media only screen and (max-width:769px){
+    .cardhead{
+        font-size: 6rem;
+        
+        width: 1500px !important;
+        margin-left: -350px ;
+        text-align: center !important;
+    }
+    .paracard{
+        font-weight: 200;
+        font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+            font-size: 1.5rem!important;
+          text-align: left;
+            color: #2c2f3b;
+            line-height: 1.35em;
+        
+            font-weight: 200;
+         width:250px !important; 
+            
+        }
+        
+        .card{
+            margin-top: 80px;
+            background:rgb(247,247,247) ;
+            height: 2100px !important ;
+        }
+        .cardheadsec{
+            width:2000px !important;
+            margin-left: -620px !important;
+            text-align: center;
+        }
+     
+                #datasecondcard4{
+                    height:920px ;
+                   }
+.griddata{
+    display: none;
+}
+.griddata1{
+    display: block;
+}  
+
+.cardheadsec{
+    width:2000px ;
+    margin-left: -750px;
+    text-align: center;
+    font-size: 6.75rem;
+} 
+
+.paracard{
+    font-weight: 200;
+    font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+        font-size: 1.5rem!important;
+      text-align: left;
+        color: #2c2f3b;
+        line-height: 1.35em;
+    
+        font-weight: 200;
+     width:200px; 
+        
+    }
+    .advertisecard{
+        height: 900px !important;
+    }
+    .advertisecardsec{
+        height: 1100px !important;
+    }
+    .card{
+        margin-top: 80px;
+        background:rgb(247,247,247) ;
+        height: 2000px !important ;
+    }
+    .cardheadsec{
+        width:2500px;
+        margin-left: -750px;
+        text-align: center;
+    }
+  
+    #datafirstcard1{
+        height:750px !important;
+        }
+        #datafirstcard2{
+            height:750px !important;
+            }
+        #datafirstcard3{
+         height:720px !important;
+                }
+     #datafirstcard4{
+     height:720px !important;
+     }
+    #datafirstcard5{
+     height:700px !important;
+    }
+    #datafirstcard6{
+    height:700px !important;
+    }
+    #datafirstcard7{
+     height:690px !important;
+     }
+         #datafirstcard8{
+            height:690px !important;
+             }
+        #datafirstcard9{
+         height:880px !important;
+                }
+        #datafirstcard10{
+        height:880px !important;
+        }
+                                                   
+      
+        #datasecondcard4{
+            height:820px ;
+           }
+           #datasecondcard3{
+            height: 820px ;
+           }  
+           #datasecondcard2{
+            height: 820px ;
+           }
+           #datasecondcard1{
+            height: 820px ;
+        
+           }      
+
+}
+@media only screen and (max-width:426px){
+    #datafirstcard1{
+        height:650px !important;
+        }
+        #datafirstcard2{
+            height:650px !important;
+            }
+        #datafirstcard3{
+         height:620px !important;
+                }
+     #datafirstcard4{
+     height:550px !important;
+     }
+    #datafirstcard5{
+     height:595px !important;
+    }
+    #datafirstcard6{
+    height:555px !important;
+    }
+    #datafirstcard7{
+     height:560px !important;
+     }
+         #datafirstcard8{
+            height:620px !important;
+             }
+        #datafirstcard9{
+         height:550px !important;
+                }
+        #datafirstcard10{
+        height:740px !important;
+        }
+                                                   
+     
+        #datasecondcard4{
+            height:650px ;
+           }
+           #datasecondcard3{
+            height: 700px ;
+           }  
+           #datasecondcard2{
+            height: 700px ;
+           }
+           #datasecondcard1{
+            height: 700px ;
+        
+           }      
+
+    .cardhead{
+        font-size: 6rem;
+        
+        width: 800px !important;
+        margin-left: -200px ;
+        text-align: center !important;
+    }
+    .paracard{
+        font-weight: 200;
+        font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+            font-size: 1.5rem!important;
+          text-align: left;
+            color: #2c2f3b;
+            line-height: 1.35em;
+        
+            font-weight: 200;
+         width:330px !important; 
+            
+        }
+        .advertisecard{
+            height: 750px !important;
+        }
+        .card{
+            margin-top: 80px !important;
+            background:rgb(247,247,247) ;
+            height: 3200px !important;
+        }
+        .cardheadsec{
+            width:800px !important;
+            margin-left: -200px !important;
+            text-align: center;
+            font-size: 5.75rem;
+        }
+        .advertisecardLast{
+            height: 0px !important;
+            }
+.griddata{
+    display: none;
+}
+.griddata1{
+    display: block;
+}  
+
+.cardheadsec{
+    width:2000px ;
+    margin-left: -750px;
+    text-align: center;
+    font-size: 6.75rem;
+}    
+.gridres{
+    display: block !important;
+}
+.advertisecardsec{
+    height: 610px;
+}
+.cardcon{
+    margin-top: 100px !important;
+}
+}
+@media only screen and (max-width:376px){
+    
+    #datafirstcard1{
+        height:auto  !important;
+        }
+        #datafirstcard2{
+            height:auto !important;
+            }
+        #datafirstcard3{
+         height:auto !important;
+                }
+     #datafirstcard4{
+     height:auto !important;
+     }
+    #datafirstcard5{
+     height:auto !important;
+    }
+    #datafirstcard6{
+    height:auto !important;
+    }
+    #datafirstcard7{
+     height:auto !important;
+     }
+         #datafirstcard8{
+            height:auto !important;
+             }
+        #datafirstcard9{
+         height:auto !important;
+                }
+        #datafirstcard10{
+        height:auto !important;
+        }
+                                                   
+     
+        #datasecondcard4{
+            height:auto;
+           }
+           #datasecondcard3{
+            height: auto ;
+           }  
+           #datasecondcard2{
+            height: auto ;
+           }
+           #datasecondcard1{
+            height: auto ;
+        
+           }    .cardhead{
+        font-size: 6rem;
+        
+        width: 800px !important;
+        margin-left: -200px ;
+        text-align: center !important;
+    }
+    .paracard{
+        font-weight: 200;
+        font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+            font-size: 1.5rem!important;
+          text-align: left;
+            color: #2c2f3b;
+            line-height: 1.35em;
+        
+            font-weight: 200;
+         width:250px !important; 
+            
+        }
+        .advertisecard{
+            height: 750px !important;
+        }
+        .card{
+            margin-top: 80px;
+            background:rgb(247,247,247) ;
+            height: 3500px !important;
+        }
+        .cardheadsec{
+            width:800px !important;
+            margin-left: -200px !important;
+            text-align: center;
+            font-size: 5.75rem;
+        }
+        .advertisecardLast{
+            height: 0px !important;
+            }
+.griddata{
+    display: none;
+}
+.griddata1{
+    display: block;
+}  
+.card{
+    margin-top: 80px;
+    background:rgb(247,247,247) ;
+    height: 3700px;
+} 
+.cardheadsec{
+    width:2000px ;
+    margin-left: -750px;
+    text-align: center;
+    font-size: 6.75rem;
+}    
+.gridres{
+    display: block !important;
+}
+.advertisecardsec{
+    height: 610px;
+}
+}
+
+@media only screen and (max-width:322px){
+    .cardhead{
+        font-size: 6rem;
+        
+        width: 600px !important;
+        margin-left: -140px ;
+        text-align: center !important;
+    }
+    .paracard{
+        font-weight: 200;
+        font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+            font-size: 1.5rem!important;
+          text-align: left;
+            color: #2c2f3b;
+            line-height: 1.35em;
+        
+            font-weight: 200;
+         width:200px !important; 
+            
+        }
+        .advertisecard{
+            height: 890px !important;
+        }
+      
+        .cardheadsec{
+            width:800px !important;
+            margin-left: -200px !important;
+            text-align: center;
+            font-size: 5.75rem;
+        }
+        .advertisecardLast{
+            height: 0px !important;
+            }
+.griddata{
+    display: none;
+}
+.griddata1{
+    display: block;
+}  
+.card{
+    margin-top: 80px;
+    background:rgb(247,247,247) ;
+    height: 4100px !important;
+} 
+.cardheadsec{
+    width:2000px ;
+    margin-left: -240px !important;
+    text-align: center;
+    font-size: 6.75rem;
+}    
+.gridres{
+    display: block !important;
+}
+.advertisecardsec{
+    height: 810px;
+}
+}

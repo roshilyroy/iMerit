@@ -1,0 +1,535 @@
+.Processhead1lidar{
+    color:#2c2f3b;
+text-transform: uppercase;
+font-size: 8.75rem;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 300;
+line-height: .78;
+text-align: left;
+width:3500px;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left: -900px;
+word-spacing: 20px;
+}
+.Processheadlidar{
+    color: #e33d3b;
+    transform: scaleX(0.5);
+    font-size: 16em;
+    margin-left: -900px;
+margin-top: -70px;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+.process{
+    margin-top: 80px;
+    background-color: rgb(247,247,247);
+    height:2100px;
+}
+.processcontent{
+    padding-top: 50px;
+}
+
+  
+.circle {
+    display: flex;
+    width: 190px;
+    height: 200px;
+    background-image: linear-gradient(180deg,#eef1a2 0,#a3f1c5 99%);;
+    border-radius: 50%;
+    text-align: center;
+    position: relative;
+ 
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+  }
+  .processhead{
+    color: #e33d3b!important;
+    font-size: 2rem;
+    margin-top: 20px;
+  }
+.head1{
+  color: #e33d3b!important;
+  font-size: 2rem;
+  margin-top: 20px;
+  margin-left: -180px;
+}
+.head2{
+  color: #e33d3b!important;
+  font-size: 2rem;
+  margin-top: 20px;
+  margin-left: 80px;
+}
+.head3{
+  color: #e33d3b!important;
+  font-size: 2rem;
+  margin-top: 20px;
+  margin-left: -80px;
+}
+.head4{
+  color: #e33d3b!important;
+  font-size: 2rem;
+  margin-top: 20px;
+  margin-left: -130px;
+}
+  .paraprocess{
+    width: 432px;
+    font-size: 1.2em;
+    font-weight: 600;
+    line-height: 1.5;
+    color: #2c2f3b;
+    text-align: left;
+    margin-left: 100px;
+  }
+  .dotimage{
+    margin-top: -30px;
+    margin-left: 150px;
+    width:150px
+  }
+  .dotimage1{
+    margin-left:-110px;
+    width:150px;
+    margin-top: -40px;
+  }
+  .circlehover{
+    display: none !important;
+    margin-top: -255px;
+    margin-left: -45px;
+  }
+  
+  .hover:hover .circlehover{
+    display:block !important ;
+  }
+.hover:hover .circle{
+width:220px;
+height:210px;
+}
+  .outer_circle {
+    position: relative;
+    margin: 50px;
+    width: 210px;
+    height: 200px;
+    border-radius: 50%;
+    background: #ffffff;
+    position: relative;
+ 
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    display: flex;
+    z-index: 1;
+}
+  
+
+.text{
+  font-weight: 900;
+  font-size: 1.5em;
+  color: #2c2f3b;
+  letter-spacing: 2.05px;
+}
+.paratext{
+  margin-top:20px;
+text-align:center;
+}
+.circle2 {
+  display: flex;
+  width: 190px;
+  height: 200px;
+  background-image: linear-gradient(180deg,#eef1a2 0,#a3f1c5 99%);;
+  border-radius: 50%;
+  text-align: center;
+  position: relative;
+
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+.hover:hover .processhead{
+  color: #e33d3b!important;
+  font-size: 2.4rem;
+  margin-top: 20px;
+}
+.lidarprocesspara{
+    width:1400px;
+    text-align: left;
+    margin-left: 400px;
+    margin-top: 30px;
+    margin-left:200px;
+    
+    font-size: 1.8em;
+    font-weight: 300;
+    line-height: 1.5;
+    color: #2c2f3b;
+}
+.lidarprocess{
+    margin-top: 100px;
+}
+@media only screen and (max-width:1025px){
+
+  .Processhead1lidar{
+    margin-left: -1000px ;
+  }
+  .Processheadlidar{
+    margin-left: -640px !important ;
+  }
+  .paratext{
+    margin-left: 80px;
+    text-align: left;
+  }
+  .processhead{
+    margin-left: 40px ;
+    text-align: left;
+    width:400px
+  }
+  .paraprocess{
+    margin-left: 40px !important;
+  }
+  .head1{
+    margin-left:-30px !important ;
+  }
+  .head2{
+    margin-left:-10px !important;
+    width: 500px;
+  }
+  .head3{
+    margin-left:-90px !important ;
+    width: 500px;
+  }
+  .head4{
+    margin-left:-120px  !important;
+    width: 500px;
+  }
+  .process{
+    margin-top: 80px;
+    background-color: rgb(247,247,247);
+    height:2000px;
+}
+.lidarprocesspara{
+  width:900px !important;
+  text-align: left;
+  margin-left: 100px ;
+  margin-top: 30px;
+  margin-left:200px;
+  
+  font-size: 1.8em;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #2c2f3b;
+}
+.process{
+  margin-top: 80px;
+  background-color: rgb(247,247,247);
+  height:2200px ;
+}
+}
+@media only screen and (max-width:769px){
+  .Processhead1lidar{
+    margin-left: -1000px ;
+    font-size: 5.75rem !important;
+  }
+  .lidarprocesspara{
+    width:650px !important;
+    text-align: left;
+    margin-left: 100px ;
+    margin-top: 30px;
+    margin-left:200px;
+    
+    font-size: 1.2em !important;
+    font-weight: 300;
+    line-height: 1.5;
+    color: #2c2f3b;
+  }
+  .Processheadlidar{
+    margin-left: -500px !important;
+    font-size: 9.75rem !important;
+    margin-top: -30px !important;
+  }
+  .paratext{
+    margin-left: 100px;
+    text-align: left;
+  }
+  .processhead{
+    margin-left: 40px;
+    text-align: left;
+    width:400px
+  }
+  .paraprocess{
+    margin-left: 40px !important;
+  }
+ 
+  .process{
+    margin-top: 80px;
+    background-color: rgb(247,247,247);
+    height:2300px  !important;
+}
+.dotimage{
+  display: none !important;
+}
+.dotimage1{
+  display: none !important;
+}
+.hover{
+  margin-left: 300px;
+}
+
+.processhead{
+  color: #e33d3b!important;
+  font-size: 1.5rem !important;
+  margin-top: 10px !important;
+  width:300px;
+  margin-left: 180px !important;
+
+}
+.head1{
+  color: #e33d3b!important;
+  font-size: 1.5rem !important;
+margin-top: 20px;
+margin-left :-100px !important;}
+.head2{
+  color: #e33d3b!important;
+  font-size: 1.5rem !important;
+margin-top: 20px;
+margin-left: 60px !important;
+}
+.head3{
+color: #e33d3b!important;
+font-size: 1.5rem !important;
+
+margin-top: 20px;
+margin-left: 60px !important;
+}
+.head4{
+color: #e33d3b!important;
+font-size: 1.5rem !important;
+margin-top: 20px;
+margin-left: 40px !important;
+}
+.paraprocess{
+  width: 750px !important;
+  margin-left: -100px!important;
+  text-align: center !important;
+}
+}
+@media only screen and (max-width:426px){
+  .Processhead1lidar{
+    margin-left: -195px ;
+    font-size: 5.75rem !important;
+    width:800px
+  }
+  .Processheadlidar{
+    margin-left :-120px !important; ;
+    font-size: 10.75rem !important;
+    margin-top: -30px;
+  }
+  .paratext{
+    margin-left: 100px;
+    text-align: left;
+  }
+  
+ 
+  .process{
+    margin-top: 80px;
+    background-color: rgb(247,247,247);
+    height:2500px !important;
+}
+.dotimage{
+  display: none !important;
+}
+.dotimage1{
+  display: none !important;
+}
+.hover{
+  margin-left: 110px;
+  margin-top: 20px;
+}
+
+.processhead{
+  color: #e33d3b!important;
+  font-size: 1.5rem !important;
+  margin-top: 10px !important;
+  width:300px;
+  margin-left: 0px !important;
+
+}
+.head1{
+  color: #e33d3b!important;
+  font-size: 1.5rem !important;
+margin-top: 20px;
+margin-left :-120px !important;}
+.head2{
+  color: #e33d3b!important;
+  font-size: 1.5rem !important;
+margin-top: 20px;
+margin-left: -150px !important;
+}
+.head3{
+color: #e33d3b!important;
+font-size: 1.5rem !important;
+
+margin-top: 20px;
+margin-left: -150px !important;
+}
+.head4{
+color: #e33d3b!important;
+font-size: 1.5rem !important;
+margin-top: 20px;
+margin-left:-140px !important;
+}
+.paraprocess{
+  width: 400px !important;
+  margin-left: -100px!important;
+  text-align: center !important;
+  font-size: .9em !important
+
+}
+.lidarprocesspara{
+  width: 350px !important;;
+  text-align: left;
+  margin-left: 100px ;
+  margin-top: 30px;
+  margin-left:200px;
+  
+  font-size: 1em;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #2c2f3b;
+}
+}
+@media only screen and (max-width:376px){
+  .Processhead1lidar{
+    width: 800px !important ;
+    margin-left: -220px !important ;
+    font-size: 5.75rem !important;
+  }
+  .Processheadlidar{
+    margin-left: -100px ;
+    font-size: 10.75rem !important;
+    margin-top: -30px;
+  }
+  .paratext{
+    margin-left: 100px;
+    text-align: left;
+  }
+  
+ 
+  .process{
+    margin-top: 80px;
+    background-color: rgb(247,247,247);
+    height: 2550px !important; ;
+}
+.dotimage{
+  display: none !important;
+}
+.dotimage1{
+  display: none !important;
+}
+.hover{
+  margin-left: 110px;
+  margin-top: 20px;
+}
+
+.processhead{
+  color: #e33d3b!important;
+  font-size: 1.5rem !important;
+  margin-top: 10px !important;
+  width:300px;
+  margin-left: -20px !important;
+
+}
+.head1{
+  color: #e33d3b!important;
+  font-size: 1.5rem !important;
+margin-top: 20px;
+margin-left :-70px !important;}
+.head2{
+  color: #e33d3b!important;
+  font-size: 1.5rem !important;
+margin-top: 20px;
+margin-left: -150px !important;
+}
+.head3{
+color: #e33d3b!important;
+font-size: 1.5rem !important;
+
+margin-top: 20px;
+margin-left: -150px !important;
+}
+.head4{
+color: #e33d3b!important;
+font-size: 1.5rem !important;
+margin-top: 20px;
+margin-left:-140px !important;
+}
+.paraprocess{
+  width: 340px !important;
+  margin-left: -80px!important;
+  text-align: center !important;
+  font-size: .9em !important
+
+}
+.processcontent{
+ 
+    background-color: rgb(247,247,247);
+    height:2400px ;
+}
+}
+@media only screen and (max-width:322px){
+  .Processheadlidar{
+    margin-left: -80px !important;
+    font-size: 9.75rem !important;
+    margin-top: -30px;
+  }
+  .hover{
+    margin-left: 60px;
+    margin-top: 20px;
+  }
+  .processhead{
+    color: #e33d3b!important;
+    font-size: 1.5rem !important;
+    margin-top: 10px !important;
+    width:300px;
+    margin-left: -50px !important;
+  
+  } 
+  .paraprocess{
+    width: 290px !important;
+    margin-left: -80px!important;
+    text-align: center !important;
+    font-size: .9em !important
+  
+  }
+  .head2{
+    color: #e33d3b!important;
+    font-size: 1.5rem !important;
+  margin-top: 20px;
+  margin-left: -190px !important;
+  }
+  .head3{
+  color: #e33d3b!important;
+  font-size: 1.5rem !important;
+  
+  margin-top: 20px;
+  margin-left: -190px !important;
+  }
+  .head4{
+  color: #e33d3b!important;
+  font-size: 1.5rem !important;
+  margin-top: 20px;
+  margin-left:-190px !important;
+  }
+  .lidarprocesspara{
+    width: 250px !important;;
+    text-align: left;
+    margin-left: 100px ;
+    margin-top: 70px;
+    margin-left:200px;
+    
+    font-size: 1em;
+    font-weight: 300;
+    line-height: 1.5;
+    color: #2c2f3b;
+  }
+}

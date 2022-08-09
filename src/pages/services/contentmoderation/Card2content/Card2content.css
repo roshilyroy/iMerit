@@ -1,0 +1,287 @@
+.fifthsecondpartcont{
+    height:500px;
+    margin-top: 80px;
+    padding-bottom: 80px
+  
+}
+.fiftthsecondhead{
+    color:#2c2f3b;
+    text-transform: uppercase;
+    font-size: 8.75rem;
+    font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+    font-weight: 200;
+    line-height: .78;
+    text-align: center;
+    width:3500px;
+    padding-top: 80px;
+    -webkit-transform: scaleX(1);
+    transform: scaleX(0.4);
+    letter-spacing: 5px;
+    margin-left:-990px;
+    word-spacing: 20px;
+    margin-top: 0px; 
+    padding-bottom: 80px;
+}
+.post{
+ border: 1px solid red; ;
+    border-color: black;
+}
+.posthead{
+    font-weight: lighter;
+    font-size: 30px;
+    color:#2c2f3b;
+}
+.postbo{
+    background: rgba(62,50,59,.9);
+    height: 280px;
+    transition: opacity 150ms ease-in-out;
+    opacity: 1;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.posttext{
+    color: white;
+    font-size: 20px;
+    font-weight: 200;
+
+ 
+
+}
+.postbo1cont{
+    background-color:    #2c2f3b;;
+    height: 280px;
+font-size: 40px;
+
+display: flex;
+   
+}
+.posttext1{
+    color: white;
+    font-size: 45px;
+    font-weight: 100;
+    width: 350px;
+    margin-left: -20px;
+    margin-top: -20px;
+  
+}
+.postbo1cont{
+   background-image: url('https://imerit.net/wp-content/uploads/2020/08/Categorization-resized.jpg');
+   margin-top: -280px;
+}
+.postbo2cont{    background-color:    #2c2f3b;;
+    height: 280px;
+font-size: 40px;
+
+display: flex;
+
+    background-image: url('https://imerit.net/wp-content/uploads/2017/06/iMerit_eCommerce.jpg');
+    margin-top: -280px;
+ }
+.postbo{
+    opacity: .85;
+}
+.post:hover .postbo{
+display: none !important;
+}
+.post:hover .postbo1cont{
+    margin-top: 0px;
+}.post:hover .postbo2cont{
+    margin-top: 0px;
+}
+
+.postfootext{
+    font-size: 25px;
+    color: #2c2f3b !important;
+    margin-left: 100px;
+    width:2000px;
+    margin-top: 10px;
+}
+.postfooter{
+    height: 43px;
+    display: flex;
+    justify-content: center;
+    align-items:flex-start;
+   
+}
+.post:hover #linefirst{stroke: white !important}
+.post:hover #line1first{stroke: white !important}
+.post:hover #line2first{stroke: white !important}
+.post:hover #line3first{stroke: white !important}
+.post:hover .postfooter{
+        background-color:rgb(62, 50, 59);
+      }
+      .post:hover .postfootext{
+        color: white !important;
+      }
+      
+      .post:hover:hover #linefirst{
+    animation-name: linesvgfirst;
+    animation-duration: 2s;
+    animation-delay: 1s;
+   
+    }
+    .post:hover #line1first{
+    transform: rotate(16deg) scale(.45);
+    transform-origin: 0px 40px;
+    transition-duration: 1s;
+  
+    }
+    .post:hover #line3first{
+    transition-duration: 1s;
+    transform: rotate(36deg) scale(1);
+    transform-origin: 0px 5px;
+   
+    }
+    @keyframes linesvgfirst{
+    from{stroke-width: 0; }
+    to{stroke-width: 1 ; }
+    }
+    #line{
+    stroke-width: 0  ;
+    }
+    .cardimg{
+        width:500px;
+    }
+    .learncont{
+        color:#2c2f3b;
+        text-transform: uppercase;
+        font-size: 8.75rem;
+        font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+        font-weight: 300;
+        line-height: .78;
+        text-align: left;
+        width:3500px;
+        transform: scaleX(0.4);
+        letter-spacing: 5px;
+        margin-left:-840px;
+        word-spacing: 20px;
+        margin-top: 0px;
+        padding-bottom:40px ;
+    } 
+    .mobilelicon{
+        display: none !important;
+    }
+    @media only screen and (max-width:1024px){
+        .learncont{
+            color:#2c2f3b;
+            text-transform: uppercase;
+            font-size: 8.75rem;
+            font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+            font-weight: 300;
+            line-height: .78;
+            text-align: center;
+            width:2500px;
+            transform: scaleX(0.4);
+            letter-spacing: 5px;
+            margin-left:-740px;
+            word-spacing: 20px;
+            margin-top: 0px;
+            padding-bottom:40px ;
+        } 
+      }
+      @media only screen and (max-width:769px){
+        .learncont{
+            color:#2c2f3b;
+            text-transform: uppercase;
+            font-size: 5.75rem;
+            font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+            font-weight: 300;
+            line-height: .78;
+            text-align: center;
+            width:2000px;
+            transform: scaleX(0.4);
+            letter-spacing: 5px;
+            margin-left:-620px;
+            word-spacing: 20px;
+            margin-top: 0px;
+            padding-bottom:40px ;
+        } 
+      }
+      @media only screen and (max-width:426px){
+        .learncont{
+            color:#2c2f3b;
+            text-transform: uppercase;
+            font-size: 5.75rem;
+            font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+            font-weight: 300;
+            line-height: .78;
+            text-align: center;
+            width:900px;
+            transform: scaleX(0.4);
+            letter-spacing: 5px;
+            margin-left:-220px;
+            word-spacing: 20px;
+            margin-top: 0px;
+            padding-bottom:40px ;
+        } 
+        .mobilelicon{
+            display: block !important;
+            margin-top: -200px !important;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+      }
+      @media only screen and (max-width:376px){
+        .learncont{
+            color:#2c2f3b;
+            text-transform: uppercase;
+            font-size: 5.75rem;
+            font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+            font-weight: 300;
+            line-height: .78;
+            text-align: center;
+            width:600px;
+            transform: scaleX(0.4);
+            letter-spacing: 5px;
+            margin-left:-120px;
+            word-spacing: 20px;
+            margin-top: 0px;
+            padding-bottom:40px ;
+        } 
+        .mobilelicon{
+            display: block !important;
+            margin-top: -200px !important;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+      }
+      @media only screen and (max-width:376px){
+        .learncont{
+            color:#2c2f3b;
+            text-transform: uppercase;
+            font-size: 5.75rem;
+            font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+            font-weight: 300;
+            line-height: .78;
+            text-align: center;
+            width:600px;
+            transform: scaleX(0.4);
+            letter-spacing: 5px;
+            margin-left:-140px;
+            word-spacing: 20px;
+            margin-top: 0px;
+            padding-bottom:40px ;
+        } 
+        .mobilelicon{
+            display: block !important;
+            margin-top: -200px !important;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+        .posthead{
+            margin-left: -10px;
+        }
+        .postfootext{
+            width: 1000px;
+            margin-left: 40px;
+        }
+        #button-svg2data{
+            display: none;
+        }
+        .svgmobile{
+            display: none;  
+        }
+      }

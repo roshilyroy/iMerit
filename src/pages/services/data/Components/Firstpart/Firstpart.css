@@ -1,0 +1,313 @@
+.headFirst{
+color:#2c2f3b;
+text-transform: uppercase;
+font-size: 10.75rem;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 300;
+line-height: .78;
+text-align: left;
+width:1500px;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left:-310px;
+word-spacing: 20px;
+margin-top: 0px;
+}
+
+.firstpara{
+    margin-top: 30px;
+    margin-left:140px;
+    width: 850px;
+    font-size: 1.8em;
+    font-weight: 300;
+    line-height: 1.5;
+    color: #2c2f3b;
+    text-align: left;
+    font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+ 
+}
+.firstimage{
+
+   margin-top: 80px;
+   border-radius: 180px;
+} 
+.svgbut2data{
+    border: 1px solid #531cb3;
+width: 170px;
+height: 40px;
+text-align: center;
+justify-content: center;
+margin-left: -560px;
+margin-top: 50px;
+}
+.svgbut2:hover #linefirst{stroke: white !important}
+        .svgbut2:hover #line1first{stroke: white !important}
+        .svgbut2:hover #line2first{stroke: white !important}
+      .svgbut2:hover #line3first{stroke: white !important}
+      .svgbut2:hover {
+        background-color: #531cb3;
+      }
+      .svgbut2:hover .btn{
+        color: white;
+      }
+.btn{
+    color: #531cb3;
+    padding: 3px;
+    margin-left: -10px;
+}
+#button-svg2{
+    margin-top: -11px !important;
+    position: absolute;
+    margin-left:0px;
+    z-index: 1;
+  }
+  .dataanalysis{
+    padding-top: 100px;
+  }
+  .svgbut2:hover #linefirst{
+  animation-name: linesvgfirst;
+  animation-duration: 2s;
+  animation-delay: 1s;
+ 
+  }
+  .svgbut2:hover #line1first{
+  transform: rotate(16deg) scale(.45);
+  transform-origin: 0px 40px;
+  transition-duration: 1s;
+
+  }
+  .svgbut2:hover #line3first{
+  transition-duration: 1s;
+  transform: rotate(36deg) scale(1);
+  transform-origin: 0px 5px;
+ 
+  }
+  @keyframes linesvgfirst{
+  from{stroke-width: 0; }
+  to{stroke-width: 1 ; }
+  }
+  #line{
+  stroke-width: 0  ;
+  }
+  #triangle-up {
+    width: 0;
+    height: 0;
+    border-left: 400px solid transparent;
+    border-right: 0px solid transparent;
+    border-bottom: 360px solid #531cb3;
+   margin-top: -200px;
+   margin-left: 60px;
+   opacity: .85;
+ 
+}
+
+  .btn{
+    padding-top: 30px;
+    padding-bottom: 10px;
+  }
+  @media only screen and (max-width: 1025px){
+.headFirst{
+  width:1100px !important;
+  margin-left:-280px !important;
+}
+
+.firstpara{
+  width:650px;
+  margin-left:60px ;
+}
+ .firstimage{
+  border-radius: 600px !important;
+  width:300px !important;
+margin-left: 200px;
+margin-top: 160px;
+ }
+ #triangle-up {
+  width: 0;
+  height: 0;
+  border-left: 330px solid transparent ;
+  border-right: 0px solid transparent;
+  border-bottom: 300px solid #531cb3 ;
+ margin-top: -100px ;
+ margin-left: 200px ;
+ opacity: .85;
+
+}
+.svgbut2data{
+  border: 1px solid #531cb3;
+width: 170px;
+height: 40px;
+text-align: center;
+justify-content: center;
+margin-left: -190px ;
+margin-top: 20px !important;
+}
+  }
+  @media screen and (max-width: 769px){
+    .headFirst{
+      font-size: 6.75rem !important;
+    }
+    
+    .firstpara{
+    
+      font-size: 1.2em !important ;
+     width: 450px !important ;
+      margin-left:60px ;
+    }
+     .firstimage{
+      border-radius: 600px !important;
+      width:300px !important;
+    margin-left: 200px;
+    margin-top: 100px !important;
+     }
+     #triangle-up {
+      width: 0;
+      height: 0;
+      border-left: 330px solid transparent ;
+      border-right: 0px solid transparent;
+      border-bottom: 300px solid #531cb3 ;
+     margin-top: -140px !important;
+     margin-left: 200px ;
+     opacity: .85;
+    
+    }
+    .svgbut2data{
+      border: 1px solid #531cb3;
+    width: 170px;
+    height: 40px;
+    text-align: center;
+    justify-content: center;
+    margin-left: -12px !important ;
+    margin-top: 20px !important;
+    }
+      }
+      @media only screen and (max-width: 426px){
+        .headFirst{
+          font-size: 6.75rem !important;
+          max-width:800px;
+          padding-left: 180px;
+          margin-top: -100px !important;
+          
+        }
+        
+        .firstpara{
+          padding-left: -10px;
+        max-width: 300px;
+          font-size: 1.2em !important ;
+         width: 450px !important ;
+          margin-left:30px !important;
+        }
+        #triangle-up {
+          width: 0;
+          height: 0;
+          border-left: 430px solid transparent ;
+          border-right: 0px solid transparent;
+          border-bottom: 400px solid #531cb3;
+         margin-top: -270px !important;
+         margin-left: 100px !important;
+         opacity: .85;
+        
+        }
+        .firstimage{
+          border-radius: 600px !important;
+          width:300px !important;
+        margin-left: -30px !important;
+        margin-top: 80px !important;
+         }
+        .svgbut2data{
+          border: 1px solid #531cb3;
+        width: 190px;
+        height: 40px;
+        text-align: center;
+        justify-content: center;
+        margin-left: -185px !important ;
+        margin-top: 20px !important;
+        }
+        .firstdatapara{
+          margin-left:-200px;
+        }
+        
+          }
+          @media only screen and (max-width: 376px){
+            .svgbut2data{
+              border: 1px solid #531cb3;
+              width: 190px !important;
+            height: 40px;
+            text-align: center;
+            justify-content: center;
+            margin-left: -150px !important ;
+            margin-top: 20px !important;
+            }
+            #triangle-up {
+              width: 0;
+              height: 0;
+              border-left: 430px solid transparent ;
+              border-right: 0px solid transparent;
+              border-bottom: 400px solid #531cb3;
+             margin-top: -270px !important;
+             margin-left: 40px !important;
+             opacity: .85;
+            
+            }
+            .firstimage{
+              border-radius: 600px !important;
+              width:300px !important;
+            margin-left: -30px !important;
+            margin-top: 60px !important;
+             }
+             #button-svg2{
+              margin-top: -11px !important;
+              position: absolute;
+              margin-left: 8px !important;;
+              z-index: 1;
+            }
+          }
+          @media only screen and (max-width: 322px){
+            .svgbut2data{
+              border: 1px solid #531cb3;
+            width: 190px !important;
+            height: 40px;
+            text-align: center;
+            justify-content: center;
+            margin-left: -50px !important ;
+            margin-top: 20px !important;
+            }
+            .headFirst{
+              font-size: 6.75rem !important;
+              max-width:800px;
+              padding-left: 180px;
+              margin-top: -100px !important;
+              
+            }
+            .firstpara{
+              padding-left: -10px;
+            max-width: 300px;
+              font-size: 1.2em !important ;
+             width: 250px !important ;
+              margin-left:30px !important;
+            }
+            #button-svg2{
+              margin-top: -11px !important;
+              position: absolute;
+              margin-left: 8px !important;;
+              z-index: 1;
+            }
+            #triangle-up {
+              width: 0;
+              height: 0;
+              border-left: 450px solid transparent ;
+              border-right: 0px solid transparent;
+              border-bottom: 400px solid #531cb3;
+             margin-top: -240px !important;
+             margin-left: 10px !important;
+             opacity: .85;
+            
+            }
+            .firstimage{
+              border-radius: 600px !important;
+              width:300px !important;
+            margin-left: -20px !important;
+            margin-top: 60px !important;
+             }
+          }

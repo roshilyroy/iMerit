@@ -1,0 +1,361 @@
+
+
+
+.gradient-line {
+    
+width: 250px;
+max-width: 100%;
+margin: 1rem auto;
+position: relative;
+display: block;
+
+height: 8px;
+background: #a2f1c5;
+
+background-image: linear-gradient(90deg,#a2f1c5 0,#a2f1c5 24%,#eef1a2 79%,#fff 100%);
+margin-bottom: 30px;
+}
+.fourthpart{
+margin-top: 40px;
+    height:600px;
+    background-color:rgb(247, 247,247)}
+    .fourhead{
+        color:#2c2f3b;
+text-transform: uppercase;
+font-size: 10.75rem;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 200;
+line-height: .78;
+text-align: left;
+width:3500px;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left:-780px;
+word-spacing: 20px;
+margin-top: 0px; 
+padding-bottom: 80px;   }
+   .fourthcontiner{
+ 
+    padding-top: 80px;
+ 
+    
+   }
+   .fourtext{
+   font-size: 7.8rem;
+   margin: 0;
+   line-height: 1em;
+   -webkit-transform: scaleX(1);
+   font-weight: 800;
+   transform: scaleX(0.6);
+   color: #2c2f3b;
+
+}
+.fourtextdat{
+    font-size: 7.8rem;
+    margin: 0;
+    line-height: 1em;
+    -webkit-transform: scaleX(1);
+    font-weight: 800;
+    transform: scaleX(0.6);
+    color: #2c2f3b;
+ 
+}
+.fourtextda{
+    font-size: 7.8rem;
+    margin: 0;
+    line-height: 1em;
+    -webkit-transform: scaleX(1);
+    font-weight: 800;
+    transform: scaleX(0.6);
+    color: #2c2f3b;
+ 
+ }
+.fourtext1{
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #2c2f3b;
+}
+@media only screen and (max-width:1024px){
+    .fourhead{
+        color:#2c2f3b;
+text-transform: uppercase;
+font-size: 7.75rem!important ;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 200;
+line-height: .78;
+text-align: left;
+width:3500px;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left:-900px !important;
+word-spacing: 20px;
+margin-top: 0px; 
+padding-bottom: 80px;   }  
+.fourtext{
+    font-size: 7.8rem;
+    margin: 0;
+    line-height: 1em;
+    -webkit-transform: scaleX(1);
+    font-weight: 800;
+    transform: scaleX(0.6);
+    color: #2c2f3b;
+    text-align: center;
+ }
+ .fourtextdat{
+    
+    font-size: 7.8rem;
+    margin: 0;
+    line-height: 1em;
+    -webkit-transform: scaleX(1);
+    font-weight: 800;
+    transform: scaleX(0.6);
+    color: #2c2f3b;
+    text-align: center;
+ }
+ .fourtextda{
+    font-size: 7.8rem;
+  
+    margin: 0;
+    line-height: 1em;
+    -webkit-transform: scaleX(1);
+    font-weight: 800;
+    transform: scaleX(0.6);
+    color: #2c2f3b;
+    text-align: center;
+ }
+ .fourthpart{
+    margin-top: 100px;
+    height:600px;
+    background-color:rgb(247, 247,247)}
+}
+@media only screen and (max-width:769px){
+    .fourhead{
+        color:#2c2f3b;
+text-transform: uppercase;
+font-size: 6.75rem !important  ;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 200;
+line-height: .78;
+text-align: left;
+width:3500px;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left:-990px !important;
+word-spacing: 20px;
+margin-top: 0px; 
+padding-bottom: 80px;   }  
+.fourtext{
+    font-size: 5.8rem;
+    margin-left: -60px !important;
+    line-height: 1em;
+    -webkit-transform: scaleX(1);
+    font-weight: 800;
+    transform: scaleX(0.6);
+    color: #2c2f3b;
+    text-align: center;
+ }
+ .fourthpart{
+    margin-top: 100px;
+    height:600px;
+    background-color:rgb(247, 247,247)}
+    .fourtextda{
+        font-size: 7.8rem;
+
+        margin-left: -30px;
+        line-height: 1em;
+        -webkit-transform: scaleX(1);
+        font-weight: 800;
+        transform: scaleX(0.6);
+        color: #2c2f3b;
+        text-align: center;
+     }
+     .fourtextdat{
+        font-size: 7.8rem;
+        margin-left: -60px !important;
+        line-height: 1em;
+        -webkit-transform: scaleX(1);
+        font-weight: 800;
+        transform: scaleX(0.6);
+        color: #2c2f3b;
+        text-align: center;
+     }
+}
+@media only screen and (max-width:426px){
+    .fourhead{
+        color:#2c2f3b;
+text-transform: uppercase;
+font-size: 6.75rem !important  ;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 200;
+line-height: .78;
+text-align: center !important;
+width: 1000px !important;;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left:-290px !important;
+word-spacing: 20px;
+margin-top: 0px; 
+padding-bottom: 80px;   }  
+.fourthpart{
+    margin-top: 40px;
+        height: 1000px !important;
+        background-color:rgb(247, 247,247)}  
+        .fourtextda{
+            font-size: 7.8rem;
+    padding-top: 50px;
+            margin-left: -20px;
+            line-height: 1em;
+            -webkit-transform: scaleX(1);
+            font-weight: 800;
+            transform: scaleX(0.6);
+            color: #2c2f3b;
+            text-align: center;
+         }
+         .fourtextdat{
+            font-size: 7.8rem;
+            margin-left: -20px !important;
+            line-height: 1em;
+            -webkit-transform: scaleX(1);
+            font-weight: 800;
+            transform: scaleX(0.6);
+            color: #2c2f3b;
+            text-align: center;
+            padding-top: 50px;
+         }
+         .fourtext{
+            font-size: 5.8rem;
+            margin-left: -20px !important;
+            line-height: 1em;
+            -webkit-transform: scaleX(1);
+            font-weight: 800;
+            transform: scaleX(0.6);
+            color: #2c2f3b;
+            text-align: center;
+         }
+       
+}
+@media only screen and (max-width:376px){
+    .fourhead{
+        color:#2c2f3b;
+text-transform: uppercase;
+font-size: 6.75rem !important  ;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 200;
+line-height: .78;
+text-align: center !important;
+width: 900px !important;;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left:-260px !important;
+word-spacing: 20px;
+margin-top: 0px; 
+padding-bottom: 80px;   }  
+.fourthpart{
+    margin-top: 40px;
+        height: 1000px !important;
+        background-color:rgb(247, 247,247)}  
+        .fourtextda{
+            font-size: 7.8rem;
+    padding-top: 50px;
+            margin-left: -20px;
+            line-height: 1em;
+            -webkit-transform: scaleX(1);
+            font-weight: 800;
+            transform: scaleX(0.6);
+            color: #2c2f3b;
+            text-align: center;
+         }
+         .fourtextdat{
+            font-size: 7.8rem;
+            margin-left: -20px !important;
+            line-height: 1em;
+            -webkit-transform: scaleX(1);
+            font-weight: 800;
+            transform: scaleX(0.6);
+            color: #2c2f3b;
+            text-align: center;
+            padding-top: 50px;
+         }
+         .fourtext{
+            font-size: 5.8rem;
+            margin-left: -20px !important;
+            line-height: 1em;
+            -webkit-transform: scaleX(1);
+            font-weight: 800;
+            transform: scaleX(0.6);
+            color: #2c2f3b;
+            text-align: center;
+         }
+       
+}
+@media only screen and (max-width:322px){
+    .fourhead{
+        color:#2c2f3b;
+text-transform: uppercase;
+font-size: 6.75rem !important  ;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 200;
+line-height: .78;
+text-align: center !important;
+width: 600px !important;;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left:-150px !important;
+word-spacing: 20px;
+margin-top: 0px; 
+padding-bottom: 80px;   }  
+.fourthpart{
+    margin-top: 40px;
+        height: 1000px !important;
+        background-color:rgb(247, 247,247)}  
+        .fourtextda{
+            font-size: 7.8rem;
+    padding-top: 50px;
+            margin-left: -20px;
+            line-height: 1em;
+            -webkit-transform: scaleX(1);
+            font-weight: 800;
+            transform: scaleX(0.6);
+            color: #2c2f3b;
+            text-align: center;
+         }
+         .fourtextdat{
+            font-size: 7.8rem;
+            margin-left: -20px !important;
+            line-height: 1em;
+            -webkit-transform: scaleX(1);
+            font-weight: 800;
+            transform: scaleX(0.6);
+            color: #2c2f3b;
+            text-align: center;
+            padding-top: 50px;
+         }
+         .fourtext{
+            font-size: 5.8rem;
+            margin-left: -20px !important;
+            line-height: 1em;
+            -webkit-transform: scaleX(1);
+            font-weight: 800;
+            transform: scaleX(0.6);
+            color: #2c2f3b;
+            text-align: center;
+         }
+         .fourthpart{
+            margin-top: 40px;
+                height:1200px !important;
+                background-color:rgb(247, 247,247)}
+       
+}

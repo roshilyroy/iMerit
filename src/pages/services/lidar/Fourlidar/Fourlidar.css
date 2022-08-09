@@ -1,0 +1,232 @@
+.gradient-line-purple {
+    width: 100%;
+    background-image: linear-gradient(270deg,#e33d3b 0,#531cb3 100%);
+    margin: 1rem auto;
+position: relative;
+display: block;
+height: 8px;
+}
+.Sixheadlidar{
+   
+   
+    
+        color:#2c2f3b;
+text-transform: uppercase;
+font-size: 8.75rem;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 200;
+line-height: .78;
+text-align: left;
+width:3500px;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left:-1000px;
+word-spacing: 20px;
+margin-top: 0px; 
+ padding-top: 40px;
+}
+.sixtxt{
+    font-size: 24px;
+    width:1150px;
+    text-align: center;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+.svgbut4{
+    border: 1px solid #e33d3b;
+width: 200px;
+height: 40px;
+text-align: center;
+justify-content: center;
+margin-left: -130px;
+margin-top: 50px;
+}
+.svgbut4:hover #linefirst{stroke: white !important}
+        .svgbut4:hover #line1first{stroke: white !important}
+        .svgbut4:hover #line2first{stroke: white !important}
+      .svgbut4:hover #line3first{stroke: white !important}
+      .svgbut4.svgbut4:hover {
+        background-color: #e33d3b;
+      }
+      .svgbut4:hover .btnlidar{
+        color: white;
+      }
+.btnlidar{
+    color: #e33d3b;
+}
+#button-svg4{
+    margin-top: -11px !important;
+    position: absolute;
+    margin-left:0px;
+    z-index: 1;
+  }
+  
+  .svgbut4:hover #linefirst{
+  animation-name: linesvgfirst;
+  animation-duration: 2s;
+  animation-delay: 1s;
+ 
+  }
+  .svgbut4:hover #line1first{
+  transform: rotate(16deg) scale(.45);
+  transform-origin: 0px 40px;
+  transition-duration: 1s;
+
+  }
+  .svgbut4:hover #line3first{
+  transition-duration: 1s;
+  transform: rotate(36deg) scale(1);
+  transform-origin: 0px 5px;
+ 
+  }
+  @keyframes linesvgfirst{
+  from{stroke-width: 0; }
+  to{stroke-width: 1 ; }
+  }
+  #line{
+  stroke-width: 0  ;
+  }
+  .bottom{
+    margin-top: 50px;
+  }
+  @media only screen and (max-width:1025px){
+    .Sixheadlidar{
+   
+      color:#2c2f3b;
+text-transform: uppercase;
+font-size: 6.75rem;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 200;
+line-height: .78;
+text-align: left;
+width:3500px;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left:-1080px;
+word-spacing: 20px;
+margin-top: 0px; 
+padding-top: 40px;
+}
+  }
+  @media only screen and (max-width:769px){
+    .Sixheadlidar{
+   
+      color:#2c2f3b;
+text-transform: uppercase;
+font-size: 2.75rem;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 200;
+line-height: .78;
+text-align: left;
+width:3500px;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left:-980px;
+word-spacing: 20px;
+margin-top: 0px; 
+padding-top: 40px;
+}
+
+  .sixtxt{
+    font-size: 16px !important;
+    width:650px !important;
+    text-align: center;
+    margin-left: 0px !important;
+    margin-top: 50px;
+  }
+  }
+  @media only screen and (max-width:426px){
+    .Sixheadlidar{
+   
+      color:#2c2f3b;
+text-transform: uppercase;
+font-size: 2.75rem;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 200;
+line-height: .78;
+text-align:center ;
+width:1000px;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left:-330px;
+word-spacing: 20px;
+margin-top: 0px; 
+padding-top: 40px;
+}
+
+  .sixtxt{
+    font-size: 16px !important;
+    width:350px !important;
+    text-align: center;
+    margin-left: 10px !important;
+    margin-top: 50px;
+  }
+  }
+  @media only screen and (max-width:376px){
+    .Sixheadlidar{
+   
+      color:#2c2f3b;
+text-transform: uppercase;
+font-size: 2.75rem;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 200;
+line-height: .78;
+text-align:center ;
+width:1000px;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left:-340px;
+word-spacing: 20px;
+margin-top: 0px; 
+padding-top: 40px;
+}
+
+  .sixtxt{
+    font-size: 16px !important;
+    width:300px !important;
+    text-align: center;
+    margin-left: 10px !important;
+    margin-top: 50px;
+  }
+  }
+  @media only screen and (max-width:322px){
+    .Sixheadlidar{
+   
+      color:#2c2f3b;
+text-transform: uppercase;
+font-size: 2.75rem;
+font-family: Mongoose"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+font-weight: 200;
+line-height: .78;
+text-align:center ;
+width:700px;
+
+-webkit-transform: scaleX(1);
+transform: scaleX(0.4);
+letter-spacing: 5px;
+margin-left:-210px;
+word-spacing: 20px;
+margin-top: 0px; 
+padding-top: 40px;
+}
+
+  .sixtxt{
+    font-size: 16px !important;
+    width:240px !important;
+    text-align: center;
+    margin-left: 10px !important;
+    margin-top: 50px;
+  }
+  }
+  
+  
