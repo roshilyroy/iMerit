@@ -1,0 +1,118 @@
+
+.sol-card{
+    font-size: 100px;
+}
+.slide12{width: 200px !important;font-size: 16px;color: black !important;
+    text-align: left;line-height: 1.5;padding-left: 30px;
+   
+    }
+    .basecard2{width:550px;
+       border-radius: 0% !important;filter: drop-shadow(2px 5px 5px rgba(0,0,0,.21)) !important;
+       background-color:  #f0f0f5;
+       
+    }
+    .cardimg2{ width: 280px !important;height: 520px;}
+    .cardtitle2{color: #E33D3B !important;text-align: left;padding-left: 30px;
+        font-size: 25px !important;padding-bottom: 20px;padding-top: 30px;
+    }
+    .cardbutton2{color: #E33D3B !important;text-align: left;padding-left: 30px;
+        padding-top: 40px;
+    }
+    .card-one{margin-left: 90px !important;} 
+    .card-two{margin-left: 20px !important;}
+    .card-one, .card-two{margin-top: 30px !important;}
+    .card-one, .card-two{margin-bottom: 50px !important;}
+    .css-1633um2-MuiPaper-root{
+    box-shadow: 2px 5px 12px 0 rgb(0 0 0 / 50%);
+    }
+   
+    
+    .basecard2, .cardimg2{filter: drop-shadow(2px 5px 5px rgba(0,0,0,.21)) !important;
+        clip-path: polygon(
+            0 0,
+            0 0,
+            100% 0,
+            100% 10%,
+            100% 75%,
+            85% 100%,
+            0% 100%,
+            0% 100%,
+            0% 0%
+          )!important;
+    }
+    .card{height: 1070px;}
+    .css-1633um2-MuiPaper-root {
+        transform: translate(100px,-756px) !important;
+    }
+    .css-11lq3yg-MuiGrid-root{
+        transform: translateX(50px) !important;
+      }
+
+    /*responsive of 1024*/
+    @media screen and (max-width:1025px) {
+        .sol-card {
+            transform: translateX(60px) !important;
+        }
+        .sol {
+            font-size: 85px;
+            font-weight: 300;
+            font-family: 'Oswald', sans-serif !important;
+            transform: translate(-350px,-574px);
+        }
+        .basecard2 {
+            width: 438px;
+            transform: translateX(35px);
+        }
+        .css-11lq3yg-MuiGrid-root{
+            transform: translate(-17px,-118px) !important;
+            }
+            .css-1633um2-MuiPaper-root {
+                transform: translate(12px,-756px) !important;
+            }
+    }
+
+
+    /*responsive of tab*/
+    @media screen and (max-width:769px) {
+        .sol {
+            font-size: 74px;
+            transform: translate(-220px,-157px);
+        }
+        .sol-card {
+            transform: translate(-85px,-458px) !important;
+            width: 130%;
+        }
+        
+    }
+
+
+    /*responsive of mobile large*/
+    @media screen and (max-width:426px) {
+        .sol-card {
+            transform: translate(-85px,-306px) !important;
+        }
+        .card-one, .card-two{margin-top: -145px !important;}
+        .css-1oqv2c0-MuiPaper-root-MuiCard-root {
+            transform: translate(-14px, 135px);
+        }
+        .sol {
+            font-size: 60px;
+            transform: translate(-42px,-128px);
+        }
+    }
+
+      /*responsive of mobile medium*/
+      @media screen and (max-width:376px) {
+        .sol {
+            font-size: 60px;
+            transform: translate(-6px,-137px);
+        }
+      }
+
+       /*responsive of mobile small*/
+       @media screen and (max-width:321px) {
+        .sol {
+            font-size: 60px;
+            transform: translate(31px,-122px);
+        }
+       }

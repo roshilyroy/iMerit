@@ -1,0 +1,100 @@
+.sev-grid {
+    background-color: #f8f8f9 !important;  
+    transform: translateY(-400px) !important;
+}
+.serve {
+    font-size: 80px;
+    color: #531cb3;
+    font-family: 'Oswald', sans-serif;
+    transform: translateY(35px);
+    font-weight: 300;
+}
+.css-1xgjpwf-MuiGrid-root {
+    background-color: #f8f8f9 !important;
+}
+.css-12zacpk-MuiPaper-root{
+    box-shadow: none !important;
+    background-color: #f8f8f9 !important;
+}
+.au-h1 {
+    font-family: 'Oswald', sans-serif;  
+}
+/*responsive of 1024*/
+
+@media screen and (max-width:1025px) {
+.css-1xgjpwf-MuiGrid-root {
+      transform: translateX(20px);
+      width: calc(96% + 24px) !important;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+    font-size: 14px;
+    text-align: left;
+    width: 96%;
+    color: black;
+}
+}
+
+/*responsive of tab*/
+@media screen and (max-width:769px){
+    .css-14bwake-MuiGrid-root {
+        width: calc(100% + -16px);
+        transform: translateX(7px);
+    }
+    .sev-grid {
+        background-color: #f8f8f9 !important;
+        transform: translateY(-262px) !important;
+    }
+    .serve {
+        font-size: 70px;
+        font-weight: 100;
+        transform: translateY(35px);
+    }
+    .css-1xgjpwf-MuiGrid-root {
+        transform: translateX(31px);
+    }
+    .au-h1 {
+        transform: translateX(1px);
+        text-align: left;
+    } 
+    .au-txt1 {
+        font-size: 17px !important;
+    }
+}
+
+/*responsive of mobile medium*/
+@media screen and (max-width:376px){
+    .sev-grid {
+        width: 109%;
+        transform: translateY(-262px) !important;
+    }
+    .css-14bwake-MuiGrid-root {
+        width: calc(147% + -16px);
+    }
+    .css-o69gx8-MuiCardMedia-root {
+        width: 66%;
+    }
+    .au-txt1 {
+       font-size: 18px !important;
+       width: 87%;
+    }
+}
+
+/*responsive of mobile medium*/
+@media screen and (max-width:321px){
+    .sev-grid {
+        width: 168%;
+    }
+    .serve {
+        font-size: 68px;
+        font-weight: 100;
+        transform: translate(-25px,35px);
+    }
+    .css-14bwake-MuiGrid-root {
+        width: calc(100% + -16px);
+    }
+    .css-o69gx8-MuiCardMedia-root {
+        width: 63% !important;
+    }
+}

@@ -1,0 +1,7 @@
+.slider {
+    transform: translateY(197px) !important;
+    background-color: #f8f8f9 !important;
+}
+.slick-dots {
+    display: none !important;
+}

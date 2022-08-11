@@ -1,0 +1,69 @@
+.css-ah0e1x-MuiPaper-root  {box-shadow: none !important;}
+.slide1{height: 475px !important;}
+.grid-Mai{transform: translateY(150px);
+    margin-left: 50px !important;}
+.grid-Mai .Med{color: #531CB3;font-size: 75px !important;
+    font-family:'Oswald', sans-serif !important;
+    font-weight: 100 !important;
+    line-height: 1.2 !important;
+    }
+.grid-Mai .Medpara{font-size: 25px;color: rgb(56, 54, 54);
+    width: 750px !important;
+    }
+#imageAi img{transform: translateY(80px);
+        border-radius: 360% !important;height: 350px !important;
+}
+#image-Medai1 img{transform: translate(70px,-250px);height: 350px !important;
+    mix-blend-mode: multiply;
+}
+.css-gj1fbr-MuiGrid-root {
+    transform: translateY(-200px) !important;
+}
+
+
+/*responsive of 1024*/
+@media screen and (max-width:1025px) {
+
+    .css-vok43g-MuiGrid-root  {
+        transform: translate(12px, -271px);
+    }
+    .grid-Mai .Med {
+        font-size: 110px !important;
+        font-weight: 300 !important
+    }
+    .grid-Mai .Medpara {
+        font-size: 24px;
+        width: 620px !important;
+    }
+    #imageAi img  {
+        transform: translate(10px,-41px);
+        height: 274px !important;
+    }
+    #image-Medai1 img {
+        transform: translate(29px,-311px);
+        height: 285px !important;
+    }
+
+}
+
+/*responsive of tab*/
+@media screen and (max-width:769px){
+    .grid-Mai .Med {
+        font-size: 75px !important;
+        transform: translate(86px, -17px);
+    }
+    .grid-Mai .Medpara {
+        font-size: 16px;
+        width: 423px !important;
+        transform: translate(86px, -3px);
+    }
+    #imageAi img {
+        transform: translate(100px,-52px);
+        height: 200px !important;
+    }
+    #image-Medai1 img {
+        transform: translate(143px,-236px);
+        height: 206px !important;
+    }
+
+}

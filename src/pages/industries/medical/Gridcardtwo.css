@@ -1,0 +1,50 @@
+.med-grid1 {
+    background-color: #f8f8f9 !important;  
+}
+.med-ser {
+    font-size: 80px;
+    color: #531cb3;
+    font-family:'Oswald', sans-serif !important;
+}
+.css-1xgjpwf-MuiGrid-root {
+    background-color: #f8f8f9 !important;
+}
+.css-12zacpk-MuiPaper-root{
+    box-shadow: none !important;
+    background-color: #f8f8f9 !important;
+}
+
+
+/*responsive of 1024*/
+@media screen and (max-width:1025px) {
+    .med-grid1 {
+        transform: translateY(-324px);
+    }
+    .h1 {
+        transform: translateX(-40px);
+    }
+    .h2 {
+        transform: translateX(-40px);
+    }
+    .h3 {
+        transform: translateX(-55px);
+    }
+    .h5 {
+        transform: translateX(-37px);
+    }
+
+}
+
+/*responsive of tab*/
+@media screen and (max-width:769px){
+    .med-grid1 {
+        transform: translateY(-234px);
+    }
+    .med-ser {
+        transform: translateY(50px);
+        font-weight: 300;
+        font-size: 71px;    
+    }
+}
+
+

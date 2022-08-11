@@ -1,0 +1,24 @@
+.slidergeo {
+    transform: translateY(197px) !important;
+    background-color: #f8f8f9 !important;
+}
+.slick-dots {
+    display: none !important;
+}
+
+
+
+
+/*responsive of tab*/
+@media screen and (max-width:769px){
+    .slidergeo {
+        transform: translateY(-700px) !important;
+    }
+}
+
+/*responsive of mobile large*/
+@media screen and (max-width:426px) {
+    .slidergeo {
+        transform: translateY(-910px) !important;
+    }
+}

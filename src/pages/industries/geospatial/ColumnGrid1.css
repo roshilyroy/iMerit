@@ -1,0 +1,135 @@
+.head-by1 {
+    color: #531cb3;
+    font-size: 60px;
+    transform: translateY(-180px) !important;
+    font-family: 'Oswald', sans-serif !important;
+}
+.numbergeo3 {
+    color: #1e1e27;
+    font-size: 80px !important;
+    font-weight: 600;
+    font-family: 'Oswald', sans-serif !important;
+}
+.numbergeo4 {
+    color: #1e1e27;
+    font-size: 80px !important;
+    font-weight: 600; 
+    font-family: 'Oswald', sans-serif !important;
+}
+.pageo3 {
+    color: #1e1e27;
+    font-size: 15px !important;
+    transform: translate(60px,-50px) !important;
+}
+.pageo4 {
+    color: #1e1e27;
+    font-size: 15px !important;
+    transform: translate(-10px,-50px) !important;
+}
+hr.geonew1 {
+    border: 4px solid ;
+    color: linear-gradient(90deg,#a2f1c5 0,#a2f1c5 24%,#eef1a2 79%,#fff 100%) !important;
+    border-radius: 0px;
+    width: 160px;
+    transform: translate(250px,-70px) !important;
+  }
+  hr.geonew-1{
+    border: 4px solid ;
+    color: linear-gradient(90deg,#a2f1c5 0,#a2f1c5 24%,#eef1a2 79%,#fff 100%) !important;
+    border-radius: 0px;
+    width: 160px;
+    transform: translate(250px,-70px) !important;
+  }
+  .division-by1 {
+    transform: translate(10px, -193px);
+    background-color: #f8f8f9 !important;
+  }
+
+
+   /*responsive of 1024*/
+   @media screen and (max-width:1025px) {
+    .head-by1  {
+        transform: translateY(-370px) !important;
+    }
+    hr.geonew1 {
+        transform: translate(152px,-70px) !important;
+    }
+    hr.geonew-1 {
+        transform: translate(152px,-70px) !important;
+    }
+    .pageo3 {
+        transform: translate(101px,-50px) !important;
+    }
+    .pageo4 {    
+        transform: translate(54px,-50px) !important;
+    }
+    .basecard3 {
+        width: 422px !important;
+    }
+   }
+
+
+  /*responsive of tab*/
+  @media screen and (max-width:769px){
+    
+    .head-by1{
+        font-weight: 300;
+        transform: translate(-10px,17px) !important;
+    }
+    .numbergeo3 {
+      transform: translate(70px,10px);
+    }
+    .numbergeo4 {
+      transform: translate(-30px,10px);
+    }
+    hr.geonew1 {
+      transform: translate(170px,-70px) !important;
+    }
+    hr.geonew-1{
+      transform: translate(70px,-70px) !important;
+    }
+    .pageo3{
+        width: 55% !important;
+        text-align: center !important;
+        transform: translate(153px,-50px) !important
+    }
+    .pageo4{
+        width: 55% !important;
+        text-align: center !important;
+        transform: translate(60px,-50px) !important
+    }
+    
+  }
+
+    /*responsive of mobile large*/
+@media screen and (max-width:426px) {
+  .division-by1 {
+    transform: translate(0px, -267px);
+    background-color: #f8f8f9 !important;
+  }
+  .head-by1 {
+    font-weight: 300;
+    transform: translate(0px,4px) !important;
+}
+.numbergeo3 {
+  transform: translate(-26px,10px);
+}
+hr.geonew1 {
+  transform: translate(45px,-70px) !important;
+}
+.pageo3 {
+  transform: translate(-4px,-62px) !important;
+  width: 94% !important;
+}
+.numbergeo4 {
+  transform: translate(-23px,10px);
+}
+hr.geonew-1 {
+  transform: translate(44px,-70px) !important;
+}
+.pageo4 {
+  width: 113% !important;
+  text-align: center !important;
+  transform: translate(-35px,-61px) !important;
+}
+}

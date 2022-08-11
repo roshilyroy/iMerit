@@ -1,0 +1,244 @@
+.au769{display: none;}
+.autofeatured{
+    transform: translateY(500px);
+}
+/*bank on*/
+.autext1{
+    display: none;
+    line-height: .78;
+    margin-bottom: 2.0625rem;
+    font-weight: 300;
+    font-size: 5.5rem;}
+/*imerits*/
+.auimertis{   display: none;
+     line-height: .78;
+    color: #E33D3B!important;
+    padding-bottom: 50px !important;
+    font-family: 'Roboto Condensed', sans-serif !important;
+    font-size: 10.5rem;
+    font-weight: 500;
+}
+    #augrid1.css-1633um2-MuiPaper-root{background-color:transparent !important;
+        text-align: center !important;
+        color: #2C2F3B;
+    }
+    /************************************card2********************************************/
+    #persongridmove{animation: mymovenormal 3s;}
+
+    @keyframes mymovenormal {from {transform: translate(0px,50px);} to {transform: translate();}}
+
+    .mobilecamp769,.mobilecamp425{display: none;}
+
+    .cardauto{transform: translateY(-350px);
+        height: 300% !important;
+        padding-left: 200px;
+        padding-right: 200px;
+    }
+.content-au{font-family: mongoose,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1.875rem;
+    color: #E33D3B;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin: 0 0 1rem;
+    line-height: 1em;
+    transform: translateX(-190px) !important;
+    }
+   
+#cardreadmoretext1{
+    height: 75px;
+    transform: translate(0px, 47px);
+}
+
+.cardReadmore{padding-left: 450px;
+transform: translateY(-20px);}
+
+.uk-card-footer {
+    display: flow-root;
+     padding: 0;
+}
+.featured-asset a.featured-asset-cta img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: auto;
+}
+#linkreadmore1{
+    font-size: 1.85rem;
+    color: red;
+    padding-left: 40px;
+    font-family: monospace;
+    font-weight: 500;
+    transform: translateX(-179px);
+}
+.cardimagau{
+    height: 200%;
+    transform: translate(200px, -83px);
+}
+a {
+    color: #2c2f3b !important;
+    font-size: 30px;
+}
+.uk-card-body>:last-child, .uk-card-footer>:last-child, .uk-card-header>:last-child {
+    transform: translateY(50px);
+}
+
+
+
+/*responsive of lap*/
+@media screen and (max-width:1025px){
+    .css-1idn90j-MuiGrid-root {
+        display: none !important;
+    }
+    .uk-margin {
+        transform: translate(-24px,175px);
+    }
+    .cardauto {
+        width: 120%;
+        transform: translate(-88px,-250px);
+    }
+    #cardreadmoretext1 {
+        transform: translate(-2px, 21px);
+    }
+    #linkreadmore1 {
+        transform: translateX(-132px);
+    }
+    .cardimagau {
+        transform: translate(171px, -80px);
+    }
+    .content-au {
+        transform: translateX(-132px) !important;
+    }
+    a {
+        font-size: 21px;
+    }
+    .uk-card-body>:last-child, .uk-card-footer>:last-child, .uk-card-header>:last-child {
+        transform: translate(48px,20px);
+        width: 69%;
+    }
+}
+
+
+
+
+/*responsive of tab*/
+@media screen and (max-width:769px){
+
+.mobilecamp769{display: block; padding-left: 50px; padding-right: 50px;}
+#mobilecamp769move{animation: mymove769 3s;}
+@keyframes mymove769 {from {transform: translate(0px,50px);}
+to{transform: translate(0px,0px);}}
+.persongrid{display: none;}
+.autofeatured {
+    
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.cardauto{display: none;}
+.au769{display: block;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    transform: translate(1px,-100px) !important;
+}
+.cardau769{height: 300px !important;
+width: 660px !important;}
+#cardreadmoretext1 {
+    height: 40px;
+    transform: translate(0px, 1px) !important;
+}
+.cardimagau{width: 53px;
+height: 40px;}
+#linkreadmore1 {
+    font-size: 1.5rem;
+    color: red;
+    text-align: left;
+    padding-left: 40px;
+    font-family: monospace;
+    font-weight: 500;
+    transform: translate(-47px,-10px);
+}
+.cardimagau {
+    transform: translate(304px, -68px);
+}
+.content-au {
+    font-family: 'Roboto Condensed', sans-serif !important;
+    font-size: 1.75rem;
+    color: #e33d3b;
+    text-align: left;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin: 0 0 1rem;
+    line-height: 1em;
+    font-weight: 600;
+    transform: translateX(-8px) !important;
+}
+#women2 {
+    font-size: 2rem;
+    color: #2c2f3b;
+    padding-right: 100px;
+    text-align: left;
+}
+.au50{
+    font-size: 1.1rem;
+    text-align: left;
+}
+#summit {
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+#watch {
+    font-size: 1.2rem;
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.autext1 {
+    display: block !important;
+}
+.auimertis {
+    display: block !important;
+}
+}
+
+
+
+/*responsive of mobile large*/
+@media screen and (max-width:426px){
+    .cardau769 {
+        transform: translate(-2px,-103px) !important;
+    }
+    .uk-card-body>:last-child, .uk-card-footer>:last-child, .uk-card-header>:last-child {
+        transform: translate(2px,6px);
+        width: 98%;
+    }
+}
+
+
+/*responsive of mobile large*/
+@media screen and (max-width:376px){
+    .au769 {
+        transform: translate(20px,-103px) !important;
+    }
+}
+
+
+/*responsive of mobile small*/
+@media screen and (max-width:321px){
+    .cardwomen769 {
+        width: 127%;
+    }
+    .uk-card-body>:last-child, .uk-card-footer>:last-child, .uk-card-header>:last-child{
+    width: 75%;
+    }
+    .au769 {
+        transform: translate(-35px,-103px) !important;
+        width: 136%;
+    }
+}
+
+
+
+
+

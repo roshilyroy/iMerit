@@ -1,0 +1,67 @@
+.medical-card{
+    font-size: 100px;
+}
+.slide14{width: 200px !important;font-size: 16px;color: black !important;
+    text-align: left;line-height: 1.5;padding-left: 30px;
+  
+    }
+    .basecard4{width:550px;
+       border-radius: 0% !important;filter: drop-shadow(2px 5px 5px rgba(0,0,0,.21)) !important;
+       background-color:  #f0f0f5;
+       
+    }
+    .cardimg4{ width: 280px !important;height: 520px;}
+    .cardtitle4{color: #E33D3B !important;text-align: left;padding-left: 30px;
+        font-size: 25px !important;padding-bottom: 20px;padding-top: 30px;
+    }
+    .cardbutton4{color: #E33D3B !important;text-align: left;padding-left: 30px;
+        padding-top: 40px;
+    }
+    .card1, .card3{margin-left:50px}
+    .card1, .card2{margin-top: 100px;}
+    .card, .card4{margin-top: 50px;}
+    
+    .css-1633um2-MuiPaper-root{
+    box-shadow: 2px 5px 12px 0 rgb(0 0 0 / 50%);
+    }
+   
+    
+    .basecard4, .cardimg4{filter: drop-shadow(2px 5px 5px rgba(0,0,0,.21)) !important;
+        clip-path: polygon(
+            0 0,
+            0 0,
+            100% 0,
+            100% 10%,
+            100% 75%,
+            85% 100%,
+            0% 100%,
+            0% 100%,
+            0% 0%
+          )!important;
+    }
+    .cardmedical{height: 1070px;}
+
+    .css-11lq3yg-MuiGrid-root {
+        transform: translateY(200px);
+    }
+
+.medical-crd {
+    transform: translate(70px,70px);
+    text-align: left;
+    font-size: 60px;
+    font-family: mongoose,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji" !important;
+}
+
+/*responsive of 1024*/
+@media screen and (max-width:1025px) {
+    .basecard4 {
+        width:430px;
+        transform: translateX(30px);
+    }
+}
+
+/*responsive of tab*/
+@media screen and (max-width:769px){
+    
+}
+

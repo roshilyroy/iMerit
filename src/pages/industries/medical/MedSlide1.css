@@ -1,0 +1,40 @@
+.css-ah0e1x-MuiPaper-root  {box-shadow: none !important;}
+.slide1{height: 475px !important;}
+.grid-med .med1{font-size: 25px;color: rgb(56, 54, 54);
+    width: 1450px !important;
+    padding-left: 200px;
+    padding-right: 300px;
+    
+    }
+
+    .css-1633um2-MuiPaper-root{
+        background-color: #f8f8f9 !important;
+        box-shadow: none !important;
+        transform: translateY(-100px);
+    }
+
+
+/*responsive of 1024*/
+@media screen and (max-width:1025px) {
+    .grid-med .med1 {
+        font-size: 24px;
+        width: 1293px !important;
+        transform: translateX(-78px);
+        text-align: center;
+    }
+    .css-1633um2-MuiPaper-root {
+        transform: translate(-34px, -373px);
+}
+}
+
+/*responsive of tab*/
+@media screen and (max-width:769px){
+    .MedSlide1 {
+        transform: translate(-5px,-157px) !important;
+    }
+    .grid-med .med1 {
+        width: 1041px !important;
+        transform: translate(-95px,20px);
+        font-size: 16px;
+    }
+}

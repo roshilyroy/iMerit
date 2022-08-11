@@ -1,0 +1,158 @@
+.fourthslide{background-color: #531cb3 !important;
+    margin-top: -50px;
+    display: block;height: 570px;
+    transform: translateY(-600px) !important;
+}
+.fourthslide img{
+    position: absolute;transform: translate(8px, -491px);
+    clip-path: polygon(96% 0,96% 65%,65% 91%,0 91%);
+    width: 700px !important;
+}
+.triangletwo{background-color: rgb(255, 255, 255) !important;
+    position: relative;
+    top: 170px;
+    left: 0px !important;
+    width: 220px !important;
+    height: 220px !important;
+    display: block !important;
+    clip-path: polygon(0 0,0 100%,100% 0) !important;}
+    
+.fourthslide h1{color: rgb(255, 255, 255);
+    position: relative;left: 200px;top: -60px;
+    animation: sliding 4s ;
+}
+@keyframes sliding {
+    0%   { left:400px; }
+    25%  {left:400px; }
+    100% { left:200px; }
+}
+.fourthslide h1{width: 600px;font-size: 37px;text-align: left;
+    padding-top: 100px !important;padding-left: 0px;
+}
+.fourthslide h3{width: 620px;color: white !important;font-weight: 200 !important;font-size: .420em !important;}
+.whitetwo{background-color: #f8f8f9 !important;
+    height: 80px !important;
+    width: 80px !important;
+    position: relative;
+    left: 1190px !important;
+    z-index: 10 !important;
+    top: -80px !important;
+    transform: translateX(100px);
+}
+
+/*responsive of 1024*/
+@media screen and (max-width:1025px) {
+    .fourthslide {
+        height: 560px;
+    }
+    .fourthslide h1 {
+        width: 486px;
+        font-size: 33px;
+        transform: translate(-53px, -59px);
+        line-height: 1.5;
+    }
+    .fourthslide h3  {
+        font-size: 0.34em !important;
+    }
+    .fourthslide img {
+        clip-path: polygon(96% 0,96% 61%,62% 91%,0 91%);
+        transform: translate(-159px, -554px);
+    }
+    .triangletwo {
+        clip-path: polygon(0 0,0 100%,100% 0) !important;
+        transform: translateY(-1px);
+        background-color: #f8f8f9 !important;
+    }
+    .whitetwo {
+        background-color: #f8f8f9 !important;
+        transform: translate(-219px,0px)!important;
+    }
+}
+
+/*responsive of tab*/
+@media screen and (max-width:769px){
+    .fourthslide {
+        height: 650px;
+    }
+    .fourthslide img {
+        clip-path: polygon(108% 0, 82% 66%,53% 91%,0 91%);
+        transform: translate(-159px, -509px);
+    }
+    .fourthslide h1 {
+        font-size: 31px;
+        width: 359px;
+    }
+    .fourthslide h3 {
+        transform: translate(0px, 0px);
+        width: 365px;
+    }
+    .triangletwo {
+        display: block !important;
+        transform: translateY(-600px) !important;
+        clip-path: polygon(0 0,0 100%,100% 0) !important;
+        background-color: #f8f8f9 !important;
+    }
+}
+
+
+/*responsive of mobile large*/
+@media screen and (max-width:426px){
+    .fourthslide {
+        transform: translateY(-434px) !important;
+    }
+    .triangletwo {
+        display: block !important;
+        transform: translateY(-434px) !important;
+        clip-path: polygon(0 0,0 100%,100% 0) !important;
+        background-color: #f8f8f9 !important;
+    }
+    .fourthslide img {
+        clip-path: polygon(109% 0, 105% 60%,68% 91%,0 91%);
+        transform: translate(-213px, -199px);
+    }
+    .fourthslide h1 {
+        transform: translate(-143px, -59px);
+        font-size: 23px;
+        width: 224px;
+    }
+    .fourthslide h3 {
+        font-size: 0.48em !important;
+        width: 277px;
+    }
+}
+
+
+/*responsive of mobile medium*/
+@media screen and (max-width:376px){
+    .fourthslide {
+        width: 111%;
+    }
+    .fourthslide h1 {
+        font-size: 24px;
+    }
+    .fourthslide h3 {
+        font-size: 0.50em !important;
+        width: 243px;
+    }
+    .fourthslide img {
+        transform: translate(-208px, -219px);
+    }
+}
+
+
+/*responsive of mobile medium*/
+@media screen and (max-width:321px){
+    .fourthslide {
+        height: 757px;
+    }
+    .fourthslide img {
+        transform: translate(-177px, -166px);
+    }
+    .fourthslide h1 {
+        width: 197px;
+    }
+    .fourthslide h3 {
+        width: 248px;
+    }
+}
+

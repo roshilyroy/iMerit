@@ -1,0 +1,123 @@
+.geowell{background-color: #531cb3 !important;
+    margin-top: -50px;
+    display: block;height: 570px;
+    transform: translateY(-100px);
+}
+.geowell img{
+    position: absolute;transform: translate(8px, -571px);
+    clip-path: polygon(96% 0,96% 65%,65% 91%,0 91%);
+    width: 700px !important;
+}
+.triangle-three3{
+    background-color: rgb(255, 255, 255) !important;
+    position: relative;
+    top: 169px;
+    left: 0px !important;
+    width: 220px !important;
+    height: 220px !important;
+    display: block !important;
+    clip-path: polygon(0 0,0 100%,100% 0) !important;
+    transform: translateY(-99px) !important;
+    }
+    
+.geowell h1{color: rgb(255, 255, 255);
+    position: relative;left: 200px;top: -60px;
+    animation: sliding 4s ;
+}
+@keyframes sliding {
+    0%   { left:400px; }
+    25%  {left:400px; }
+    100% { left:200px; }
+}
+.geowell h1{width: 600px;font-size: 37px;text-align: left;
+    padding-top: 100px !important;padding-left: 0px;
+}
+.geowell h3{width: 620px;color: white !important;font-weight: 200 !important;font-size: .420em !important;}
+.whitethree{background-color:white !important;
+    height: 80px !important;
+    width: 80px !important;
+    position: relative;
+    left: 1190px !important;
+    z-index: 10 !important;
+    top: -80px !important;
+    transform: translateX(105px) !important;
+}
+
+   /*responsive of 1024*/
+   @media screen and (max-width:1025px) {
+    .geowell h1 {
+        width: 526px;
+        transform: translate(-60px, -41px);
+    }
+    .geowell h3 {
+        font-size: 0.32em !important;
+        transform: translateX(-1px);
+    }
+    .geowell img {
+        transform: translate(-105px, -548px)
+    }
+   }
+
+   /*responsive of tab*/
+@media screen and (max-width:769px){
+    .triangle-three {
+        display: block !important;
+        background-color: rgb(255, 255, 255) !important;
+        clip-path: polygon(0 0,0 100%,100% 0) !important
+    }
+    
+    .geowell h1{
+        font-size: 31px;
+        width: 352px;
+    }
+    .geowell img {
+        transform: translate(-119px, -599px);
+        clip-path: polygon(121% 0, 89% 65%,51% 91%,0 91%);
+    }
+    .geowell h3 {
+        font-size: -2.68em !important;
+        width: 316px;
+    }
+    
+}
+
+
+
+/*responsive of mobile large*/
+@media screen and (max-width:426px) {
+    .geowell {
+        height: 700px;
+        transform: translateY(89px);
+    }
+    .triangle-three3 {
+        z-index: 1;
+        width: 160px !important;
+        height: 160px !important;
+        transform: translateY(30px) !important;
+    }
+    .geowell h1 {
+        font-size: 24px;
+        width: 278px;
+        transform: translate(-149px, -41px);
+    }
+    .geowell h3 {
+        font-size: -2.68em !important;
+        font-size: 0.48em !important;
+        transform: translateX(-1px);
+    }
+    .geowell img {
+        transform: translate(-213px, -168px);
+        width: 555px !important;
+        clip-path: polygon(123% 0, 100% 63%,59% 91%,0 91%);
+    }
+}
+
+
+
+   /*responsive of mobile medium*/
+   @media screen and (max-width:376px) {}
+  
+  
+  
+    /*responsive of mobile small*/
+    @media screen and (max-width:321px) {}

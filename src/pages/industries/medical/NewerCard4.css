@@ -1,0 +1,102 @@
+.bckimg-4{
+    padding: 80px 25px 65px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    min-height: 300px;
+    position: relative;
+}
+.bckimgfour-one{
+    background-image:url("https://imerit.net/wp-content/uploads/2020/06/4.png") ;
+}
+.bckimgfour-two{
+background-image: url("https://imerit.net/wp-content/uploads/2021/03/DATA-ANNOTATION-FOR-TOP-AI.jpg");
+}
+.bckimgfour-three{
+    background-image: url("https://imerit.net/wp-content/uploads/2020/06/Medical-AI-Cell-Annotation.png");
+}
+.post-4{
+    height: 60px;
+    font-size: 2.5rem;
+    padding-top: 1.8rem;
+    letter-spacing: -2px;
+    font-stretch:extra-condensed !important;
+    font-family: mongoose,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 2.5em;
+    font-weight: 300;
+    color: #3E323B;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+.read-4{
+    letter-spacing: -2px;
+    font-stretch:extra-condensed !important;
+    height: 55px;
+    font-family: mongoose,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-weight: 400;
+    font-size: 1.25em;
+    color: #3E323B;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 15px 20px;
+    display: block;
+    background-color: #fff;
+    line-height: 1em;
+    position: relative;
+}
+.text-four{
+    font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1.5em;
+    color: #fff;
+    line-height: 1.4em;
+    margin: 0;
+    z-index: 5;
+    font-weight: lighter;
+    padding: 20px;
+   padding-top: 100px;
+   text-align: left;
+}
+.card-4th{
+   transform: translate(30px,181px);
+   width: 90%
+}
+.card-four{
+    border: 1px solid black;
+}
+.overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    background: rgba(62,50,59,.9);
+    opacity: 1;
+}
+.card-four:hover .overlay{
+opacity: 0;
+}
+.cardfour-1{
+    transform: translateX(20px);
+}
+.cardfour-2{
+    transform: translate(440px,-532px);
+}
+.cardfour-3{
+    transform: translate(860px,-1063px);
+}
+.card-four{
+    box-shadow: none !important;
+}
+
+
+/*responsive of tab*/
+@media screen and (max-width:769px){
+    .card-4th {
+        width: 43%;
+    }
+    .cardfour-2 {
+        transform: translate(380px,-512px);
+    }
+}

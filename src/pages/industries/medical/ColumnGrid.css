@@ -1,0 +1,99 @@
+.head-by {
+    color: #531cb3;
+    font-size: 60px;
+    transform: translateY(-180px) !important;
+    font-family:'Oswald', sans-serif !important;
+}
+.number1 {
+    color: #1e1e27;
+    font-size: 80px !important;
+    font-weight: 600;
+    font-family:'Oswald', sans-serif !important;
+}
+.number2 {
+    color: #1e1e27;
+    font-size: 80px !important;
+    font-weight: 600; 
+    font-family:'Oswald', sans-serif !important;
+}
+.pa1{
+    color: #1e1e27;
+    font-size: 15px !important;
+    transform: translate(60px,-50px) !important;
+}
+.pa2 {
+    color: #1e1e27;
+    font-size: 15px !important;
+    transform: translate(-10px,-50px) !important;
+}
+hr.newmd1 {
+    border: 4px solid ;
+    color: linear-gradient(90deg,#a2f1c5 0,#a2f1c5 24%,#eef1a2 79%,#fff 100%) !important;
+    border-radius: 0px;
+    width: 160px;
+    transform: translate(250px,-70px) !important;
+  }
+  hr.newmd2 {
+    border: 4px solid ;
+    color: linear-gradient(90deg,#a2f1c5 0,#a2f1c5 24%,#eef1a2 79%,#fff 100%) !important;
+    border-radius: 0px;
+    width: 160px;
+    transform: translate(250px,-70px) !important;
+  }
+  .mdcol {
+    background-color: #f8f8f9 !important;
+  }
+
+  /*responsive of 1024*/
+@media screen and (max-width:1025px) {
+    .head-by {
+        transform: translateY(-401px) !important;
+    }
+    hr.new {
+        transform: translate(151px,-70px) !important;
+    }
+    .pa1 {
+        transform: translate(112px,-50px) !important;
+    }
+    .pa2 {
+        transform: translate(95px,-50px) !important;
+
+    }
+}
+
+/*responsive of tab*/
+@media screen and (max-width:769px){
+    .head-by {
+        font-weight: 300;
+        transform: translateY(16px) !important;
+    }
+    .css-1633um2-MuiPaper-root {
+        transform: translate(68px,-10px) !important
+    }
+    .number1 {
+        transform: translate(81px, -7px);
+    }
+    .number2 {
+        transform: translate(-91px, -7px);
+    }
+    hr.newmd1 {
+        transform: translate(183px,-70px) !important;
+    }
+    hr.newmd2 {
+        transform: translate(7px,-70px) !important;
+    }
+    .pa1{
+        width: 55%;
+        text-align: center;
+        transform: translate(170px,-50px) !important;
+    }
+    .pa2{
+        width: 55%;
+        text-align: center;
+        transform: translate(-10px,-50px) !important;
+    }
+    .mdcol{
+        transform: translateY(-245px);
+    } 
+
+    }

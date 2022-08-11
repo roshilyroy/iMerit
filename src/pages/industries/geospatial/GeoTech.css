@@ -1,0 +1,103 @@
+.css-ah0e1x-MuiPaper-root  {box-shadow: none !important;}
+.slide1{height: 475px !important;}
+.grid-geo{transform: translateY(150px);
+    margin-left: 50px !important;}
+.grid-geo .geo{color: #531CB3;font-size: 75px !important;
+    font-family: 'Oswald', sans-serif !important;
+    font-weight: 100 !important;
+    line-height: 1.2 !important;
+    }
+.grid-geo .geopara{font-size: 25px;color: rgb(56, 54, 54);
+    width: 750px !important;
+    }
+#image-geo img{transform: translateY(80px);
+        border-radius: 360% !important;height: 350px !important;
+}
+#image-geo2 img{transform: translate(70px,-250px);height: 350px !important;
+    mix-blend-mode: multiply;
+}
+
+
+
+/*responsive of 1024*/
+@media screen and (max-width:1025px) {
+    .css-vok43g-MuiGrid-root {
+        transform: translate(12px, -230px);
+    }
+    .grid-geo .geo {
+        font-size: 90px !important; 
+        font-weight: 300 !important;
+        transform: translateY(244px);
+        line-height: 1.0 !important;
+    }
+    .grid-geo .geopara {
+        font-size: 24px;
+        width: 620px !important;
+        transform: translate(10px,263px);
+    }
+    .css-ah0e1x-MuiPaper-root {
+        background-color: transparent !important;
+    }
+    #image-geo img {
+        transform: translate(41px,245px);
+        height: 268px !important;
+    }
+    #image-geo2 img {
+        transform: translate(70px,-29px);
+        mix-blend-mode: multiply !important;
+    }
+}
+
+   /*responsive of tab*/
+   @media screen and (max-width:769px){
+    .grid-geo .geo {
+        font-size: 73px !important;
+        
+    }
+    .grid-geo .geopara {
+        font-size: 16px;
+        width: 422px !important;
+        
+    }
+    #image-geo img {
+        transform: translate(124px,-17px);
+        height: 198px !important;
+    }
+    #image-geo2 img {
+        transform: translate(159px,-190px);
+        height: 213px !important;
+    }
+
+   }
+
+   /*responsive of mobile large*/
+@media screen and (max-width:426px) {
+    .grid-geo .geo {
+        font-size: 64px !important;
+        transform: translate(-8px, 134px);
+    }
+    .grid-geo .geopara {
+        font-size: 17px;
+        width: 385px !important;
+        transform: translate(0px, 147px);
+    }
+    #image-geo img {
+        transform: translate(-222px,345px);
+        height: 350px !important;
+        max-width: 286%;
+    }
+    #image-geo2 img {
+        transform: translate(-80px,122px);
+        height: 254px !important;
+        max-width: 195%;
+    }
+}
+
+
+ /*responsive of mobile medium*/
+ @media screen and (max-width:376px) {}
+
+
+
+  /*responsive of mobile small*/
+  @media screen and (max-width:321px) {}

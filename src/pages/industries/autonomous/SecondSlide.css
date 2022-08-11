@@ -1,0 +1,57 @@
+.css-ah0e1x-MuiPaper-root  {box-shadow: none !important;}
+.SecondSlideau{
+    height: 475px !important;
+    transform: translate(50px,1000px) !important;
+}
+.grid-merit .merit{font-size: 25px;color: rgb(56, 54, 54);
+    width: 1450px !important;
+    padding-left: 200px;
+    padding-right: 300px;
+    
+    }
+
+    .css-1633um2-MuiPaper-root{
+        background-color: #f8f8f9 !important;
+        box-shadow: none !important;
+    }
+    .css-1633um2-MuiPaper-root {
+        transform: translate(-50px,-259px) !important;
+    }
+
+    /*responsive of 1024 */
+    @media screen and (max-width:1025px) {
+        
+        .grid-merit .merit {
+            font-size: 24px;
+            width: 1258px !important;
+            transform: translate(10px,-10px) !important;
+            display: block !important;
+        }
+        .css-1xgjpwf-MuiGrid-root {
+            width: calc(91% + 24px);
+        }
+        
+    }
+
+
+
+    /*responsive of tab*/
+@media screen and (max-width:769px){
+    .css-1633um2-MuiPaper-root {
+        transform: translate(10px, -200px) !important;
+    }
+    .grid-merit .merit {
+        font-size: 16px;
+    width: 1040px !important;
+    transform: translate(-94px,1px);
+    text-align: center;
+    }  
+    
+}
+
+
+
+/*responsive of mobile large*/
+@media screen and (max-width:426px){
+    
+}

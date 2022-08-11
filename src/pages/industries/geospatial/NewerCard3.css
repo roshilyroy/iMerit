@@ -1,0 +1,120 @@
+.bckimg-3{
+    padding: 80px 25px 65px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    min-height: 300px;
+    position: relative;
+}
+.bckimg3-one{
+    background-image:url("https://imerit.net/wp-content/uploads/2021/01/GIS-Data-Annotation-for-Mining.jpg") ;
+}
+.bckimg3-two{
+background-image: url("https://imerit.net/wp-content/uploads/2021/01/GIS-Data-Annotation-for-Farming.jpg");
+}
+.bckimg3-three{
+    background-image: url("https://imerit.net/wp-content/uploads/2020/08/Data-Services-for-Geospatial-Ground-Truth-Featured.png");
+}
+.post-3{
+    height: 60px;
+    font-size: 2.5rem;
+    padding-top: 1.8rem;
+    letter-spacing: -2px;
+    font-stretch:extra-condensed !important;
+    font-family: mongoose,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 2.5em;
+    font-weight: 300;
+    color: #3E323B;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+.read-3{
+    letter-spacing: -2px;
+    font-stretch:extra-condensed !important;
+    height: 55px;
+    font-family: mongoose,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-weight: 400;
+    font-size: 1.25em;
+    color: #3E323B;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 15px 20px;
+    display: block;
+    background-color: #fff;
+    line-height: 1em;
+    position: relative;
+}
+.text-three{
+    font-family: aktiv-grotesk,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1.5em;
+    color: #fff;
+    line-height: 1.4em;
+    margin: 0;
+    z-index: 5;
+    font-weight: lighter;
+    padding: 20px;
+   padding-top: 100px;
+   text-align: left;
+}
+.card-3rd{
+   transform: translate(30px,181px);
+   width: 90%
+}
+.card-three{
+    border: 1px solid black;
+}
+.overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    background: rgba(62,50,59,.9);
+    opacity: 1;
+}
+.card-three:hover .overlay{
+opacity: 0;
+}
+.cardthree-1{
+    transform: translateX(20px);
+}
+.cardthree-2{
+    transform: translate(440px,-532px);
+}
+.cardthree-3{
+    transform: translate(860px,-1063px);
+}
+.card-three{
+    box-shadow: none !important;
+}
+
+/*responsive of tab*/
+@media screen and (max-width:769px){
+    .card-3rd {
+        width: 43%;
+    }
+    .cardthree-2 {
+        transform: translate(380px,-512px);
+    }
+}
+
+
+
+    /*responsive of mobile large*/
+    @media screen and (max-width:426px){
+        .card-3rd {
+            width: 70% !important;
+        }
+        .cardthree-1 {
+            transform: translate(35px,-150px);
+        }
+        .cardthree-2 {
+            transform: translate(450px,-662px);
+        }
+        .read-3 {
+            font-size: 21px;
+        transform: translate(35px,10px) !important;
+        }
+    }

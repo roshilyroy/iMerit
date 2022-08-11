@@ -1,0 +1,223 @@
+.cardwomen769{display: none;}
+.slidefour{
+    transform: translateY(500px);
+}
+/*bank on*/
+.s9text1{
+    display: none;
+    line-height: .78;
+    margin-bottom: 2.0625rem;
+    font-weight: 300;
+    font-size: 5.5rem;}
+/*imerits*/
+.s9imertis{   display: none;
+     line-height: .78;
+    color: #E33D3B!important;
+    padding-bottom: 50px !important;
+    font-family: 'Roboto Condensed', sans-serif !important;
+    font-size: 10.5rem;
+    font-weight: 500;
+}
+    #s9grid1.css-1633um2-MuiPaper-root{background-color:transparent !important;
+        text-align: center !important;
+        color: #2C2F3B;
+    }
+    /************************************card2********************************************/
+    #persongridmove{animation: mymovenormal 3s;}
+
+    @keyframes mymovenormal {from {transform: translate(0px,50px);} to {transform: translate();}}
+
+    .mobilecamp769,.mobilecamp425{display: none;}
+
+    .cardwomen{transform: translateY(50px);
+        height: 300% !important;
+        padding-left: 200px;
+        padding-right: 200px;
+    }
+.content-type{font-family: mongoose,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1.875rem;
+    color: #E33D3B;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin: 0 0 1rem;
+    line-height: 1em;
+    transform: translateX(-190px) !important;
+    }
+   
+#cardreadmoretext{
+    height: 75px;
+    transform: translate(0px, 47px);
+}
+
+.cardReadmore{padding-left: 450px;
+transform: translateY(-20px);}
+
+.uk-card-footer {
+    display: flow-root;
+     padding: 0;
+}
+.featured-asset a.featured-asset-cta img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: auto;
+}
+#linkreadmore{
+    font-size: 1.85rem;
+    color: red;
+    padding-left: 40px;
+    font-family: monospace;
+    font-weight: 500;
+    transform: translateX(-179px);
+}
+.cardimagwomen{
+    height: 200%;
+    transform: translate(200px, -83px);
+}
+a {
+    color: #2c2f3b !important;
+    font-size: 30px;
+}
+.uk-card-body>:last-child, .uk-card-footer>:last-child, .uk-card-header>:last-child {
+    transform: translateY(50px);
+}
+
+
+
+/*responsive of tab*/
+@media screen and (max-width:1025px){
+    .css-1idn90j-MuiGrid-root {
+        display: none !important;
+    }
+    .uk-margin {
+        transform: translate(-24px,175px);
+    }
+    .cardwomen {
+        width: 120%;
+        transform: translate(-88px,-16px);
+    }
+    #cardreadmoretext {
+        transform: translate(0px, 3px);
+    }
+    #linkreadmore {
+        transform: translateX(-132px);
+    }
+    .cardimagwomen {
+        transform: translate(171px, -80px);
+    }
+    .content-type {
+        transform: translateX(-132px) !important;
+    }
+    a {
+        font-size: 21px;
+    }
+    .uk-card-body>:last-child, .uk-card-footer>:last-child, .uk-card-header>:last-child {
+        transform: translate(48px,20px);
+        width: 69%;
+    }
+}
+
+
+
+
+/*responsive of tab*/
+@media screen and (max-width:769px){
+
+.mobilecamp769{display: block; padding-left: 50px; padding-right: 50px;}
+#mobilecamp769move{animation: mymove769 3s;}
+@keyframes mymove769 {from {transform: translate(0px,50px);}
+to{transform: translate(0px,0px);}}
+.persongrid{display: none;}
+.slide9 {
+    
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.cardwomen{display: none;}
+.cardwomen769{display: block;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    transform: translate(70px,150px) !important;
+}
+.cardimagwomen769{height: 300px !important;
+width: 660px !important;}
+#cardreadmoretext {
+    height: 40px;
+}
+.cardimagwomen{width: 53px;
+height: 40px;}
+#linkreadmore {
+    font-size: 1.5rem;
+    color: red;
+    text-align: left;
+    padding-left: 40px;
+    font-family: monospace;
+    font-weight: 500;
+    transform: translate(-47px,-10px);
+}
+.cardimagwomen {
+    transform: translate(304px, -68px);
+}
+.content-type {
+    font-family: 'Roboto Condensed', sans-serif !important;
+    font-size: 1.75rem;
+    color: #e33d3b;
+    text-align: left;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin: 0 0 1rem;
+    line-height: 1em;
+    font-weight: 600;
+    transform: translateX(-8px) !important;
+}
+#women2 {
+    font-size: 2rem;
+    color: #2c2f3b;
+    padding-right: 100px;
+    text-align: left;
+}
+.women50{
+    font-size: 1.1rem;
+    text-align: left;
+}
+#summit {
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+#watch {
+    font-size: 1.2rem;
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+}
+
+/*responsive of mobile large*/
+@media screen and (max-width:426px){
+    .cardwomen769 {
+        transform: translate(1px,150px) !important;
+    }
+    .uk-card-body>:last-child, .uk-card-footer>:last-child, .uk-card-header>:last-child {
+        transform: translate(2px,6px);
+        width: 98%;
+    }
+}
+
+
+/*responsive of mobile small*/
+@media screen and (max-width:321px){
+    .cardwomen769 {
+        width: 127%;
+    }
+    .uk-card-body>:last-child, .uk-card-footer>:last-child, .uk-card-header>:last-child{
+    width: 75%;
+    }
+}
+
+
+
+
+

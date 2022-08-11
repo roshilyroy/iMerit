@@ -1,0 +1,22 @@
+.sliderau {
+    transform: translateY(1000px) !important;
+    background-color: #f8f8f9 !important;
+}
+.slick-dots {
+    display: none !important;
+}
+
+/*resposive of 1024*/
+@media screen and (max-width:1025px) {
+    .sliderau {
+        transform: translateY(-680px) !important;
+    }
+}
+
+
+/*resposive of mobile medium*/
+@media screen and (max-width:376px) {
+    .sliderau {
+        width: 116%;
+    }
+}
