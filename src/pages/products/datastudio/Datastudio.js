@@ -3,7 +3,9 @@ import './Datastudio.css'
 
 function Datastudio() {
   return (
-    <div>Datastudio</div>
+    <div>Datastudio
+      
+    </div>
   )
 }
 

@@ -1,0 +1,1595 @@
+
+
+/*slide total adjust cheyanne*/
+.s1{padding-top: 200px;
+padding-left:120px ;
+padding-right: 120px;
+padding-bottom: 150px;}
+.css-1633um2-MuiPaper-root {box-shadow: none !important;}
+
+#s1grid.css-1633um2-MuiPaper-root
+{text-align: left;}
+.s11769{display: none;}
+.s11{
+    font-size: 160px; 
+    line-height: .78;
+    color: #e33d3b;
+    font-weight: 200 ;
+    text-align: left ;
+    font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing: -0.em;
+   
+  
+
+}
+.s12{font-weight: 400;
+    line-height: 1.5;
+    color: #2c2f3b;
+    text-align: left;
+    font-size: 1.3rem;
+    margin-top: 50px;
+    
+}
+/*image size*/ 
+.imgs1{
+    width: 650px !important;
+}
+/*learn more button*/
+#btns11.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+color: #e33d3b !important;
+border-color: #e33d3b !important;
+font-size: 1.5rem !important;
+    line-height: 1.5 !important;
+    font-weight: 400 !important;
+    font-family: 'Roboto Condensed', sans-serif !important;
+    margin-top: 50px;
+    
+}
+
+/***********************************************slide2**************************************************/
+.s2{
+    background-color: #f8f8f9;
+    height: 233.46px;
+}
+/*image size*/
+#imgs21{
+    
+    width: 246px !important;
+    height: 120.26px !important;
+}
+/*text arrange*/
+.s2text1{
+    padding-top: 25px;
+    font-size: 1.5rem;
+    text-align: center;
+}
+/**********************************************slide3**************************************/
+/*div total arrangements*/
+.s3{padding-left: 120px;
+padding-right: 120px;
+padding-top: 100px;}
+
+/*text aligment heading*/
+.s3text1{font-size: 6.875rem;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-transform: uppercase;
+text-align: center;
+color:  #531cb3;
+font-weight: 300;
+    line-height: .78;
+    letter-spacing: -0.em;
+}
+
+/*i lowercase akkane*/
+.s3i{text-transform: lowercase;}
+/*text centre akkane  centre akkane*/
+#s3grid1.css-1633um2-MuiPaper-root{
+    text-align: center !important;
+    
+}
+
+.s3text2{
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #2c2f3b;
+    text-align: left;
+    background-color: #fff;
+  padding-top: 50px;
+  padding-bottom: 50px;
+    
+}
+
+.gradient-line {
+    position: relative;
+    display: block;
+    width: 0;
+    height: 8px;
+    max-width: 100%;
+    width: 300px;
+    background: linear-gradient(90deg,#a2f1c5 0,#a2f1c5 24%,#eef1a2 79%,#fff 100%);
+    margin-bottom: 30px;
+    animation: mymove 3s;
+}
+@keyframes mymove{from {width: 0%;}
+to{width:300px}}
+/*text align left in technology*/
+#s3grid21.css-1633um2-MuiPaper-root{
+    text-align: left !important;
+    padding-bottom: 120px !important;
+}
+/*talant,technology  writing***********/
+.s32text1{
+    font-size: 3.625rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    text-transform: uppercase;
+    color: #531cb3;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+    line-height: .78;
+    padding-bottom: 20px;
+    
+}
+.s32text2{font-family: sans-serif;
+    font-size: 1.1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #2c2f3b;
+    text-align: left;
+    width: 90%;
+    background-color: #fff;
+    padding-top: 20px;
+}
+
+
+/**************************************************slide4*******************************************/
+.s4769{ display: none;}
+.s4{
+    padding-top: 100px;
+    background-color: #f8f8f9;
+    padding-bottom: 100px;
+    
+    padding-left: 150px;
+    padding-right: 150px;
+   
+}
+#s4studiotext1.css-1633um2-MuiPaper-root{
+    background-color: transparent !important;
+    font-size: 6.875rem;
+    color: #531cb3;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 400;
+  
+
+}
+
+#cube.uk-card {
+    height: 600px !important;
+}
+#cubetitle.uk-card-title1{
+    font-size: 2.7125rem!important;
+    color: #531cb3;
+    line-height: .78;
+    font-weight: bold;
+    text-align: left;
+    font-family: 'Roboto Condensed', sans-serif;
+     
+
+}
+.s41text1{font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.5;
+    padding-top: 30px;
+    padding-bottom: 70px;
+    
+}
+.s41text2{font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.5;
+    padding-top: 30px;
+    padding-bottom: 120px;
+}
+.s41text3{font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.5;
+    padding-top: 30px;
+    padding-bottom: 140px;
+}
+.uk-child-width-1-2\@s>* {
+    width: 50%;
+    text-align: left;
+}
+#s4grid4.css-1633um2-MuiPaper-root {padding: 0 !important;clip-path: polygon( 0 0, 0 0, 100% 0, 100% 10%, 100% 75%, 85% 100%, 0% 100%, 0% 100%, 0% 0% )!important;}
+
+
+
+/************************************************slide5*************************************************/
+.tab5{display: none;
+   }
+.s5{
+  padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 150px;
+}
+#s5grid1.css-1633um2-MuiPaper-root{
+    
+    text-align: left !important;
+    
+   
+    color: #2c2f3b;
+    
+}
+.s5text1{line-height: .78;
+    margin-bottom: 2.0625rem;
+      
+    font-weight: 300;
+    font-size: 6rem;}
+
+    .solution5{
+        line-height: .78;
+        
+        color: #e33d3b!important;
+        padding-bottom: 50px !important;
+        font-family: 'Roboto Condensed', sans-serif !important;
+        font-size: 10.5rem;
+        font-weight: 500;
+
+        
+    }
+    /*data text*/
+    .data{
+        font-size: 2rem;
+        padding-bottom: 50px;
+    }
+    
+    /**************************s5 overline section********************/
+    .s42{
+        padding-left: 100px;
+    }
+    
+    .laptext1{
+    font-size: 1.3rem !important;
+    text-transform: uppercase !important;
+    text-align: left;
+    
+    font-weight: 700 !important;
+     transform: translateY(-15px);
+  
+        padding-top: 5px;
+        border-top: rgb(14, 14, 14) 10px solid;
+        border-width: 50%;
+    
+color: #2c2f3b;}
+.laptext2{
+    font-size: 1.3rem !important;
+    text-transform: uppercase !important;
+    text-align: left;
+    
+    font-weight: 700 !important;
+     transform: translateY(-15px);
+  
+        padding-top: 15px;
+        
+    
+color: #2c2f3b;}
+.laptext2:hover{
+    border-top:gainsboro 10px solid;
+        
+}
+    
+.laps5{display: block;
+padding-bottom: 50px;}
+/******************************************88left side*************************************/
+
+/**************************s5 avatar image section********************/
+#avatar{width: 600px;
+height: 600px;
+}
+
+    
+.imgavtar1{
+   transform: translate(0px,-300px);
+width: 300px;
+    mix-blend-mode: multiply
+}  
+
+
+/************************avatar left*******************/
+/*left align cheyanne*/
+#s5butteraligngrid.css-1633um2-MuiPaper-root{text-align: left;}
+#grids52.css-1633um2-MuiPaper-root{text-align: right;
+background-color: transparent;}
+.avtext1{font-size: 3.625rem;
+    color: #e33d3b!important;
+    font-weight: 600;text-transform: uppercase;
+padding-top: 100px;
+font-family: 'Roboto Condensed', sans-serif;
+line-height: .78;
+text-align: left;}
+.avtext2{font-size: 1.2rem;
+
+    font-weight: 400;
+  
+    text-align: left;
+    line-height: 1.5;
+    color: #2c2f3b;
+    padding-right: 150px;
+    padding-bottom: 100px;
+}
+/*learn more button*/
+#btns5.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+    color: #e33d3b !important;
+    border-color: #e33d3b !important;
+    font-size: 1.5rem !important;
+        line-height: 1.5 !important;
+        font-weight: 400 !important;
+        font-family: 'Roboto Condensed', sans-serif;
+             
+    }
+  
+    #heightadjust.css-11lq3yg-MuiGrid-root{height: 700px;}
+    
+    /******************************************slide6******************************************************/
+.s6{     background-color: #f8f8f9;
+    padding-bottom: 100px;
+    padding-top: 80px;
+    padding-left: 150px;
+    padding-right: 150px;
+    }
+
+
+    #mergecards6.uk-width-1-1\@m {
+        width: 100%;
+        height: 260px;
+    }
+    /*hide grid color*/
+#s6box1.css-1633um2-MuiPaper-root{background-color: transparent !important;}
+.s6services{
+    font-size: 6.875rem;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif !important;
+}
+.uk-card-titles6{font-size: 1.875rem!important;
+    color: #531cb3;
+   font-family: 'Roboto Condensed', sans-serif !important;
+    text-transform: uppercase;
+    font-weight: 600;
+text-align: left;}
+.s6cardtext1{    font-size: 1.35rem!important;
+    text-transform: none;
+    color: #2c2f3b;
+    line-height: 1.35em;
+text-align: left;}
+
+
+/**************************************next portion*******************************************************/
+.s6gradi{
+    padding-top: 100px;
+}
+.gradient-line-gy {
+    width: 700px;
+    height: 8px;
+    max-width: 100%;
+    margin: 0 auto 3rem;
+ 
+    
+    background-image: linear-gradient(90deg,#eef1a2 0,#a2f1c5 76%,#a2f1c5 100%);
+    
+}
+
+
+
+
+/*kick*/
+.kick{
+    font-weight: 300;
+    font-family: 'Roboto Condensed', sans-serif !important;
+    line-height: .78;text-align: center!important;
+    font-size: 6.75rem;
+    color: #2c2f3b;
+}
+/*get a free quote button*/
+#btns6.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+    color: #e33d3b !important;
+    border-color: #e33d3b !important;
+    font-size: 1.5rem !important;
+        line-height: 1.5 !important;
+        font-weight: 400 !important;
+        font-family: monospace !important;
+        transform: translate(0px,-20px);
+      
+    }
+    /*secure*/
+   .s6secur{padding-top: 10px;
+    font-size: 24px;
+    color: #2c2f3b;
+    padding-bottom: 100px;
+}
+/****************************************************s7 slide**********************************************/
+/*div in the s7 */
+.s7{     background-color: #f8f8f9;
+    padding-left: 100px !important;
+    padding-right: 100px !important;
+    padding-top: 100px !important;
+  
+    }
+
+#s7grid1.css-1633um2-MuiPaper-root{background-color:transparent !important;
+    
+    text-align: left !important;
+    
+    color: #2c2f3b;
+    
+}
+/*bank on*/
+.s7text1{line-height: .78;
+    margin-bottom: 2.0625rem;
+      
+    font-weight: 300;
+    font-size: 6rem;}
+/*imerits*/
+    .s7imertis{
+        line-height: .78;
+        
+        color: #e33d3b!important;
+        padding-bottom: 50px !important;
+        font-family: 'Roboto Condensed', sans-serif !important;
+        font-size: 10.5rem;
+        font-weight: 500;
+        
+    }
+    /*data text*/
+    .data{
+        font-size: 1.7em;
+        padding-bottom: 50px;
+        text-align: justify;
+        line-height: 1.5;
+    }
+
+/**********************************card**************************************************************************/
+.cardwomen769{display: none;}
+.slide9{
+    transform: translateY(-100px);
+}
+/*bank on*/
+.s9text1{line-height: .78;
+    margin-bottom: 2.0625rem;
+      
+    font-weight: 300;
+    font-size: 5.5rem;}
+/*imerits*/
+.s9imertis{    line-height: .78;
+    color: #e33d3b!important;
+    padding-bottom: 50px !important;
+    font-family: 'Roboto Condensed', sans-serif !important;
+    font-size: 10.5rem;
+    font-weight: 500;
+    
+}
+    #s9grid1.css-1633um2-MuiPaper-root{background-color:transparent !important;
+       
+        text-align: center !important;
+        
+       
+        color: #2c2f3b;
+        
+    }
+    /************************************card2********************************************/
+    
+    #persongridmove{animation: mymovenormal 3s;}
+    @keyframes mymovenormal {from {transform: translate(0px,50px);} to {transform: translate();}}
+
+
+
+
+    .mobilecamp769,.mobilecamp425{display: none;}
+    .cardwomen{transform: translateY(-70px);
+        padding-left: 200px;
+        padding-right: 200px;
+       
+    }
+
+.content-type{font-family: mongoose,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1.875rem;
+    color: #e33d3b;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin: 0 0 1rem;
+    line-height: 1em;
+    }
+
+    #women2{font-size: 2rem;
+        color: #2c2f3b;
+        
+}
+#cardreadmoretext{
+    height: 75px;
+}
+.cardReadmore{padding-left: 450px;
+transform: translateY(-20px);}
+.uk-card-footer {
+    display: flow-root;
+     padding: 0; 
+}
+
+.featured-asset a.featured-asset-cta img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: auto;
+}
+
+#linkreadmore{
+    font-size: 1.85rem;
+    color: red;
+    padding-left: 40px;
+    font-family: monospace;
+    font-weight: 500;
+
+
+    
+}
+.cardimagwomen{
+    transform: translate(420px, -65px);
+}
+
+/***********************************************************s10***********************************/
+
+.s10{padding-top: 100px;
+padding-left: 100px;
+padding-right: 100px;}
+
+.gradLin2{
+    background:linear-gradient(270deg,#e33d3b 0,#531cb3 100%);
+    max-width: 100%;
+    width: 1300px;
+    height: 8px;
+    margin-top: 100px;
+    animation: mymove 3s;
+    color: transparent;
+}
+@keyframes mymove{from {width: 0px;}
+to{width:1300px}}
+
+
+
+
+
+/***********************************************81024*******************************************************/
+/*********************************************slide1 l024***********************/
+@media  screen and (max-width:1025px) {
+    /*slide total adjust cheyanne*/
+.s1{padding-top: 200px;
+    padding-left:50px ;
+    padding-right: 50px;
+    padding-bottom: 150px;}
+    
+    .s11{
+        font-size: 130px; 
+        line-height: .78;
+        color: #e33d3b;
+        font-weight: 200 ;
+        text-align: left ;
+        font-family: 'Roboto Condensed', sans-serif;
+        letter-spacing: -0.1em;
+    
+    }
+    /*image size*/ 
+.imgs1{
+    width: 400px !important;
+    margin-left: 10px;
+}
+.s12{font-weight: 400;
+    line-height: 1.5;
+    color: #2c2f3b;
+    text-align: left;
+    font-size: 1.5rem;
+    margin-top: 50px;
+    
+}
+    
+
+/************************************************slide3 1024*********************************************/
+
+    /*div total arrangements*/
+    .s3{padding-left: 50px;
+        padding-right: 50px;
+        padding-top: 100px;}
+
+     /*text aligment heading*/
+.s3text1{font-size: 5.875rem;
+  
+    text-transform: uppercase;
+text-align: center;
+color:  #531cb3;
+font-weight: 300;
+    line-height: .78;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+}
+.s32text1 {
+    font-size: 2.625rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    text-transform: uppercase;
+    color: #531cb3;
+    font-family: 'Roboto Condensed', sans-serif;
+    line-height: .78;
+    padding-bottom: 20px;
+}
+   
+
+
+/****************************************************slide4 1024******************************/
+
+    .s4{
+        padding-top: 100px;
+        background-color: #f8f8f9;
+        padding-bottom: 100px;
+        
+        padding-left: 50px;
+        padding-right: 50px;
+       
+    }
+    #s4studiotext1.css-1633um2-MuiPaper-root{
+        background-color: transparent !important;
+        font-size: 5.875rem;
+        color: #531cb3;
+        font-family: 'Roboto Condensed', sans-serif;
+        font-weight: 400;
+       
+    
+    }
+    #cube.uk-card {
+        height: 650px !important;
+    }
+    
+    
+
+/********************************slide5************************************/
+
+        .s5{
+            padding-left: 50px;
+            padding-right: 50px;
+            padding-top: 50px;
+        }
+        /*imertis*/
+        .s5text1{line-height: .78;
+        margin-bottom: 2.0625rem;
+          
+        font-weight: 300;
+        font-size: 5rem;}
+        /*solution*/
+        .solution5{
+            line-height: .78;
+            
+            color: #e33d3b!important;
+            padding-bottom: 50px !important;
+            font-family: 'Roboto Condensed', sans-serif !important;
+            font-size: 8.5rem;
+            font-weight: 500;
+    
+            
+        }
+   
+
+    /*computer vision*/
+    .laptext1{
+        font-size: 1.3rem !important;
+        text-transform: uppercase !important;
+        text-align: left;
+        
+        font-weight: 700 !important;
+         transform: translateY(-15px);
+      
+            padding-top: 5px;
+            border-top: rgb(14, 14, 14) 10px solid;
+            border-width: 50%;
+        
+    color: #2c2f3b;}
+    /*natural language and content services*/
+    .laptext2{
+        font-size: 1.3rem !important;
+        text-transform: uppercase !important;
+        text-align: left;
+        
+        font-weight: 700 !important;
+         transform: translateY(-15px);
+      
+            padding-top: 15px;
+            
+        
+    color: #2c2f3b;}
+    .laptext2:hover{
+        border-top:gainsboro 10px solid;
+            
+    }
+    
+
+/**************image section******************/
+
+    /*avatar image */
+    #avatar{width: 450px;
+    height: 450px;}
+    /*blue digonal*/
+    .imgavtar1{
+        width: 225px;
+        transform: translate(-40px,-225px);
+     
+         mix-blend-mode: multiply
+     }
+     
+
+
+/*computervision red heading*/
+        .avtext1{font-size: 2.625rem !important;
+           color: #e33d3b!important;
+           font-weight: 700;text-transform: uppercase;
+       padding-top: 100px;
+       font-family: 'Roboto Condensed', sans-serif;
+       line-height: .78;
+       text-align: left;}
+   /*paragraph*/
+       
+           .avtext2{font-size: 1rem;
+         
+           text-align: left;
+           line-height: 1.5;
+           color: #2c2f3b;
+           padding-right: 10px;
+           padding-bottom: 50px;
+           font-family: Arial, Helvetica, sans-serif;
+   
+       }
+       /******************************************slide6******************************************************/
+       .s6{     background-color: #f8f8f9;
+           padding-bottom: 100px;
+           padding-top: 80px;
+           padding-left: 50px;
+           padding-right: 50px;
+           }
+           /*card height adjust */
+           #mergecards6.uk-width-1-1\@m {
+            width: 100%;
+            height: 290px;
+        }
+        /*imerti services*/
+        .s6services{
+            font-size: 6.0rem;
+            text-align: center;
+            font-family: 'Roboto Condensed', sans-serif !important;
+        }
+        #btns6.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+            color: #e33d3b !important;
+            border-color: #e33d3b !important;
+            font-size: 1.5rem !important;
+            line-height: 1.5 !important;
+            font-weight: 400 !important;
+            font-family: monospace !important;
+            transform: translate(0px,-35px);}
+            /*kick*/
+.kick{
+    font-weight: 300;
+    font-family: 'Roboto Condensed', sans-serif !important;
+    line-height: .78;text-align: center!important;
+    font-size: 6rem;
+    color: #2c2f3b;
+}
+/*********************************************************8s7*******************************************/
+.s7{     background-color: #f8f8f9;
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+    padding-top: 100px !important;
+  
+    }
+   /********************************************slide9**************************************/
+    .slide9 {
+        transform: translateY(0px);
+        padding-bottom: 100px;
+        padding-top: 50px;
+    }
+
+    .s9text1{line-height: .78;
+    margin-bottom: 2.0625rem;
+    font-weight: 300;
+    font-size: 6rem;}
+
+
+
+/*imerits*/
+    .s9imertis{    line-height: .78;
+        color: #e33d3b!important;
+        padding-bottom: 50px !important;
+        font-family: 'Roboto Condensed', sans-serif !important;
+        font-size: 10.5rem;
+        font-weight: 500;
+        
+    }
+    /************************************card2********************************************/
+    .cardwomen{transform: translateY(-70px);
+        padding-left: 50px;
+        padding-right: 50px;
+       
+    }
+    .cardimagwomen {
+        transform: translate(380px, -65px);
+    }
+    *+#summlink.uk-margin {
+        margin-top: 20px!important;
+        transform: translatex(230px) !important;
+        align-items: center;
+    }
+
+    .persongrid {
+        padding-left: 50px !important;
+        padding-right: 50px !important;
+    }
+    .s10 {
+        padding-top: 50px;
+        padding-left: 50px;
+        padding-right: 100px;
+    }
+}
+
+/**************************************************769*********************************************/
+@media screen and (max-width: 769px){
+.s1 {
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 150px;
+}
+.s11{display: none;}
+.s11769 {display: block;
+    font-size: 110.16px;
+    line-height: .78;
+    color: #e33d3b;
+    font-weight: 200;
+    text-align: left;
+    font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing: -0.1em;
+}
+
+.s12 {
+    font-weight: 400;
+    line-height: 1.5;
+    color: #2c2f3b;
+    text-align: left;
+    font-size: 1.2rem;
+    margin-top: 50px;
+}
+/*imag*/
+.imgs1 {
+    width: 400px !important;
+    margin-left: 200px;
+}
+
+/************************slide3****************************/
+.s3text1 {
+    font-size: 3.031rem;
+  
+    text-transform: uppercase;
+    text-align: center;
+    color: #531cb3;
+    font-weight: 300;
+    line-height: .78;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.s3text2 {
+    font-size: 1.1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #2c2f3b;
+    text-align: left;
+    background-color: #fff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+#tech769{padding-left: 200px;
+padding-right: 100px;}
+#tech769.gradient-line{transform:translatex(200px);
+    max-width: 50%;}
+
+/******************************s4****************************************/
+.s4{display: none !important;}   
+#s4studiotext769.css-1633um2-MuiPaper-root{
+    font-size: 3.031rem;
+    text-transform: uppercase;
+    text-align: center;
+    color: #531cb3;
+    font-weight: 300;
+    line-height: .78;
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: transparent !important;
+    
+}
+.s4769{
+    display: block;
+        background-color: #f8f8f9;
+       
+        padding-top: 75px;
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-bottom: 75px;
+       
+    }
+    #s4grid769.css-1633um2-MuiPaper-root{
+        padding: 0 !important;
+        
+    }
+    #card4tittle769.css-h93ljk-MuiTypography-root{text-align: left !important;
+        }
+        #card4boday769.css-ahj2mt-MuiTypography-root{text-align: left !important;}
+        .cubetitle769{font-size: 2.7125rem!important;
+        color: #531cb3;
+        line-height: .78;
+        font-weight: bold;
+        text-align: left;
+        font-family: 'Roboto Condensed', sans-serif;
+    padding-top: 25px;
+padding-bottom: 25px;}
+
+.s41text1769{font-size: 1.1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    padding-top: 30px;
+    padding-bottom: 70px;}
+  #cardheight769{height: 438px !important;}  
+  
+  /************************************s5************************************************/
+  .s5text1 {
+    line-height: .78;
+    margin-bottom: 2.0625rem;
+    font-weight: 300;
+    font-size: 3.031rem;
+}
+.solution5 {
+    line-height: .78;
+    color: #e33d3b!important;
+    padding-bottom: 50px !important;
+    font-family: 'Roboto Condensed', sans-serif !important;
+    font-size: 2em;
+    font-weight: 500;
+}
+.data {
+    font-size: 1.1rem;
+    padding-bottom: 30px;
+    text-align: justify;
+    line-height: 1.5;
+}
+.laps5{display: none;}   
+.tab5{display: block;
+padding-top: 30px;}
+#cvision769{
+    padding-top: 15px;
+    text-align: left;
+    padding-left: 10px;
+    font-size: 1.25rem;
+    text-transform: uppercase;
+    text-align: left;
+   color: #2c2f3b;
+    font-weight: 700;
+    padding-bottom: 8px;
+}
+#cvision7692{padding-top: 50px;
+    text-align: left;
+    padding-left: 10px;
+    font-size: 1.25rem;
+    text-transform: uppercase;
+    text-align: left;
+   
+    font-weight: 700;
+    padding-bottom: 8px;}
+    /**************image section******************/
+    /*total lenght*/
+    .avatarimage{
+        padding-top: 50px;
+        height: 500px;
+     }
+    /*avatar image */
+    #avatar{width: 300px;
+        height: 300px;}
+        /*blue digonal*/
+        .imgavtar1{
+            width: 157px;
+            transform: translate(-20px,-155px);
+         
+             mix-blend-mode: multiply
+         }
+         
+
+         .avtext1 {
+            font-size: 2.625rem !important;
+            color: #e33d3b!important;
+            font-weight: 700;
+            text-transform: uppercase;
+           padding-top:50px;
+            font-family: 'Roboto Condensed', sans-serif;
+            line-height: .78;
+            text-align: left;
+        }
+
+        #btns5.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+           
+            font-size: 1.2rem !important;
+           
+        }
+        #mergecards6769.uk-width-1-1\@m {
+            width: 100%;
+            height: 290px;
+            transform: translateX(200px);
+        }
+        .uk-card-titles6 {
+            font-size: 1.5rem!important;
+            color: #531cb3;
+            font-family: 'Roboto Condensed', sans-serif !important;
+            text-transform: uppercase;
+            font-weight: 600;
+            text-align: left;
+        }
+        .s6services {font-size: 3.031rem !important;}        
+    /***********************line************************/
+    .gradient-line-gy {
+        width: 545px;
+        height: 8px;
+        max-width: 100%;
+        margin: 0 auto 3rem;
+        background-image: linear-gradient(90deg,#eef1a2 0,#a2f1c5 76%,#a2f1c5 100%);
+    } 
+    .kick {
+      
+        font-size: 2.8rem;
+        padding-bottom: 40px;
+      
+    }  
+    #btns6.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {font-size: 1.1rem !important;}  
+    .s7text1{
+        line-height: .78;
+        margin-bottom: 2.0625rem;
+        font-weight: 300;
+        font-size: 3.031rem;
+    }
+    .s7imertis{line-height: .78;
+    color: #e33d3b!important;
+    padding-bottom: 50px !important;
+    font-family: 'Roboto Condensed', sans-serif !important;
+    font-size: 2em;
+    font-weight: 500;
+}
+.digarammain{display: none;} 
+/******************************************slideshow**************************************/
+.top-triangle {
+    background-color: #fff;
+    position: absolute;
+    top: -1px;
+    left: 0;
+    width: 100px !important;
+    height: 100px !important;
+    -webkit-clip-path: polygon(0 0,0 100%,100% 0);
+}
+
+.football1 {
+    clip-path: polygon(100% 0,100% 70%,70% 100%,0 100%);
+    width: 560px !important;
+    height: 540px !important;
+    transform: translate(120px, -80px) !important;
+}
+/***********************s9*************************/
+
+.s9text1 {
+    text-align: center;
+    line-height: .78;
+    margin-bottom: 2.0625rem;
+    font-weight: 300;
+   font-size:  3.031rem;
+}
+.s9imertis {
+    line-height: .78;
+    color: #e33d3b!important;
+    padding-bottom: 50px !important;
+    font-family: 'Roboto Condensed', sans-serif !important;
+    font-size: 2em;
+    text-align: center !important;
+    font-weight: 500;
+}
+/************************card**********************************/
+.mobilecamp769{display: block; padding-left: 50px; padding-right: 50px;}
+#mobilecamp769move{animation: mymove769 3s;}
+@keyframes mymove769 {from {transform: translate(0px,50px);}
+to{transform: translate(0px,0px);}}
+.persongrid{display: none;}
+.slide9 {
+    
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.cardwomen{display: none;}
+.cardwomen769{display: block;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+.cardimagwomen769{height: 300px !important;
+width: 660px !important;}
+#cardreadmoretext {
+    height: 40px;
+}
+.cardimagwomen{width: 53px;
+height: 40px;}
+#linkreadmore {
+    font-size: 1.5rem;
+    color: red;
+    text-align: left;
+    padding-left: 40px;
+    font-family: monospace;
+    font-weight: 500;
+}
+.cardimagwomen {
+    transform: translate(280px, -50px);
+}
+.content-type {
+    font-family: 'Roboto Condensed', sans-serif !important;
+    font-size: 1.75rem;
+    color: #e33d3b;
+    text-align: left;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin: 0 0 1rem;
+    line-height: 1em;
+    font-weight: 600;
+}
+#women2 {
+    font-size: 2rem;
+    color: #2c2f3b;
+    padding-right: 100px;
+    text-align: left;
+}
+.women50{
+    font-size: 1.1rem;
+    text-align: left;
+}
+#summit {
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+#watch {
+    font-size: 1.2rem;
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+} 
+/**********************************************s10************************************************/
+#btns11.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+    color: #e33d3b !important;
+    border-color: #e33d3b !important;
+    font-size: 1.2rem !important;
+    line-height: 1.5 !important;
+    font-weight: 400 !important;
+    font-family: 'Roboto Condensed', sans-serif !important;
+     margin-top: 0px; 
+}
+.gradLin2 {
+    background: linear-gradient(270deg,#e33d3b 0,#531cb3 100%);
+    max-width: 100%;
+    width: 1300px;
+    height: 8px;
+    margin-top: 50px;
+    animation: mymove 3s;
+    color: transparent;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/***************************************425******************************************************/
+@media screen and (max-width:426px){
+
+    /*****************************slide1*******************************************/
+    .s1 {
+        padding-top: 100px;
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+        padding-bottom: 150px;
+    height: 810px;}
+    .s11769 {
+        display: block;
+        font-size: 104px;
+        
+    }
+    .s12 {
+        font-weight: 400;
+        line-height: 1.5;
+        color: #2c2f3b;
+        text-align: left;
+        font-size: 1.2rem;
+        margin-top: 50px;
+        margin-bottom: 30px;}
+        .imgs1 {
+            width: 400px !important;
+            margin-left: 70px !important;
+            margin-top: 20px;
+            width: 295px !important;
+
+        }
+        /***********************s3**********************************/
+        .s3 {
+            padding-left: 30px;
+            padding-right: 30px;
+            padding-top: 100px;
+        }
+   
+.s3text1 {
+    font-size: 2.51rem;
+    text-transform: uppercase;
+     text-align: left; 
+    color: #531cb3;
+    font-weight: 300;
+    line-height: .78;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.s3text2 {
+    font-size: 1.1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #2c2f3b;
+    text-align: left;
+    background-color: #fff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.s32text1 {
+    font-size: 2.25rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    text-transform: uppercase;
+    color: #531cb3;
+    font-family: 'Roboto Condensed', sans-serif;
+    line-height: .78;
+    padding-bottom: 20px;
+}
+#tech769.gradient-line {
+    transform: translatex(0px);
+    max-width: 100%;
+}
+#tech769 {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+#s3grid21.css-1633um2-MuiPaper-root {
+    text-align: left !important;
+    padding-bottom: 80px !important;
+}
+/*******************************************s4*************************************************/
+#cardheight769 {
+    height: 350px !important;
+}
+#s4studiotext769.css-1633um2-MuiPaper-root {
+    font-size: 2.7rem;}
+.s4769 {
+    display: block;
+    background-color: #f8f8f9;
+    padding-top: 75px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 105px;
+}
+.cubetitle769 {
+    font-size: 2.5rem!important;
+    color: #531cb3;
+    line-height: .78;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.s41text1769 {
+    font-size: 1.1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    /* text-align: center; */
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 30px;
+    padding-bottom: 70px;
+}
+
+/**************************************************s5***************************************************/
+.s5 {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 100px;
+}
+.s5text1 {
+    line-height: .78;
+    margin-bottom: 2.0625rem;
+    font-weight: 300;
+    font-size: 2.7rem;
+    font-family: 'Roboto Condensed', sans-serif !important;
+}
+
+/**************image section******************/
+    /*total lenght*/
+    .avatarimage{
+        padding-top: 50px;
+        height: 820px;
+     }
+     /******image ************/
+     #avatar {
+        width: 350px;
+        height: 350px;
+    }
+    /*************bluetriangle********/
+    .imgavtar1 {
+        width: 160px;
+        transform: translate(-1px,-155px);
+        mix-blend-mode: multiply;
+    }
+    /***********************************s6*****************************************/
+    #mergecards6.uk-width-1-1\@m {
+        width: 100%;
+        height: 240px;
+    }
+    .s6 {
+        background-color: #f8f8f9;
+        padding-bottom: 100px;
+        padding-top: 80px;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    #mergecards6769.uk-width-1-1\@m {
+        width: 100%;
+        height: 240px;
+        transform: translateX(0px);
+    }
+    .s6secur {
+        padding-top: 10px;
+        font-size: 24px;
+        color: #2c2f3b;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 80px;
+    }
+    /******************************s7*********************************/
+    .s7 {
+        background-color: #f8f8f9;
+        padding-left: 30px !important;
+        padding-right: 30px !important;
+        padding-top: 100px !important;
+    }
+    .s7text1 {
+        line-height: .78;
+        margin-bottom: 2.0625rem;
+        font-weight: 300;
+        font-size: 2.7rem;
+    }
+   /********************************card9******************************/
+    .mobilecamp769{display: none;}
+    .mobilecamp425{display: block; padding-left: 50px; padding-right: 50px;}
+    #mobilecamp425move{
+        animation: mymovec 3s;
+    }
+   
+    @keyframes mymovec {from {transform: translate(0px,20px);}
+to{transform: translate(0px,0px);}}
+
+
+.s9text1 {
+    text-align: center;
+    line-height: .78;
+    margin-bottom: 2.0625rem;
+    font-weight: 300;
+    font-size: 2.7rem;
+}
+/***************************************card***************************************/
+.cardwomen769 {
+    display: block;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+}
+#women2 {
+    font-size: 1.8rem;
+    color: #2c2f3b;
+    padding-right: 00px; 
+    text-align: left;
+}
+.women50 {
+    font-size: 1.2rem;
+    text-align: left;
+    color: #2c2f3b;
+}
+#linkreadmore {
+    font-size: 1.5rem;
+    color: red;
+    text-align: left;
+    padding-left: 20px;
+    font-family: monospace;
+    font-weight: 500;
+}
+.cardimagwomen {
+    transform: translate(160px, -50px);
+}
+.mobilecamp425 {
+    display: block;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+   
+}
+*+#summlink.uk-margin {
+    margin-top: 40px!important;
+    transform: translatex(90px) !important;
+    padding-bottom: 50px;
+    
+}
+/***********************************s10*********************************************/
+.s10 {
+    padding-top: 80px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.s7text1 {
+    line-height: .78;
+    margin-bottom: 2.0rem;
+    font-weight: 300;
+    font-size: 2.7rem;
+}
+
+}
+/**************************************8376px******************************************/
+@media screen and (max-width:376px) {
+    .s11769 {
+        display: block;
+        font-size: 90px;
+    }
+    .imgs1 {
+        width: 400px !important;
+        margin-left: 30px !important;
+        margin-top: 20px;
+        width: 295px !important;
+    }
+    .s32text1 {
+        font-size: 1.9rem;}
+
+
+
+        #avatar {
+            width: 310px;
+            height: 310px;
+        }
+
+        .s6gradi {
+            padding-top: 50px;
+        }
+        .gradient-line-gy {
+            width: 300px;}
+
+/*******************************slideshow***********************************/
+
+.cardimagwomen {
+    transform: translate(140px, -50px);
+}
+    
+
+*+#summlink.uk-margin {
+    margin-top: 40px!important;
+    transform: translatex(70px) !important;
+    padding-bottom: 50px;
+    
+}
+
+}
+@media screen and (max-width:321px) {
+    .imgs1 {
+        width: 400px !important;
+        margin-left: 0px !important;
+        margin-top: 20px;
+        width: 295px !important;
+    }
+    .s32text1 {
+        font-size: 1.6rem;
+    }
+
+    #cardheight769 {
+        height: 480px !important;
+    }
+
+    .solution5 {
+        line-height: .78;
+        color: #e33d3b!important;
+        padding-bottom: 50px !important;
+        font-family: 'Roboto Condensed', sans-serif !important;
+        font-size: 1.7em;
+        font-weight: 500;
+    }
+
+    #avatar {
+        width: 260px;
+        height: 260px;
+    }
+    .imgavtar1 {
+        width: 140px;
+        transform: translate(-1px,-140px);
+        mix-blend-mode: multiply;
+    }
+    #mergecards6.uk-width-1-1\@m {
+        width: 100%;
+        height: 260px;
+    }
+}
+
+
+
+
+  
+svg {
+    position: absolute;
+    top: -1px;
+    right: 0;
+    z-index: 1;
+    width: 30px;
+    height: 40px;
+}
+.svgcolor{
+    
+    stroke:#e33d3b;
+}
+.hai{color:transparent;}
+
+
+
+
+#btns11.css-1rwt2y5-MuiButtonBase-root-MuiButton-root:hover .hai{color: #e33d3b;}
+#btns11.css-1rwt2y5-MuiButtonBase-root-MuiButton-root:hover .svgcolor{stroke: white;}
+#btns11.css-1rwt2y5-MuiButtonBase-root-MuiButton-root:hover{background-color: #e33d3b;
+color: #fff !important;}
+
+#btns11.css-1rwt2y5-MuiButtonBase-root-MuiButton-root:hover  #button-svg{
+    animation: mymovesbutton 1s; 
+    transform: translateX(-10px) rotate(145deg);  
+}
+@keyframes mymovesbutton {
+    0%   {transform: rotate(10deg);}
+     25%  {transform: rotate(20deg);}
+     50%  {transform: rotate(30deg);}
+     100% {transform: rotate(130deg);}
+   }
+ 
+   #btns6.css-1rwt2y5-MuiButtonBase-root-MuiButton-root:hover  #button-svg{
+    animation: mymovesbutton 1s; 
+    transform: translateX(-10px) rotate(145deg);  
+}
+@keyframes mymovesbutton {
+    0%   {transform: rotate(10deg);}
+     25%  {transform: rotate(20deg);}
+     50%  {transform: rotate(30deg);}
+     100% {transform: rotate(130deg);}
+   }
+
+
+   #btns6.css-1rwt2y5-MuiButtonBase-root-MuiButton-root:hover .hai{color: #e33d3b;}
+  #btns6.css-1rwt2y5-MuiButtonBase-root-MuiButton-root:hover .svgcolor{stroke: white;}
+#btns6.css-1rwt2y5-MuiButtonBase-root-MuiButton-root:hover{background-color: #e33d3b;
+color: #fff !important;}
+.svgcolor2{stroke: aqua !important;}
