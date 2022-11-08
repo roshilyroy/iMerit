@@ -1,0 +1,12 @@
+h1{color: #531cb3;font-size: 75px !important;
+    transform: translate(-200px,200px) !important;
+    font-family: mongoose,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji" !important;
+    font-weight: 100 !important;
+    }
+p{transform: translate(70px,-150px);font-size: 25px;
+        width: 720px !important;text-align: left;
+    }
+.slide1 img{border-radius: 360%;height: 350px;}  
+    
+    
+    

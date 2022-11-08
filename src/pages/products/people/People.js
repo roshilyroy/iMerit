@@ -3,7 +3,7 @@ import './People.css'
 
 function People() {
   return (
-    <div>People</div>
+    <div>Peoplekkjbsavj</div>
   )
 }
 

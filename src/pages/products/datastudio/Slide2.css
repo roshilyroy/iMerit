@@ -1,0 +1,11 @@
+.slide2 img{transform: translate(50px,40px) !important;
+    border-radius: 0%;
+}
+.slide2{background-color: #f8f8f9;}
+h2{transform: translate(130px,-330px);font-size: 35px !important;}
+.slide2 p{transform: translate(500px,-300px);font-size: 18px;width: 650px !important;}
+#p1{width: 700px !important;}
+ul{transform: translate(530px,-300px);
+text-align: left;
+}
+li{list-style:inside;}
