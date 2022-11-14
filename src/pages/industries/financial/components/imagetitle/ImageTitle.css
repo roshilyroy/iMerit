@@ -1,0 +1,242 @@
+.imgtitle h1,.imgtitle p{
+  position: relative;
+  animation-name: example;
+ animation-fill-mode: forwards;
+animation-duration: 3s;
+}
+@keyframes example {
+    from {left: 100px;opacity:0; }
+     to {left: 0px;opacity:1; }
+   
+   }
+   .imgt1{
+    background-color: #531cb3 !important;
+   }
+   .imgtitle{
+  
+    color: white !important;
+ text-align: left !important;
+   }
+   .imgtitle h1{
+    color: white !important;
+    font-size:xx-large;
+    line-height:3.5rem !important;
+   }
+   .imgtitle p{
+   
+    text-transform:uppercase;
+    line-height:3.5rem !important;
+   }
+@media (min-width:1200px){
+  .imgshape{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 108%;
+    clip-path: polygon(55% 0,100% -25%,30% 100%,0 100%);
+    transform: translate(890px,2780px);
+height: 96%;
+}
+.imgtitle{
+ padding-left: 300px;
+ padding-right: 550px;
+ height: 600px;
+margin-top: -500px;
+}
+.imgtitle h1{
+    transform: translateY(-125px);
+}
+.imgtitle p{
+  transform: translateY(-50px);
+  font-size:1.2rem !important;
+}
+.triangle3{
+  width: 0;
+  height: 0;
+  border-top: 250px solid white;
+  border-right: 250px solid transparent;
+  transform: translateX(-300px);
+} 
+}
+@media (min-width:900px) and (max-width:1200px){
+  .imgshape{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 108%;
+    clip-path: polygon(80% 0,100% 30%,45% 100%,0 100%);
+    transform: translate(310px,3243px);
+height: 137%;
+
+}
+.imgtitle{
+ padding-left: 125px;
+ padding-right:430px;
+ height: 600px;
+margin-top: -500px;
+
+}
+.imgtitle h1{
+    transform: translateY(-240px);
+    
+}
+.imgtitle p{
+  transform: translateY(-230px);
+  font-size:0.8rem !important;
+  
+}
+.triangle3{
+  width: 0;
+  height: 0;
+  border-top: 350px solid white;
+  border-right: 350px solid transparent;
+  transform: translateX(-300px);
+  
+} 
+}
+@media (min-width:500px) and (max-width:900px){
+  .imgshape{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 90%;
+    clip-path: polygon(100% 0,100% 55%,55% 100%,0 100%);
+    transform: translate(0px,3503px);
+height: 110%;
+
+}
+.imgtitle{
+ padding-left: 125px;
+ padding-right:250px;
+ height: 800px;
+margin-top: -1850px;
+
+
+}
+.imgtitle h1{
+    transform: translateY(-240px);
+    
+}
+.imgtitle p{
+  transform: translateY(-230px);
+  font-size:0.8rem !important;
+  
+}
+.triangle3{
+  width: 0;
+  height: 0;
+  border-top: 300px solid white;
+  border-right: 300px solid transparent;
+  transform: translateX(-300px);
+  
+} 
+}
+@media (min-width:400px) and (max-width:500px){
+  .imgshape{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 103%;
+    clip-path: polygon(100% 0,100% 55%,55% 100%,0 100%);
+    transform: translate(0px,6484px);
+height: 90%;
+
+}
+.imgtitle{
+ padding-left: 55px;
+ padding-right:160px;
+ height: 800px;
+margin-top: 200px;
+}
+.imgtitle h1{
+    transform: translateY(-240px);
+    font-size: 1.6rem !important;
+    line-height: 35px !important;
+}
+.imgtitle p{
+  transform: translateY(-230px);
+  font-size:0.8rem !important;
+  line-height: 20px !important;
+}
+.triangle3{
+  width: 0;
+  height: 0;
+  border-top: 325px solid white;
+  border-right: 325px solid transparent;
+  transform: translateX(-300px);
+  
+} 
+}
+@media (min-width:350px) and (max-width:400px){
+  .imgshape{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 110%;
+    clip-path: polygon(100% 0,100% 55%,55% 100%,0 100%);
+    transform: translate(0px,6499px);
+height: 90%;
+
+}
+.imgtitle{
+ padding-left: 55px;
+ padding-right:100px;
+ height: 800px;
+margin-top: 200px;
+}
+.imgtitle h1{
+    transform: translateY(-240px);
+    font-size: 1.6rem !important;
+    line-height: 35px !important;
+}
+.imgtitle p{
+  transform: translateY(-230px);
+  font-size:0.8rem !important;
+  line-height: 20px !important;
+}
+.triangle3{
+  width: 0;
+  height: 0;
+  border-top: 325px solid white;
+  border-right: 325px solid transparent;
+  transform: translateX(-300px);
+  
+} 
+}
+
+@media (min-width:300px) and (max-width:350px){
+  .imgshape{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 110%;
+    clip-path: polygon(100% 0,100% 55%,55% 100%,0 100%);
+    transform: translate(0px,6501px);
+height: 90%;
+
+}
+.imgtitle{
+ padding-left: 55px;
+ padding-right:100px;
+ height: 800px;
+margin-top: 150px;
+}
+.imgtitle h1{
+    transform: translateY(-240px);
+    font-size: 1.6rem !important;
+    line-height: 35px !important;
+}
+.imgtitle p{
+  transform: translateY(-230px);
+  font-size:0.74rem !important;
+  line-height: 20px !important;
+}
+.triangle3{
+  width: 0;
+  height: 0;
+  border-top: 325px solid white;
+  border-right: 325px solid transparent;
+  transform: translateX(-300px);
+  
+} 
+}

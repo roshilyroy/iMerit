@@ -1,0 +1,117 @@
+.bckimg7{
+    background-image:url("https://imerit.net/wp-content/uploads/2020/11/White-house.jpeg") ;
+}
+.bckimg8{
+background-image: url("https://imerit.net/wp-content/uploads/2020/11/Capitol.jpeg");
+}
+.bckimg9{
+    background-image: url("https://imerit.net/wp-content/uploads/2020/11/Treasury.jpeg");
+}
+
+@media (min-width:1200px){
+.svgbut3{
+    transform: translate(695px,-700px);
+    position: relative;
+    top: -50;
+    left: 0;
+   padding-top: 11px;
+   padding-bottom: 8px;
+    width: 9.5%;
+    height: 115%;
+}
+}
+
+.svgbut3:hover #linefirst{
+    animation-name: linesvgfirst;
+    animation-duration: 2s;
+    animation-delay: 1s;
+    }
+    .svgbut3:hover #line1first{
+    transform: rotate(16deg) scale(.45);
+    transform-origin: 0px 40px;
+    transition-duration: 1s;
+    }
+    .svgbut3:hover #line3first{
+    transition-duration: 1s;
+    transform: rotate(36deg) scale(1);
+    transform-origin: 0px 5px;
+    }
+.svgbut3:hover{
+      background-color: none; 
+      animation-name:bgsvganm1;
+    animation-delay: 1.5s !important;
+    animation-duration: 1s;
+      animation-fill-mode: forwards;
+    
+    }
+.svgbut3:hover line {
+      stroke:#531cb3 !important;
+    }
+.svgbut3 a{
+      color: #e33d3b;
+    }
+    .svgbut3:hover.svgbut3 a{
+      color: white;
+      transition-delay:1.5s;
+    }
+    @media (min-width:900px) and (max-width:1200px){
+        .svgbut3{
+            transform: translate(450px,-730px);
+            position: relative;
+            top: -50;
+            left: 0;
+           padding-top: 11px;
+           padding-bottom: 8px;
+            width: 14%;
+            height: 115%;
+        }  
+    }
+    @media (min-width:500px) and (max-width:900px){
+        .svgbut3{
+            transform: translate(315px,30px);
+            position: relative;
+            top: -50;
+            left: 0;
+           padding-top: 11px;
+           padding-bottom: 8px;
+            width: 19%;
+            height: 115%;
+        }  
+    }
+
+    @media (min-width:400px) and (max-width:500px){
+        .svgbut3{
+            transform: translate(145px,30px);
+            position: relative;
+            top: -50;
+            left: 0;
+           padding-top: 11px;
+           padding-bottom: 8px;
+            width: 33%;
+            height: 115%;
+        }  
+    }
+    @media (min-width:350px) and (max-width:400px){
+        .svgbut3{
+            transform: translate(120px,30px);
+            position: relative;
+            top: -50;
+            left: 0;
+           padding-top: 11px;
+           padding-bottom: 8px;
+            width: 38%;
+            height: 115%;
+        }  
+    }
+    @media (min-width:300px) and (max-width:350px){
+        .svgbut3{
+            transform: translate(90px,15px);
+            position: relative;
+            top: -50;
+            left: 0;
+           padding-top: 11px;
+           padding-bottom: 8px;
+            width: 45%;
+            height: 115%;
+        }  
+    }

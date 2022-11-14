@@ -1,0 +1,89 @@
+@media (min-width:1200px){
+    .imgshapeth{
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      width: 108%;
+      clip-path: polygon(55% 0,100% -25%,30% 100%,0 100%);
+      transform: translate(890px,2472px);
+  height: 95.5%;
+  }
+  .trith{
+    margin-left: -60px !important;
+  }
+}
+  @media (min-width:900px) and (max-width:1200px){
+
+    .imgshapeth{
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      width: 100%;
+      clip-path: polygon(100% 0,110% 40%,55% 100%,0 100%);
+      transform: translate(212px,2604px);
+  height: 120%;
+    }
+}
+  
+  @media (min-width:500px) and (max-width:900px){
+    .imgsrdthtitle{
+        margin-top: -500px !important;
+    }
+    .imgshapeth{
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      width: 90%;
+      clip-path: polygon(100% 0,100% 55%,55% 100%,0 100%);
+      transform: translate(0px,2512px);
+  height: 110%;
+    }
+}
+  
+  @media (min-width:400px) and (max-width:500px){
+    .imgsrdthtitle{
+        margin-top: 30px !important;
+    }
+    .imgshapeth{
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      width: 103%;
+      clip-path: polygon(100% 0,100% 55%,55% 100%,0 100%);
+      transform: translate(0px,2941px);
+  height: 90%;
+  
+  }
+}
+  
+  @media (min-width:350px) and (max-width:400px){
+    .imgsrdthtitle{
+        margin-top: -500px !important;
+    }
+    .imgshapeth{
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      width: 109%;
+      clip-path: polygon(100% 0,100% 55%,55% 100%,0 100%);
+      transform: translate(0px,3191px);
+  height: 90%;
+  
+  }
+}
+  
+  @media (min-width:300px) and (max-width:350px){
+    .imgsrdthtitle{
+        margin-top: -550px !important;
+    }
+    .imgshapeth{
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      width: 111%;
+      clip-path: polygon(100% 0,100% 55%,55% 100%,0 100%);
+      transform: translate(0px,3196px);
+  height: 80%;
+  
+  }
+}

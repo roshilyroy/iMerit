@@ -1,0 +1,54 @@
+.tha{
+    color: #000000 !important;
+ text-align: start !important;
+ 
+}
+.thb{
+    color: #531cb3 !important;
+}
+.thc{
+    color: #e33d3b !important;
+}
+.thh{
+    font-size: 1.3rem !important;
+}
+@media (min-width:1200px){
+    .tha{
+    margin-left: 8% !important;
+    margin-top: -100px !important;
+    }
+}
+@media (min-width:900px) and (max-width:1200px) {
+    .tha{
+    margin-left: 5% !important;
+    margin-top: -250px !important;
+    }
+}
+@media (min-width:500px) and (max-width:900px) {
+    .tha{
+    margin-left: 6% !important;
+    margin-top: 80px !important;
+    }
+}
+@media (min-width:400px) and (max-width:500px) {
+    .tha{
+    margin-left: 7% !important;
+    margin-top: 80px !important;
+    margin-bottom: 40px !important;
+    }
+}
+@media (min-width:350px) and (max-width:400px) {
+    .tha{
+    margin-left: 7% !important;
+    margin-top: 80px !important;
+    margin-bottom: 40px !important;
+    }
+}
+@media (min-width:300px) and (max-width:350px) {
+    .tha{
+        font-size: 4rem !important;
+    margin-left: 7% !important;
+    margin-top: 70px !important;
+    margin-bottom: 40px !important;
+    }
+}
